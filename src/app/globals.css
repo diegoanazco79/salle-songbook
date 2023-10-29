@@ -2,3 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+.app {
+  @apply bg-lightPurple-50;
+  padding: 1rem;
+  overflow-x: hidden;
+}

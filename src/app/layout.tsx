@@ -19,7 +19,7 @@ export default function RootLayout ({
   children: React.ReactNode
 }) {
   return (
-    <html lang='en' className='light bg-lightPurple-50'>
+    <html lang='en' className='light app'>
       <body className={inter.className}>
         <Providers>
           {children}
