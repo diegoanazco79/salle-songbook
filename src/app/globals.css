@@ -4,6 +4,6 @@
 
 .app {
   @apply bg-lightPurple-50;
-  padding: 1rem;
+  padding: 2rem;
   overflow-x: hidden;
 }
