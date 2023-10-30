@@ -1,14 +1,20 @@
 'use client';
 
-import React from 'react';
+import React, { useState } from 'react';
 import Link from 'next/link';
 
-import { songsList } from './utils/constants';
+import LineChords from './components/LineChords';
+import ModeSelector from './components/ModeSelector';
+import SimpleLine from './components/SimpleLine';
+
+import { songsList, songListWithChords, LYRICS_MODE, CHORDS_MODE } from './utils/constants';
 import { AiOutlineArrowLeft } from 'react-icons/ai';
 
 const SongPage = ({ params }: { params: { song: string } }) => {
-  const currentSong = songsList.find(song => song.url === params.song);
-  const isChorus = (line: string) => line === line.toUpperCase();
+  const currentSong = songsList.find((song) => song.url === params.song);
+  const currentSongWithChords = songListWithChords.find((song) => song.url === params.song);
+
+  const [mode, setMode] = useState(LYRICS_MODE);
 
   return (
     <main className='max-w-screen-sm mx-auto'>
@@ -19,19 +25,12 @@ const SongPage = ({ params }: { params: { song: string } }) => {
         <AiOutlineArrowLeft className='mr-2' /> Volver a la lista de canciones
       </Link>
 
-      <h1 className='font-bold text-2xl text-center mt-8'>{currentSong?.title}</h1>
-      <div className='mt-2 md:mt-4'>
-        {currentSong?.paragraphs.map((paragraph, idx) => (
-          <p key={idx} className='text-center py-2'>
-            {paragraph.map((line, idx) => (
-              <span className={`text-center text-xs md:text-base ${isChorus(line) ? 'font-semibold' : ''}`} key={idx}>
-                {line}
-                <br />
-              </span>
-            ) )}
-          </p>
-        ))}
-      </div>
+      <h1 className='font-bold text-2xl text-center mt-8'>
+        {currentSong?.title}
+      </h1>
+      <ModeSelector mode={mode} setMode={setMode} />
+      {mode === LYRICS_MODE && <SimpleLine currentSong={currentSong} />}
+      {mode === CHORDS_MODE && <LineChords paragraphs={currentSongWithChords?.paragraphs} />}
     </main>
   );
 };

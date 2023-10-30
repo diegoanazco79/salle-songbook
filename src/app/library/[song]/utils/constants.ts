@@ -1,3 +1,6 @@
+export const LYRICS_MODE = 'lyrics';
+export const CHORDS_MODE = 'chords';
+
 export const songsList = [
   {
     title: 'Alma misionera',
@@ -338,6 +341,121 @@ export const songsList = [
       ['HAY QUE SABER QUE POR TU CRUZ SE VIVE UNA', 'VIDA MEJOR, PERO SEÑOR, COMO NOS CUESTA', 'CREERLO CON EL CORAZÓN.', 'QUIERO, SEÑOR, VIVIR PARA TI Y SER DE LOS', 'DEMÁS. CON TU PALABRA Y MI CANSANCIO', 'HAREMOS LA VIDA CRECER.'],
       ['Miro a Dios y a la gente porque yo soy de los dos. De', 'su vida y su silencio yo haré mi canción. Como María', 'y el trigo desde el vientre dan la luz, quiero en mi vida', 'fecunda, nacer a tu entrega, Señor.'],
       ['HAY QUE SABER QUE POR TU CRUZ SE VIVE UNA', 'VIDA MEJOR, PERO SEÑOR, COMO NOS CUESTA', 'CREERLO CON EL CORAZÓN.', 'QUIERO, SEÑOR, VIVIR PARA TI Y SER DE LOS', 'DEMÁS. CON TU PALABRA Y MI CANSANCIO', 'HAREMOS LA VIDA CRECER.']
+    ]
+  }
+];
+
+export const songListWithChords = [
+  {
+    title: 'Alma misionera',
+    url: 'alma-misionera',
+    paragraphs: [
+      [{
+        chords: [
+          { position: 0, chord: 'G(D)' },
+          { position: 14, chord: 'Em(C)' },
+          { position: 34, chord: 'G' }
+        ],
+        line: 'Señor toma mi vida nueva antes de que la espera'
+      },
+      {
+        chords: [
+          { position: 9, chord: 'F(D)' },
+          { position: 21, chord: 'G(C)' },
+          { position: 39, chord: 'Em(C)' }
+        ],
+        line: 'desgaste años en mí. Estoy dispuesto a lo que'
+      },
+      {
+        chords: [
+          { position: 17, chord: 'G' },
+          { position: 34, chord: 'C' },
+          { position: 39, chord: 'D' },
+          { position: 45, chord: 'G' }
+        ],
+        line: 'quieras, no importa lo que sea tu llámame a servir.'
+      }],
+      [{
+        chords: [
+          { position: 0, chord: 'C' },
+          { position: 3, chord: 'D' },
+          { position: 5, chord: 'G' },
+          { position: 14, chord: 'D' },
+          { position: 27, chord: 'Em' }
+        ],
+        line: 'LLÉVAME DONDE LOS HOMBRES NECESITEN TUS'
+      },
+      {
+        chords: [
+          { position: 1, chord: 'C' },
+          { position: 12, chord: 'G' },
+          { position: 28, chord: 'D' }
+        ],
+        line: 'PALABRAS, NECESITEN MIS GANAS DE VIVIR.'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'C' },
+          { position: 2, chord: 'D' },
+          { position: 4, chord: 'G' },
+          { position: 13, chord: 'D' },
+          { position: 27, chord: 'Em' }
+        ],
+        line: 'DONDE FALTE LA ESPERANZA, DONDE TODO SEA'
+      },
+      {
+        chords: [
+          { position: 1, chord: 'C' },
+          { position: 13, chord: 'G' },
+          { position: 17, chord: 'D' },
+          { position: 28, chord: 'G' }
+        ],
+        line: 'TRISTE SIMPLEMENTE POR NO SABER DE TI.'
+      }],
+      [{
+        chords: [],
+        line: 'Te doy mi corazón sincero para gritar sin miedo lo'
+      },
+      {
+        chords: [],
+        line: 'hermoso que es tu amor. Señor tengo alma misionera,'
+      },
+      {
+        chords: [],
+        line: 'condúceme a la tierra que tenga sed de Ti.'
+      }],
+      [{
+        chords: [],
+        line: 'Y así, en marcha iré cantando, por pueblos'
+      },
+      {
+        chords: [],
+        line: 'predicando tu grandeza Señor. Tendré mis brazos'
+      },
+      {
+        chords: [],
+        line: 'sin cansancio, tu historia entre mis labios, tu fuerza'
+      },
+      {
+        chords: [],
+        line: 'en la oración.'
+      }],
+      [{
+        chords: [],
+        line: 'LLÉVAME DONDE LOS HOMBRES NECESITEN TUS'
+      },
+      {
+        chords: [],
+        line: 'PALABRAS, NECESITEN MIS GANAS DE VIVIR.'
+      },
+      {
+        chords: [],
+        line: 'DONDE FALTE LA ESPERANZA, DONDE TODO SEA'
+      },
+      {
+        chords: [],
+        line: 'TRISTE SIMPLEMENTE POR NO SABER DE TI.'
+      }]
     ]
   }
 ];
