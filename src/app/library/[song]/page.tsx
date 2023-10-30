@@ -20,7 +20,7 @@ const SongPage = ({ params }: { params: { song: string } }) => {
       </Link>
 
       <h1 className='font-bold text-2xl text-center mt-8'>{currentSong?.title}</h1>
-      <div className='mt-4'>
+      <div className='mt-2 md:mt-4'>
         {currentSong?.paragraphs.map((paragraph, idx) => (
           <p key={idx} className='text-center py-2'>
             {paragraph.map((line, idx) => (
