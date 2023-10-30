@@ -457,5 +457,112 @@ export const songListWithChords = [
         line: 'TRISTE SIMPLEMENTE POR NO SABER DE TI.'
       }]
     ]
+  },
+  {
+    title: 'Alto escúchame',
+    url: 'alto-escuchame',
+    paragraphs: [
+      [{
+        chords: [
+          { position: 0, chord: 'G' },
+          { position: 14, chord: 'C' },
+          { position: 21, chord: 'D' },
+          { position: 41, chord: 'G' }
+        ],
+        line: 'Alto, escúchame no sigas caminando más. Hoy'
+      },
+      {
+        chords: [
+          { position: 5, chord: 'C' },
+          { position: 18, chord: 'D' },
+          { position: 39, chord: 'G' }
+        ],
+        line: 'quiero decirte lo que hizo Dios en mí. Tienes que'
+      },
+      {
+        chords: [
+          { position: 6, chord: 'C' },
+          { position: 13, chord: 'D' },
+          { position: 25, chord: 'G' }
+        ],
+        line: 'saber que un día yo acepté al Señor, soy un hombre'
+      },
+      {
+        chords: [
+          { position: 5, chord: 'C' },
+          { position: 11, chord: 'D' },
+          { position: 21, chord: 'G7' }
+        ],
+        line: 'nuevo, y ahora vivo para Él.'
+      }],
+      [{
+        chords: [
+          { position: 5, chord: 'C' },
+          { position: 18, chord: 'D' },
+          { position: 28, chord: 'G' }
+        ],
+        line: 'QUE ALEGRÍA ES SER, UN TESTIGO DE DIOS. ES'
+      },
+      {
+        chords: [
+          { position: 4, chord: 'C' },
+          { position: 16, chord: 'D' },
+          { position: 26, chord: 'G' },
+          { position: 29, chord: 'Em' }
+        ],
+        line: 'SENTIRLE POR FE EN EL CORAZÓN. Y AUNQUE'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'C' },
+          { position: 9, chord: 'D' },
+          { position: 24, chord: 'G' },
+          { position: 34, chord: 'Em' }
+        ],
+        line: 'TODOS ME DIGAN QUE ESO NO ES VERDAD YO LO'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'C' },
+          { position: 11, chord: 'D' },
+          { position: 24, chord: 'G' },
+          { position: 31, chord: 'D' },
+          { position: 35, chord: 'G' }
+        ],
+        line: 'SIENTO EN MI VIDA, AÚN MÁS, MUCHO MÁS.'
+      }],
+      [{
+        chords: [],
+        line: 'Dios te quiere a ti eres importante para Él, tienes'
+      },
+      {
+        chords: [],
+        line: 'que aceptarlo ahora mismo por la fe. Aunque tengas'
+      },
+      {
+        chords: [],
+        line: 'dudas el después te las aclarará, deja el conformismo'
+      },
+      {
+        chords: [],
+        line: 'de este mundo y síguele.'
+      }],
+      [{
+        chords: [],
+        line: 'QUE ALEGRÍA ES SER, UN TESTIGO DE DIOS. ES'
+      },
+      {
+        chords: [],
+        line: 'SENTIRLE POR FE EN EL CORAZÓN. Y AUNQUE'
+      },
+      {
+        chords: [],
+        line: 'TODOS ME DIGAN QUE ESO NO ES VERDAD YO LO'
+      },
+      {
+        chords: [],
+        line: 'SIENTO EN MI VIDA, AÚN MÁS, MUCHO MÁS.'
+      }]
+    ]
   }
 ];
