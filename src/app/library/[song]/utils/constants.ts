@@ -139,9 +139,10 @@ export const songsList = [
       ['TE ALABAMOS (2) TE BENDECIMOS (2)', 'TE ADORAMOS (2) TE GLORIFICAMOS (2)'],
       ['Te damos, gracias, por tu inmensa gloria.'],
       ['SEÑOR HIJO ÚNICO, JESUCRISTO, SEÑOR DIOS', 'CORDERO DE DIOS, HIJO DEL PADRE', 'TÚ QUE QUITAS EL PECADO, EL PECADO DEL', 'MUNDO, TEN PIEDAD DE NOSOTROS, TEN PIEDAD', 'DE NOSOTROS.'],
+      ['TÚ QUE QUITAS EL PECADO, EL PECADO DEL', 'MUNDO, ATIENDE, ATIENDE, A NUESTRA', 'SÚPLICA.'],
       ['TÚ QUE ESTÁS A LA DERECHA, A LA DERECHA DEL', 'PADRE, TEN PIEDAD DE NOSOTROS (2)'],
-      ['Porque sólo Tú eres santo, sólo Tú Señor,', 'sólo Tú altísimo, Jesuscristo con el Espíritu Santo,'],
-      ['EN LA GLORIA DE DIOS PADRE, AMÉN']
+      ['Porque sólo Tú eres santo, sólo Tú Señor,', 'sólo Tú altísimo, Jesucristo, Jesucristo.'],
+      ['Con el Espíritu Santo en la gloria de Dios Padre. Amén']
     ]
   },
   {
@@ -1513,6 +1514,230 @@ export const songListWithChords = [
         line: 'HAY NADIE COMO TÚ.'
       }
       ]
+    ]
+  },
+  {
+    title: 'Gloria al Señor',
+    url: 'gloria-al-senor',
+    paragraphs: [
+      [{
+        chords: [
+          { position: 0, chord: 'Am' },
+          { position: 14, chord: 'F#m' },
+          { position: 20, chord: 'Bm' },
+          { position: 35, chord: 'E' }
+        ],
+        line: 'Gloria al Señor que &está en el cielo, Gloria al Señor'
+      },
+      {
+        chords: [],
+        line: 'que está en la tierra. Paz a los hombres de buena'
+      },
+      {
+        chords: [],
+        line: 'voluntad. Te alabamos Señor, bendecimos tu amor, y'
+      },
+      {
+        chords: [],
+        line: 'con tu dulce paz, danos tu bendición.'
+      }],
+      [{
+        chords: [],
+        line: 'Hijo de Dios, eres Tú, Cristo, y estás sentado, a su'
+      },
+      {
+        chords: [],
+        line: 'derecha. Paz a las almas que suplican perdón. Te'
+      },
+      {
+        chords: [],
+        line: 'alabamos Señor, bendecimos tu amor; Santo'
+      },
+      {
+        chords: [],
+        line: 'Espiritú, tu gracia danos hoy, tu gracia danos hoy,'
+      },
+      {
+        chords: [],
+        line: 'tu gracia danos hoy.'
+      }]
+    ]
+  },
+  {
+    title: 'Gloria Giombini',
+    url: 'gloria-giombini',
+    paragraphs: [
+      [{
+        chords: [
+          { position: 0, chord: 'CGC' },
+          { position: 5, chord: '(FG)' },
+          { position: 11, chord: 'x2' }
+        ],
+        line: 'Gloria, gloria, '
+      },
+      {
+        chords: [
+          { position: 0, chord: 'C' },
+          { position: 2, chord: 'Em' },
+          { position: 14, chord: 'Am' },
+          { position: 24, chord: 'F' },
+          { position: 30, chord: 'CGC(FG)' }
+        ],
+        line: 'a Dios en lo alto del cielo, gloria.'
+      }],
+      [{
+        chords: [
+          { position: 0, chord: 'C' },
+          { position: 8, chord: 'G' },
+          { position: 12, chord: 'C' },
+          { position: 17, chord: '(FG)x2' }
+        ],
+        line: 'Y en la tierra, &&&&&'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'C' },
+          { position: 4, chord: 'Em' },
+          { position: 12, chord: 'Am' },
+          { position: 16, chord: 'F' }
+        ],
+        line: 'paz a los hombres, (bis)'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'C' },
+          { position: 6, chord: 'G' },
+          { position: 14, chord: 'C' },
+          { position: 18, chord: 'C7' }
+        ],
+        line: 'que ama el Señor. &&&&'
+      }
+      ],
+      [{
+        chords: [
+          { position: 0, chord: 'F' },
+          { position: 17, chord: 'C' }
+        ],
+        line: 'TE ALABAMOS (2) TE BENDECIMOS (2)'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'F' },
+          { position: 17, chord: 'G' }
+        ],
+        line: 'TE ADORAMOS (2) TE GLORIFICAMOS (2)'
+      }],
+      [{
+        chords: [
+          { position: 0, chord: 'C' },
+          { position: 3, chord: 'G' },
+          { position: 6, chord: 'C' },
+          { position: 10, chord: '(FG)x2' }
+        ],
+        line: 'Te damos gracias'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'C' },
+          { position: 4, chord: 'G' },
+          { position: 8, chord: 'Am' },
+          { position: 12, chord: 'F' },
+          { position: 14, chord: '(CGC)E7' }
+        ],
+        line: 'por tu imensa Gloria.'
+      }],
+      [{
+        chords: [
+          { position: 0, chord: 'Am' },
+          { position: 12, chord: 'Em' },
+          { position: 18, chord: 'F' },
+          { position: 27, chord: 'G' },
+          { position: 33, chord: 'C' }
+        ],
+        line: 'SEÑOR HIJO ÚNICO, JESUCRISTO, SEÑOR DIOS'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'Am' },
+          { position: 12, chord: 'Em' },
+          { position: 18, chord: 'F' },
+          { position: 23, chord: 'G' },
+          { position: 30, chord: 'C' }
+        ],
+        line: 'CORDERO DE DIOS, HIJO DEL PADRE'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'Am' },
+          { position: 21, chord: 'Em' },
+          { position: 26, chord: 'Am' }
+        ],
+        line: 'TÚ QUE QUITAS EL PECADO, EL PECADO DEL'
+      },
+      {
+        chords: [
+          { position: 3, chord: 'Em' },
+          { position: 8, chord: 'F' },
+          { position: 25, chord: 'C' },
+          { position: 31, chord: 'D' }
+        ],
+        line: 'MUNDO, TEN PIEDAD DE NOSOTROS, TEN PIEDAD'
+      },
+      {
+        chords: [
+          { position: 5, chord: 'G' }
+        ],
+        line: 'DE NOSOTROS.'
+      }],
+      [{
+        chords: [],
+        line: 'TÚ QUE QUITAS EL PECADO, EL PECADO DEL'
+      },
+      {
+        chords: [],
+        line: 'MUNDO, ATIENDE, ATIENDE, A NUESTRA'
+      },
+      {
+        chords: [],
+        line: 'SÚPLICA.'
+      }],
+      [{
+        chords: [],
+        line: 'TÚ QUE ESTÁS A LA DERECHA, A LA DERECHA DEL'
+      },
+      {
+        chords: [],
+        line: 'PADRE, TEN PIEDAD DE NOSOTROS (2)'
+      }],
+      [{
+        chords: [
+          { position: 0, chord: 'F' },
+          { position: 27, chord: 'C' }
+        ],
+        line: 'Porque sólo Tú eres santo, sólo Tú Señor,'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'F' },
+          { position: 18, chord: 'G' }
+        ],
+        line: 'sólo Tú altísimo, Jesucristo, Jesucristo.'
+      }],
+      [{
+        chords: [
+          { position: 0, chord: 'C' },
+          { position: 11, chord: 'G' },
+          { position: 14, chord: 'C(FG)' },
+          { position: 21, chord: 'CGC' },
+          { position: 27, chord: '(FG)' },
+          { position: 40, chord: 'C' },
+          { position: 43, chord: 'Em' },
+          { position: 48, chord: 'Am' },
+          { position: 52, chord: 'F' },
+          { position: 56, chord: 'CGC' }
+        ],
+        line: 'Con el Espíritu&&&&& Santo en la gloria de Dios Padre. Amén'
+      }]
     ]
   }
 ];
