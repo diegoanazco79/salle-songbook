@@ -1,5 +1,6 @@
 'use client';
 
+import Link from 'next/link';
 import Button from './components/Button';
 import { Divider } from '@nextui-org/react';
 
@@ -17,9 +18,11 @@ export default function Home () {
         de La Salle, profesores y catequistas.
       </p>
       <div className='flex justify-center w-full'>
-        <Button typeStyle='primary'>
-          Explorar canciones
-        </Button>
+        <Link href='/library'>
+          <Button typeStyle='primary'>
+            Explorar canciones
+          </Button>
+        </Link>
       </div>
     </main>
   );
