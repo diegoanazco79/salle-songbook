@@ -84,7 +84,7 @@ export const songsList = [
       ['En siete días creó Dios al mundo, Adán pecó y', 'perdió el cielo. Jesús vino para redimirnos, murió en', 'la cruz y nos salvó.'],
       ['DEN AL SEÑOR SUS ALABANZAS, DENLE PODER,', 'HONOR Y GLORIA, A UNA VOZ CANTEN UN HIMNO', 'AL SEÑOR.'],
       ['(Canten al Señor y a su nombre, honor y gloria a Dios,', 'al Señor Jesús)'],
-      ['Jesús dijo Pedro: Ven, te llamo; el camino es duro', 'mas iré contigo. Pedró respondió: soy un pecador.', 'Tiró la red y hacia Él corrió'],
+      ['Jesús dijo Pedro: Ven, te llamo; el camino es duro', 'mas iré contigo. Pedró respondió: soy un pecador.', 'Tiró la red y hacia Él corrió.'],
       ['DEN AL SEÑOR SUS ALABANZAS, DENLE PODER,', 'HONOR Y GLORIA, A UNA VOZ CANTEN UN HIMNO', 'AL SEÑOR.'],
       ['(Canten al Señor y a su nombre, honor y gloria a Dios,', 'al Señor Jesús)']
     ]
@@ -910,6 +910,237 @@ export const songListWithChords = [
       [{
         chords: [],
         line: 'LA, LA, LA... ¡CRISTO!'
+      }]
+    ]
+  },
+  {
+    title: 'Danza a mi país',
+    url: 'danza-a-mi-pais',
+    paragraphs: [
+      [{
+        chords: [
+          { position: 0, chord: 'G' },
+          { position: 20, chord: 'D' },
+          { position: 29, chord: 'Em' }
+        ],
+        line: 'Vivo en un país maravilloso, lleno de riqueza y'
+      },
+      {
+        chords: [
+          { position: 3, chord: 'Bm' },
+          { position: 10, chord: 'C' },
+          { position: 36, chord: 'G' },
+          { position: 45, chord: 'A7' }
+        ],
+        line: 'voluntad, Dios pintó mi alma blanco y rojo y por nada'
+      },
+      {
+        chords: [
+          { position: 10, chord: 'D' }
+        ],
+        line: 'cambio este lugar.'
+      }],
+      [{
+        chords: [],
+        line: 'Mi pueblo es valiente y generoso, pobre pero rico en'
+      },
+      {
+        chords: [],
+        line: 'dignidad, y ni el sufrimiento ni el enojo, le han hecho'
+      },
+      {
+        chords: [],
+        line: 'que deje de danzar.'
+      }],
+      [{
+        chords: [
+          { position: 0, chord: 'G' },
+          { position: 18, chord: 'D' },
+          { position: 31, chord: 'Em' }
+        ],
+        line: 'Y ASÍ DANZA, DANZA, DANZA, CON SUS PENAS'
+      },
+      {
+        chords: [
+          { position: 2, chord: 'C' },
+          { position: 15, chord: 'G' },
+          { position: 20, chord: 'A7' },
+          { position: 31, chord: 'D' }
+        ],
+        line: 'CON SUS ALEGRÍAS, CON SU CAMINAR,'
+      },
+      {
+        chords: [],
+        line: 'DANZA, DANZA, DANZA, PORQUE ESPERA QUE EL'
+      },
+      {
+        chords: [],
+        line: 'DIOS DE LA VIDAD LO LIBERARÁ.'
+      }],
+      [{
+        chords: [],
+        line: 'Si vas a vivir en otras tierras, diles lo que pasa aquí'
+      },
+      {
+        chords: [],
+        line: 'en verdad, cuéntales que el odio y la miseria'
+      },
+      {
+        chords: [],
+        line: 'no nos han podido doblegar.'
+      }],
+      [{
+        chords: [],
+        line: 'Habla de toda la gente buena, que ha dado su vida'
+      },
+      {
+        chords: [],
+        line: 'por la paz y que tras su muerte los que quedan,'
+      },
+      {
+        chords: [],
+        line: 'se han unido para continuar.'
+      }],
+      [{
+        chords: [],
+        line: 'Y ASÍ DANZA, DANZA, DANZA, CON SUS PENAS'
+      },
+      {
+        chords: [],
+        line: 'CON SUS ALEGRÍAS, CON SU CAMINAR,'
+      },
+      {
+        chords: [],
+        line: 'DANZA, DANZA, DANZA, PORQUE ESPERA QUE EL'
+      },
+      {
+        chords: [],
+        line: 'DIOS DE LA VIDAD LO LIBERARÁ.'
+      }]
+    ]
+  },
+  {
+    title: 'Den al Señor',
+    url: 'den-al-senor',
+    paragraphs: [
+      [{
+        chords: [
+          { position: 0, chord: 'G' },
+          { position: 18, chord: 'Em' }
+        ],
+        line: 'DEN AL SEÑOR SUS ALABANZAS, DENLE PODER,'
+      },
+      {
+        chords: [
+          { position: 11, chord: 'C' },
+          { position: 42, chord: 'G' }
+        ],
+        line: 'HONOR Y GLORIA, A UNA VOZ CANTEN UN HIMNO &&'
+      },
+      {
+        chords: [
+          { position: 10, chord: 'D' }
+        ],
+        line: 'AL SEÑOR.'
+      }],
+      [{
+        chords: [],
+        line: '(Canten al Señor y a su nombre, honor y gloria a Dios,'
+      },
+      {
+        chords: [],
+        line: 'al Señor Jesús)'
+      }],
+      [{
+        chords: [
+          { position: 0, chord: 'G' },
+          { position: 16, chord: 'Em' },
+          { position: 37, chord: 'G' }
+        ],
+        line: 'En siete días creó Dios al mundo, Adán pecó y'
+      },
+      {
+        chords: [
+          { position: 5, chord: 'Em' },
+          { position: 20, chord: 'G' },
+          { position: 34, chord: 'Em' },
+          { position: 45, chord: 'C' }
+        ],
+        line: 'perdió el cielo. Jesús vino para redimirnos, murió en'
+      },
+      {
+        chords: [
+          { position: 10, chord: 'D' }
+        ],
+        line: 'la cruz y nos salvó.'
+      }],
+      [{
+        chords: [
+          { position: 0, chord: 'G' },
+          { position: 18, chord: 'Em' }
+        ],
+        line: 'DEN AL SEÑOR SUS ALABANZAS, DENLE PODER,'
+      },
+      {
+        chords: [
+          { position: 11, chord: 'C' },
+          { position: 42, chord: 'G' }
+        ],
+        line: 'HONOR Y GLORIA, A UNA VOZ CANTEN UN HIMNO &&'
+      },
+      {
+        chords: [
+          { position: 10, chord: 'D' }
+        ],
+        line: 'AL SEÑOR.'
+      }],
+      [{
+        chords: [],
+        line: '(Canten al Señor y a su nombre, honor y gloria a Dios,'
+      },
+      {
+        chords: [],
+        line: 'al Señor Jesús)'
+      }],
+      [{
+        chords: [],
+        line: 'Jesús dijo Pedro: Ven, te llamo; el camino es duro'
+      },
+      {
+        chords: [],
+        line: 'mas iré contigo. Pedró respondió: soy un pecador.'
+      },
+      {
+        chords: [],
+        line: 'Tiró la red y hacia Él corrió.'
+      }],
+      [{
+        chords: [
+          { position: 0, chord: 'G' },
+          { position: 18, chord: 'Em' }
+        ],
+        line: 'DEN AL SEÑOR SUS ALABANZAS, DENLE PODER,'
+      },
+      {
+        chords: [
+          { position: 11, chord: 'C' },
+          { position: 42, chord: 'G' }
+        ],
+        line: 'HONOR Y GLORIA, A UNA VOZ CANTEN UN HIMNO &&'
+      },
+      {
+        chords: [
+          { position: 10, chord: 'D' }
+        ],
+        line: 'AL SEÑOR.'
+      }],
+      [{
+        chords: [],
+        line: '(Canten al Señor y a su nombre, honor y gloria a Dios,'
+      },
+      {
+        chords: [],
+        line: 'al Señor Jesús)'
       }]
     ]
   }
