@@ -1741,17 +1741,6 @@ export const songListWithChords = [
     ]
   },
   {
-
-    paragraphs: [
-      ['', '', ''],
-      ['', '', ''],
-      ['', '', '', ''],
-      ['', '', ''],
-      ['', '', ''],
-      ['HOY COMO AYER OYENDO LA VOZ DE DIOS, HOY LA', 'SALLE SOMOS TÚ Y YO. COMO LO HIZO ÉL', 'DIGAMOS QUE SÍ A DIOS. HOY LA SALLE SOMOS', 'TÚ Y YO.']
-    ]
-  },
-  {
     title: 'Hoy como ayer',
     url: 'hoy-como-ayer',
     paragraphs: [
