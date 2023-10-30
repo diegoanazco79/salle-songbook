@@ -1,6 +1,6 @@
 'use client';
 import React, { useState } from 'react';
-import { debounce } from 'lodash';
+import { debounce, sortBy } from 'lodash';
 
 import GroupSong from './components/GroupSong';
 import { Input } from '@nextui-org/react';
@@ -9,9 +9,9 @@ import { songsNamesList as initialSongsList } from './utils/constants';
 import { BsSearch } from 'react-icons/bs';
 
 const LibraryPage = () => {
-  const [songsList, setSongsList] = useState(initialSongsList);
+  const [songsList, setSongsList] = useState(sortBy(initialSongsList, 'title'));
   const alphabet = 'ABCDEFGHIJKLMNÑOPQRSTUVWXYZ'.split('');
-  const songsListCopy = initialSongsList;
+  const songsListCopy = sortBy(initialSongsList, 'title');
 
   /**
    * Handle the search of a song
