@@ -4,7 +4,7 @@ import { ButtonProps, Button as NextUIButton } from '@nextui-org/react';
 
 interface Props extends ButtonProps {
   children: React.ReactNode;
-  typeStyle: 'primary' | 'secondary'
+  typeStyle?: 'primary' | 'secondary'
 }
 
 const Button = (props: Props) => {
