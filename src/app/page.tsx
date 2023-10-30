@@ -6,7 +6,7 @@ import { Divider } from '@nextui-org/react';
 
 export default function Home () {
   return (
-    <main className='max-w-screen-sm mx-auto h-screen flex flex-col justify-center items-center overflow-y-hidden'>
+    <main className='max-w-screen-sm mx-auto h-[90vh] flex flex-col justify-center items-center overflow-y-hidden'>
       <h1 className='font-bold text-5xl text-center'>Notas de Fe</h1>
       <h2 className='font-semibold text-2xl text-center'>
         Cancionero de la Pastoral La Salle
