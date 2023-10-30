@@ -1,4 +1,4 @@
-export const songList = [
+export const songsNamesList = [
   {
     title: 'Creo en ti',
     url: 'creo-en-ti'

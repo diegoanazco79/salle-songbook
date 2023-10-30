@@ -5,7 +5,7 @@ import { debounce } from 'lodash';
 import GroupSong from './components/GroupSong';
 import { Input } from '@nextui-org/react';
 
-import { songList as initialSongsList } from './utils/constants';
+import { songsNamesList as initialSongsList } from './utils/constants';
 import { BsSearch } from 'react-icons/bs';
 
 const LibraryPage = () => {
