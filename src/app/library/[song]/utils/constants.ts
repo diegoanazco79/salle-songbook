@@ -1739,5 +1739,154 @@ export const songListWithChords = [
         line: 'Con el Espíritu&&&&& Santo en la gloria de Dios Padre. Amén'
       }]
     ]
+  },
+  {
+
+    paragraphs: [
+      ['', '', ''],
+      ['', '', ''],
+      ['', '', '', ''],
+      ['', '', ''],
+      ['', '', ''],
+      ['HOY COMO AYER OYENDO LA VOZ DE DIOS, HOY LA', 'SALLE SOMOS TÚ Y YO. COMO LO HIZO ÉL', 'DIGAMOS QUE SÍ A DIOS. HOY LA SALLE SOMOS', 'TÚ Y YO.']
+    ]
+  },
+  {
+    title: 'Hoy como ayer',
+    url: 'hoy-como-ayer',
+    paragraphs: [
+      [{
+        chords: [
+          { position: 0, chord: 'C' },
+          { position: 20, chord: 'F' },
+          { position: 46, chord: 'G' }
+        ],
+        line: 'Hace algún tiempo, brilló una propuesta que Dios'
+      },
+      {
+        chords: [
+          { position: 20, chord: 'C' },
+          { position: 46, chord: 'Am' }
+        ],
+        line: 'como estrella, al mundo envió, una pregunta exigía'
+      },
+      {
+        chords: [
+          { position: 15, chord: 'F' },
+          { position: 34, chord: 'G' }
+        ],
+        line: 'respuesta: los pobres y su educación.'
+      }],
+      [{
+        chords: [],
+        line: 'Días y meses velando por ella, así Juan Bautista al'
+      },
+      {
+        chords: [],
+        line: 'fin se enamoró. Dijo ante el brillo de aquella'
+      },
+      {
+        chords: [],
+        line: 'propuesta: "No puedo decirte que no".'
+      }],
+      [{
+        chords: [
+          { position: 0, chord: 'F' },
+          { position: 14, chord: 'G' },
+          { position: 21, chord: 'C' },
+          { position: 26, chord: 'Em' },
+          { position: 34, chord: 'Am' }
+        ],
+        line: '&&HOY COMO AYER OYENDO LA VOZ DE DIOS, HOY LA'
+      },
+      {
+        chords: [
+          { position: 4, chord: 'F' },
+          { position: 6, chord: 'G' },
+          { position: 18, chord: 'C' },
+          { position: 22, chord: 'F' },
+          { position: 36, chord: 'G' }
+        ],
+        line: 'SALLE SOMOS TÚ Y YO. &&COMO LO HIZO ÉL'
+      },
+      {
+        chords: [
+          { position: 5, chord: 'C' },
+          { position: 12, chord: 'Em' },
+          { position: 17, chord: 'Am' },
+          { position: 30, chord: 'F' },
+          { position: 36, chord: 'G' }
+        ],
+        line: 'DIGAMOS QUE SÍ A DIOS. HOY LA SALLE SOMOS'
+      },
+      {
+        chords: [
+          { position: 6, chord: 'C' },
+          { position: 8, chord: 'G' }
+        ],
+        line: 'TÚ Y YO.&&'
+      }],
+      [{
+        chords: [],
+        line: 'Hoy es un tiempo colmado de estrellas que exigen de'
+      },
+      {
+        chords: [],
+        line: 'urgencia, respuesta de amor. Dios sigue enviando la'
+      },
+      {
+        chords: [],
+        line: 'misma propuesta, nosotros tenemos la voz.'
+      }],
+      [{
+        chords: [],
+        line: 'Con esperanza, siguiendo sus huellas ser signos de fe'
+      },
+      {
+        chords: [],
+        line: 'para el mundo de hoy. Como La Salle, nosotros'
+      },
+      {
+        chords: [],
+        line: 'tampoco podemos decirle que no.'
+      }],
+      [{
+        chords: [
+          { position: 0, chord: 'F' },
+          { position: 14, chord: 'G' },
+          { position: 21, chord: 'C' },
+          { position: 26, chord: 'Em' },
+          { position: 34, chord: 'Am' }
+        ],
+        line: '&&HOY COMO AYER OYENDO LA VOZ DE DIOS, HOY LA'
+      },
+      {
+        chords: [
+          { position: 4, chord: 'F' },
+          { position: 6, chord: 'G' },
+          { position: 18, chord: 'C' },
+          { position: 22, chord: 'F' },
+          { position: 36, chord: 'G' }
+        ],
+        line: 'SALLE SOMOS TÚ Y YO. &&COMO LO HIZO ÉL'
+      },
+      {
+        chords: [
+          { position: 5, chord: 'C' },
+          { position: 12, chord: 'Em' },
+          { position: 17, chord: 'Am' },
+          { position: 30, chord: 'F' },
+          { position: 36, chord: 'G' }
+        ],
+        line: 'DIGAMOS QUE SÍ A DIOS. HOY LA SALLE SOMOS'
+      },
+      {
+        chords: [
+          { position: 6, chord: 'C' },
+          { position: 8, chord: 'G' }
+        ],
+        line: 'TÚ Y YO.&&'
+      }]
+    ]
   }
 ];
