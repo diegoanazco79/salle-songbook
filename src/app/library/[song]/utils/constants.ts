@@ -108,7 +108,7 @@ export const songsList = [
       ['Quiero hundir más hondo mi raíz en ti y cimentar en', 'solidez este mi afecto, pues mi corazón que es', 'inquiero y es frágil solo acierta si se abraza a tu', 'proyecto.'],
       ['MÁS ALLÁ, DE MIS MIEDOS, MÁS ALLÁ, DE MI', 'INSEGURIDAD, QUIERO DARTE MI RESPUESTA.', 'AQUÍ ESTOY PARA HACER TU VOLUNTAD, PARA QUE', 'MI AMOR SEA DECIRTE SÍ, HASTA EL FINAL.'],
       ['Duermen su sopor, ya temen en el huerto, ni sus', 'amigos acompañan al maestro. Si es hora de cruz, es', 'de fidelidades, pero el mundo nunca quiere aceptar', 'esto.'],
-      ['Darme comprender Señor tu amor tan puro, amor que', 'persevera en cruz, amor perfecto. Dame serte fiel', 'cuando todo es oscuro, para que mi amor no sea un sentimiento.'],
+      ['Dame comprender Señor tu amor tan puro, amor que', 'persevera en cruz, amor perfecto. Dame serte fiel', 'cuando todo es oscuro, para que mi amor no sea un sentimiento.'],
       ['MÁS ALLÁ, DE MIS MIEDOS, MÁS ALLÁ, DE MI', 'INSEGURIDAD, QUIERO DARTE MI RESPUESTA.', 'AQUÍ ESTOY PARA HACER TU VOLUNTAD, PARA QUE', 'MI AMOR SEA DECIRTE SÍ, HASTA EL FINAL.'],
       ['No es en las palabras, ni en las promesas, donde la', 'historia tiene su mortor secreto. Sólo es el amor en la', 'cruz madurado, el amor que mueve a todo el', 'universo.'],
       ['Pongo mi pequeña vida, hoy en tus manos, por sobre', 'mis inseguridades y mis miedos. Y para elegir tu', 'querer y no el mío, hazme en mi Getsemaním fiel y', 'despierto.'],
@@ -1142,6 +1142,377 @@ export const songListWithChords = [
         chords: [],
         line: 'al Señor Jesús)'
       }]
+    ]
+  },
+  {
+    title: 'El profeta',
+    url: 'el-profeta',
+    paragraphs: [
+      [{
+        chords: [
+          { position: 2, chord: 'Em' },
+          { position: 17, chord: 'G' },
+          { position: 33, chord: 'Bm' }
+        ],
+        line: 'Antes que te formaras dentro del vientre de tu'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'Em' },
+          { position: 8, chord: 'Am' },
+          { position: 25, chord: 'Em' },
+          { position: 46, chord: 'B7' }
+        ],
+        line: 'madre, antes que tu nacieras, te conocía y te&&'
+      },
+      {
+        chords: [
+          { position: 5, chord: 'Em' }
+        ],
+        line: 'consagré. Para ser mi profeta de las naciones yo te'
+      },
+      {
+        chords: [],
+        line: 'elegí. Irás donde te envíe, lo que te mande'
+      },
+      {
+        chords: [],
+        line: 'proclamarás.'
+      }],
+      [{
+        chords: [
+          { position: 0, chord: 'Em' },
+          { position: 18, chord: 'G' }
+        ],
+        line: 'TENGO QUE GRITAR, TENGO QUE ARRIESGAR'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'Bm' },
+          { position: 13, chord: 'D' },
+          { position: 21, chord: 'Em' },
+          { position: 26, chord: 'Bm' },
+          { position: 36, chord: 'Em' }
+        ],
+        line: '¡AY DE MÍ SÍ NO LO HAGO! ¿CÓMO ESCAPAR DE'
+      },
+      {
+        chords: [
+          { position: 5, chord: 'Bm' },
+          { position: 16, chord: 'Em' },
+          { position: 27, chord: 'Am' },
+          { position: 38, chord: 'Em' }
+        ],
+        line: 'TI? ¿CÓMO NO HABLAR, SI TU VOZ ME QUEMA'
+      },
+      {
+        chords: [],
+        line: 'DENTRO? (BIS)'
+      }],
+      [{
+        chords: [],
+        line: 'No temas arriesgarte porque contigo yo estaré, no'
+      },
+      {
+        chords: [],
+        line: 'temas anunciarme porque en tu boca yo hablaré. Te'
+      },
+      {
+        chords: [],
+        line: 'encargo hoy mi pueblo para arrancar y derribar, para'
+      },
+      {
+        chords: [],
+        line: 'edificar, destruirás y plantarás.'
+      }],
+      [{
+        chords: [],
+        line: 'Deja a tus hermanos, deja a tu padre y a tu madre,'
+      },
+      {
+        chords: [],
+        line: 'abandona tu casa porque la tierra gritando está.'
+      },
+      {
+        chords: [],
+        line: 'Nada traigas contigo porque a tu lado yo estaré, es'
+      },
+      {
+        chords: [],
+        line: 'hora de luchar porque mi pueblo sufriendo está.'
+      }],
+      [{
+        chords: [
+          { position: 0, chord: 'Em' },
+          { position: 18, chord: 'G' }
+        ],
+        line: 'TENGO QUE GRITAR, TENGO QUE ARRIESGAR'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'Bm' },
+          { position: 13, chord: 'D' },
+          { position: 21, chord: 'Em' },
+          { position: 26, chord: 'Bm' },
+          { position: 36, chord: 'Em' }
+        ],
+        line: '¡AY DE MÍ SÍ NO LO HAGO! ¿CÓMO ESCAPAR DE'
+      },
+      {
+        chords: [
+          { position: 5, chord: 'Bm' },
+          { position: 16, chord: 'Em' },
+          { position: 27, chord: 'Am' },
+          { position: 38, chord: 'Em' }
+        ],
+        line: 'TI? ¿CÓMO NO HABLAR, SI TU VOZ ME QUEMA'
+      },
+      {
+        chords: [],
+        line: 'DENTRO? (BIS)'
+      }]
+    ]
+  },
+  {
+    title: 'En mi Getsemaní',
+    url: 'en-mi-getsemani',
+    paragraphs: [
+      [{
+        chords: [
+          { position: 0, chord: 'E' },
+          { position: 27, chord: 'C#m' },
+          { position: 47, chord: 'A' }
+        ],
+        line: 'Para que mi amor no sea un sentimiento, tan solo un'
+      },
+      {
+        chords: [
+          { position: 12, chord: 'B' },
+          { position: 26, chord: 'G#m' }
+        ],
+        line: 'deslumbramiento pasajero, para no gastar mis'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'C#m' },
+          { position: 20, chord: 'A' },
+          { position: 43, chord: 'B' }
+        ],
+        line: 'palabras más mías, ni vaciar de contenido mi te quiero.'
+      }
+      ],
+      [{
+        chords: [],
+        line: 'Quiero hundir más hondo mi raíz en ti y cimentar en'
+      },
+      {
+        chords: [],
+        line: 'solidez este mi afecto, pues mi corazón que es'
+      },
+      {
+        chords: [],
+        line: 'inquiero y es frágil solo acierta si se abraza a tu'
+      },
+      {
+        chords: [],
+        line: 'proyecto.'
+      }],
+      [{
+        chords: [
+          { position: 5, chord: 'E' },
+          { position: 18, chord: 'B7' },
+          { position: 30, chord: 'C#m' }
+        ],
+        line: 'MÁS ALLÁ, DE MIS MIEDOS, MÁS ALLÁ, DE MI'
+      },
+      {
+        chords: [
+          { position: 5, chord: 'A' },
+          { position: 31, chord: 'B' }
+        ],
+        line: 'INSEGURIDAD, QUIERO DARTE MI RESPUESTA.'
+      },
+      {
+        chords: [
+          { position: 8, chord: 'E' },
+          { position: 19, chord: 'B7' },
+          { position: 30, chord: 'C#m' }
+        ],
+        line: 'AQUÍ ESTOY PARA HACER TU VOLUNTAD, PARA QUE'
+      },
+      {
+        chords: [
+          { position: 5, chord: 'A' },
+          { position: 22, chord: 'B' },
+          { position: 35, chord: 'E' }
+        ],
+        line: 'MI AMOR SEA DECIRTE SÍ, HASTA EL FINAL.'
+      }],
+      [{
+        chords: [],
+        line: 'Duermen su sopor, ya temen en el huerto, ni sus'
+      },
+      {
+        chords: [],
+        line: 'amigos acompañan al maestro. Si es hora de cruz, es'
+      },
+      {
+        chords: [],
+        line: 'de fidelidades, pero el mundo nunca quiere aceptar esto.'
+      }
+      ],
+      [{
+        chords: [],
+        line: 'Dame comprender Señor tu amor tan puro, amor que'
+      },
+      {
+        chords: [],
+        line: 'persevera en cruz, amor perfecto. Dame serte fiel'
+      },
+      {
+        chords: [],
+        line: 'cuando todo es oscuro, para que mi amor no sea un'
+      },
+      {
+        chords: [],
+        line: 'sentimiento.'
+      }],
+      [{
+        chords: [
+          { position: 5, chord: 'E' },
+          { position: 18, chord: 'B7' },
+          { position: 30, chord: 'C#m' }
+        ],
+        line: 'MÁS ALLÁ, DE MIS MIEDOS, MÁS ALLÁ, DE MI'
+      },
+      {
+        chords: [
+          { position: 5, chord: 'A' },
+          { position: 31, chord: 'B' }
+        ],
+        line: 'INSEGURIDAD, QUIERO DARTE MI RESPUESTA.'
+      },
+      {
+        chords: [
+          { position: 8, chord: 'E' },
+          { position: 19, chord: 'B7' },
+          { position: 30, chord: 'C#m' }
+        ],
+        line: 'AQUÍ ESTOY PARA HACER TU VOLUNTAD, PARA QUE'
+      },
+      {
+        chords: [
+          { position: 5, chord: 'A' },
+          { position: 22, chord: 'B' },
+          { position: 35, chord: 'E' }
+        ],
+        line: 'MI AMOR SEA DECIRTE SÍ, HASTA EL FINAL.'
+      }],
+      [{
+        chords: [],
+        line: 'No es en las palabras, ni en las promesas, donde la'
+      },
+      {
+        chords: [],
+        line: 'historia tiene su mortor secreto. Sólo es el amor en la'
+      },
+      {
+        chords: [],
+        line: 'cruz madurado, el amor que mueve a todo el universo.'
+      }
+      ],
+      [{
+        chords: [],
+        line: 'Pongo mi pequeña vida, hoy en tus manos, por sobre'
+      },
+      {
+        chords: [],
+        line: 'mis inseguridades y mis miedos. Y para elegir tu'
+      },
+      {
+        chords: [],
+        line: 'querer y no el mío, hazme en mi Getsemaním fiel y'
+      },
+      {
+        chords: [],
+        line: 'despierto.'
+      }],
+      [{
+        chords: [
+          { position: 5, chord: 'E' },
+          { position: 18, chord: 'B7' },
+          { position: 30, chord: 'C#m' }
+        ],
+        line: 'MÁS ALLÁ, DE MIS MIEDOS, MÁS ALLÁ, DE MI'
+      },
+      {
+        chords: [
+          { position: 5, chord: 'A' },
+          { position: 31, chord: 'B' }
+        ],
+        line: 'INSEGURIDAD, QUIERO DARTE MI RESPUESTA.'
+      },
+      {
+        chords: [
+          { position: 8, chord: 'E' },
+          { position: 19, chord: 'B7' },
+          { position: 30, chord: 'C#m' }
+        ],
+        line: 'AQUÍ ESTOY PARA HACER TU VOLUNTAD, PARA QUE'
+      },
+      {
+        chords: [
+          { position: 5, chord: 'A' },
+          { position: 22, chord: 'B' },
+          { position: 35, chord: 'E' }
+        ],
+        line: 'MI AMOR SEA DECIRTE SÍ, HASTA EL FINAL.'
+      }]
+
+    ]
+  },
+  {
+    title: 'Eres todo poderoso',
+    url: 'eres-todo-poderoso',
+    paragraphs: [
+      [{
+        chords: [
+          { position: 3, chord: 'Am' },
+          { position: 23, chord: 'F' },
+          { position: 32, chord: 'C' },
+          { position: 44, chord: 'G' }
+        ],
+        line: 'La única razón de mi adoración, eres tú mi Jesús.'
+      },
+      {
+        chords: [],
+        line: 'Mí unico motivo para vivir eres tú mi Señor.'
+      },
+      {
+        chords: [],
+        line: 'Mi única verdad está en ti, eres mi luz y mi salvación.'
+      },
+      {
+        chords: [],
+        line: 'Mi único amor eres tu Señor, y por siempre te'
+      },
+      {
+        chords: [],
+        line: 'alabaré.'
+      }],
+      [{
+        chords: [],
+        line: 'TÚ ERES TODO PODEROSO ERES GRANDE Y'
+      },
+      {
+        chords: [],
+        line: 'MAJESTUOSO ERES FUERTE INVENCIBLE Y NO'
+      },
+      {
+        chords: [],
+        line: 'HAY NADIE COMO TÚ.'
+      }
+      ]
     ]
   }
 ];
