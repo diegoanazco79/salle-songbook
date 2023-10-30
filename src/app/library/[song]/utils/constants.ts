@@ -34,7 +34,7 @@ export const songsList = [
     title: 'Compromiso Lasallista',
     url: 'compromiso-lasallista',
     paragraphs: [
-      ['El mundo está muriendo y la vida se nos va, si no', 'actuamos ahora, el futuro nunca llegará. Ahora', 'eestamos juntos compartiendo una verdad,', 'buscando soluciones, para un mundo nuevo', 'fabricar.'],
+      ['El mundo está muriendo y la vida se nos va, si no', 'actuamos ahora, el futuro nunca llegará. Ahora', 'estamos juntos compartiendo una verdad,', 'buscando soluciones, para un mundo nuevo', 'fabricar.'],
       ['Y EL SOL SALDRÁ, DIOS NOS GUIARÁ, LOS', 'LASALLISTAS DEBEMOS LUCHAR CON', 'COMPROMISO Y FRATERNIDAD.'],
       ['Tomados de la mano y alumbrados por la fe, sigamos', 'los caminos que nos lleven hacia Él. Cantemos todos', 'juntos y formemos amistad, la Salle nos ha dado un', 'ejemplo debemos amar.'],
       ['Y NO ABANDONAR, NUETRO IDEAL, Y', 'ESCUCHAR LOS QUE GRITAN "PIEDAD" PARA', 'ASÍ NUNCA FRACASAR.']
@@ -45,7 +45,7 @@ export const songsList = [
     url: 'creo-en-ti',
     paragraphs: [
       ['No temas, soy yo quiero ser tu vida y tu luz. No te', 'rechazaré si es que quieres venir a mi, porque: ya no', 'tendrás sed, te conocerás y más amarás; porque', 'quiero compartir contigo mi plan, floreciendo para', 'los demás.'],
-      ['Ámate primero, para que puedas amar. Obra con', 'más fe, ten mayor humildad, ten en cuenta: lo frágil', 'que eres, de dónde vienes y a dónde queires ir; si', 'soy yo el que te escogí y entré en tu corazón para', 'que crezcas por dentro.'],
+      ['Ámate primero, para que puedas amar. Obra con', 'más fe, ten mayor humildad, ten en cuenta: lo frágil', 'que eres, de dónde vienes y a dónde quieres ir; si', 'soy yo el que te escogí y entré en tu corazón para', 'que crezcas por dentro.'],
       ['YO NO DEJARÉ QUE SEAN EN VANOS TUS PASOS, TE', 'ACOMPAÑARÉ PERO QUIERO QUE SEAS FIEL. NO', 'VINE A DECIRTE QUE TIENES QUE CREER EN MI,', 'VINE A DECIRTE QUE YO AÚN CREO EN TI.'],
       ['Valora tu vida, que tus dones son medios de libertad', 'y con tu honestidad son el sello de tu autenticidad.', 'Te necesito para que compartas la alegría de tu ser,', 'si yo mismo te escogí para que des vida floreciendo', 'para los demás.'],
       ['Ora en tu interior, no te preocupes por lo que dirás,', 'porque orar es escucharme en el fondo de tu', 'corazón. Ten confianza en mi, pues siempre estaré', 'contigo en donde tú estés, si yo mismo te escogí y', 'entré en tu corazón para que crezcas por dentro.'],
@@ -269,10 +269,10 @@ export const songsList = [
     paragraphs: [
       ['Ser abeja y ser miel, ser sensible en la piel y', 'consciente en el corazón; trabajar y luchar por un', 'mundo de paz... Es ser lasallista hoy.'],
       ['Un sendero trazar, de justicia social y ponerse a', 'caminar; con los pobres gastar la energía, el amor...', 'Es ser lasallista hoy.'],
-      ['APÓSTOL DEL AMOR, TESTIGO DEL SEÑOR, CIEN', 'CAMINOS DIBUJAR, MIL BATALLAS QUE GANAR.', 'RADIANTE DE JUVENTUD, CONSTRUCTOR DE LA', 'AMISTAR, CON CRISTO EN EL CORAZÓN,', 'ESO ES SER LASALLISTA HOY.'],
+      ['APÓSTOL DEL AMOR, TESTIGO DEL SEÑOR, CIEN', 'CAMINOS DIBUJAR, MIL BATALLAS QUE GANAR.', 'RADIANTE DE JUVENTUD, CONSTRUCTOR DE LA', 'AMISTAD, CON CRISTO EN EL CORAZÓN,', 'ESO ES SER LASALLISTA HOY.'],
       ['En familia vivir, la colmena construir, unidos en la', 'ilusión, la alegría tocar y unos ojos abrir... Es ser', 'lasallsita hoy.'],
       ['Con amigos forjar un futuro mejor, la miseria', 'desterrar, la injusticia vencer y hacia el sol', 'caminar... Es ser lasallista hoy.'],
-      ['APÓSTOL DEL AMOR, TESTIGO DEL SEÑOR, CIEN', 'CAMINOS DIBUJAR, MIL BATALLAS QUE GANAR.', 'RADIANTE DE JUVENTUD, CONSTRUCTOR DE LA', 'AMISTAR, CON CRISTO EN EL CORAZÓN,', 'ESO ES SER LASALLISTA HOY.']
+      ['APÓSTOL DEL AMOR, TESTIGO DEL SEÑOR, CIEN', 'CAMINOS DIBUJAR, MIL BATALLAS QUE GANAR.', 'RADIANTE DE JUVENTUD, CONSTRUCTOR DE LA', 'AMISTAD, CON CRISTO EN EL CORAZÓN,', 'ESO ES SER LASALLISTA HOY.']
     ]
   },
   {
@@ -562,6 +562,354 @@ export const songListWithChords = [
       {
         chords: [],
         line: 'SIENTO EN MI VIDA, AÚN MÁS, MUCHO MÁS.'
+      }]
+    ]
+  },
+  {
+    title: 'Busca primero aleluya',
+    url: 'busca-primero-aleyuya',
+    paragraphs: [
+      [{
+        chords: [
+          { position: 0, chord: 'D' },
+          { position: 10, chord: 'A' },
+          { position: 17, chord: 'Em' },
+          { position: 24, chord: 'F#m' },
+          { position: 31, chord: 'G' },
+          { position: 39, chord: 'D' },
+          { position: 45, chord: 'E' },
+          { position: 50, chord: 'A' }
+        ],
+        line: 'Busca primero el Reino de Dios y su justicia divina.'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'D' },
+          { position: 7, chord: 'A' },
+          { position: 15, chord: 'Bm' },
+          { position: 21, chord: 'F#m' },
+          { position: 27, chord: 'G' },
+          { position: 31, chord: 'D' },
+          { position: 36, chord: 'A7' },
+          { position: 42, chord: 'D' },
+          { position: 46, chord: '(A)' }
+        ],
+        line: 'Se te dará por añadidura & todas esas cosas &&&'
+      }]
+    ]
+  },
+  {
+    title: 'Compromiso Lasallista',
+    url: 'compromiso-lasallista',
+    paragraphs: [
+      [{
+        chords: [
+          { position: 4, chord: 'D' },
+          { position: 31, chord: 'C' },
+          { position: 48, chord: 'D' }
+        ],
+        line: 'El mundo está muriendo y la vida se nos va, si no'
+      },
+      {
+        chords: [
+          { position: 21, chord: 'C' },
+          { position: 35, chord: 'G' }
+        ],
+        line: 'actuamos ahora, el futuro nunca llegará. Ahora'
+      },
+      {
+        chords: [],
+        line: 'estamos juntos compartiendo una verdad,'
+      },
+      {
+        chords: [],
+        line: 'buscando soluciones, para un mundo nuevo'
+      },
+      {
+        chords: [],
+        line: 'fabricar.'
+      }],
+      [{
+        chords: [
+          { position: 7, chord: 'C' },
+          { position: 17, chord: 'G' }
+        ],
+        line: 'Y EL SOL SALDRÁ, DIOS NOS GUIARÁ, LOS'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'C' },
+          { position: 12, chord: 'G' }
+        ],
+        line: 'LASALLISTAS DEBEMOS LUCHAR CON'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'D' },
+          { position: 2, chord: 'C#' },
+          { position: 5, chord: 'C' },
+          { position: 11, chord: 'G' }
+        ],
+        line: 'COMPROMISO &Y FRATERNIDAD.'
+      }
+      ],
+      [{
+        chords: [],
+        line: 'Tomados de la mano y alumbrados por la fe, sigamos'
+      },
+      {
+        chords: [],
+        line: 'los caminos que nos lleven hacia Él. Cantemos todos'
+      },
+      {
+        chords: [],
+        line: 'juntos y formemos amistad, la Salle nos ha dado un'
+      },
+      {
+        chords: [],
+        line: 'ejemplo debemos amar.'
+      }],
+      [{
+        chords: [],
+        line: 'Y NO ABANDONAR, NUETRO IDEAL, Y'
+      },
+      {
+        chords: [],
+        line: 'ESCUCHAR LOS QUE GRITAN "PIEDAD" PARA'
+      },
+      {
+        chords: [],
+        line: 'ASÍ NUNCA FRACASAR.'
+      }]
+    ]
+  },
+  {
+    title: 'Creo en ti',
+    url: 'creo-en-ti',
+    paragraphs: [
+      [{
+        chords: [
+          { position: 0, chord: 'G' },
+          { position: 32, chord: 'C' },
+          { position: 38, chord: 'D' },
+          { position: 50, chord: 'G' }
+        ],
+        line: 'No temas, soy yo quiero ser tu vida y tu luz. No te'
+      },
+      {
+        chords: [
+          { position: 31, chord: 'C' },
+          { position: 40, chord: 'D' },
+          { position: 51, chord: 'G' }
+        ],
+        line: 'rechazaré si es que quieres venir a mi, porque: ya no'
+      },
+      {
+        chords: [
+          { position: 14, chord: 'Em' },
+          { position: 28, chord: 'C' },
+          { position: 40, chord: 'D' }
+        ],
+        line: 'tendrás sed, te conocerás y más amarás; porque'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'G' },
+          { position: 17, chord: 'Em' },
+          { position: 31, chord: 'C' },
+          { position: 38, chord: 'D' }
+        ],
+        line: 'quiero compartir contigo mi plan, floreciendo para'
+      },
+      {
+        chords: [
+          { position: 7, chord: 'G' }
+        ],
+        line: 'los demás.'
+      }],
+      [{
+        chords: [],
+        line: 'Ámate primero, para que puedas amar. Obra con'
+      },
+      {
+        chords: [],
+        line: 'más fe, ten mayor humildad, ten en cuenta: lo frágil'
+      },
+      {
+        chords: [],
+        line: 'que eres, de dónde vienes y a dónde quieres ir; si'
+      },
+      {
+        chords: [],
+        line: 'soy yo el que te escogí y entré en tu corazón para'
+      },
+      {
+        chords: [],
+        line: 'que crezcas por dentro.'
+      }],
+      [{
+        chords: [
+          { position: 0, chord: 'D' },
+          { position: 19, chord: 'C' },
+          { position: 35, chord: 'G' },
+          { position: 42, chord: 'D' }
+        ],
+        line: 'YO NO DEJARÉ QUE SEAN EN VANOS TUS PASOS, TE'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'D' },
+          { position: 14, chord: 'C' },
+          { position: 30, chord: 'G' }
+        ],
+        line: 'ACOMPAÑARÉ PERO QUIERO QUE SEAS FIEL. NO'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'D' },
+          { position: 13, chord: 'C' },
+          { position: 27, chord: 'G' },
+          { position: 34, chord: 'D' },
+          { position: 39, chord: 'Em' }
+        ],
+        line: 'VINE A DECIRTE QUE TIENES QUE CREER EN MI,'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'C' },
+          { position: 19, chord: 'D' },
+          { position: 34, chord: 'G' }
+        ],
+        line: 'VINE A DECIRTE QUE YO AÚN CREO EN TI.'
+      }],
+      [{
+        chords: [],
+        line: 'Valora tu vida, que tus dones son medios de libertad'
+      },
+      {
+        chords: [],
+        line: 'y con tu honestidad son el sello de tu autenticidad.'
+      },
+      {
+        chords: [],
+        line: 'Te necesito para que compartas la alegría de tu ser,'
+      },
+      {
+        chords: [],
+        line: 'si yo mismo te escogí para que des vida floreciendo'
+      },
+      {
+        chords: [],
+        line: 'para los demás.'
+      }],
+      [{
+        chords: [],
+        line: 'Ora en tu interior, no te preocupes por lo que dirás,'
+      },
+      {
+        chords: [],
+        line: 'porque orar es escucharme en el fondo de tu'
+      },
+      {
+        chords: [],
+        line: 'corazón. Ten confianza en mi, pues siempre estaré'
+      },
+      {
+        chords: [],
+        line: 'contigo en donde tú estés, si yo mismo te escogí y'
+      },
+      {
+        chords: [],
+        line: 'entré en tu corazón para que crezcas por dentro.'
+      }],
+      [{
+        chords: [],
+        line: 'YO NO DEJARÉ QUE SEAN EN VANOS TUS PASOS, TE'
+      },
+      {
+        chords: [],
+        line: 'ACOMPAÑARÉ PERO QUIERO QUE SEAS FIEL. NO'
+      },
+      {
+        chords: [],
+        line: 'VINE A DECIRTE QUE TIENES QUE CREER EN MI,'
+      },
+      {
+        chords: [],
+        line: 'VINE A DECIRTE QUE YO AÚN CREO EN TI.'
+      }]
+    ]
+  },
+  {
+    title: 'Cristo',
+    url: 'cristo',
+    paragraphs: [
+      [{
+        chords: [
+          { position: 3, chord: 'C' },
+          { position: 14, chord: 'F' },
+          { position: 25, chord: 'G' },
+          { position: 38, chord: 'C' },
+          { position: 41, chord: 'Em7' }
+        ],
+        line: 'Clavaste tus manos con una sola inquietud,'
+      },
+      {
+        chords: [
+          { position: 1, chord: 'Am' },
+          { position: 18, chord: 'Dm' },
+          { position: 30, chord: 'G' },
+          { position: 43, chord: 'C' }
+        ],
+        line: 'que no hubiese esclavos a la sombra de tu cruz.'
+      },
+      {
+        chords: [],
+        line: 'Que no hubiesen niños, reos de la soledad,'
+      },
+      {
+        chords: [],
+        line: 'que no hubiesen guerras, que existiese la igualdad.'
+      }],
+      [{
+        chords: [],
+        line: 'LA, LA, LA... ¡CRISTO!'
+      }],
+      [{
+        chords: [],
+        line: 'Tú que has nacido entre la espada y la pared, vuelve'
+      },
+      {
+        chords: [],
+        line: 'con nosotros porque queremos vencer. Vencer este'
+      },
+      {
+        chords: [],
+        line: 'mundo prisionero del rencor, asfixiado por el odio'
+      },
+      {
+        chords: [],
+        line: 'por el vicio y la opresión.'
+      }],
+      [{
+        chords: [],
+        line: 'Tú que inventaste la palabra libertad. Tú que'
+      },
+      {
+        chords: [],
+        line: 'rompes cadenas; tú que eres la Verdad. Tú que'
+      },
+      {
+        chords: [],
+        line: 'nos has dado juventud para luchar, canta con'
+      },
+      {
+        chords: [],
+        line: 'nosotros para conseguir la paz.'
+      }],
+      [{
+        chords: [],
+        line: 'LA, LA, LA... ¡CRISTO!'
       }]
     ]
   }
