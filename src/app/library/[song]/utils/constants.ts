@@ -34,7 +34,7 @@ export const songsList = [
     title: 'Compromiso Lasallista',
     url: 'compromiso-lasallista',
     paragraphs: [
-      ['El mundo está muriendo y la vida se nos va, si no', 'actuamos ahora, el futuro nunca llegará. Ahora', 'estamos juntos compartiendo una verdad,', 'buscando soluciones, para un mundo nuevo', 'fabricar.'],
+      ['El mundo está muriendo y la vida se nos va, si no', 'actuamos ahora, el futuro nunca llegará. Ahora', 'estamos juntos compartiendo una amistad,', 'buscando soluciones, para un mundo nuevo', 'fabricar.'],
       ['Y EL SOL SALDRÁ, DIOS NOS GUIARÁ, LOS', 'LASALLISTAS DEBEMOS LUCHAR CON', 'COMPROMISO Y FRATERNIDAD.'],
       ['Tomados de la mano y alumbrados por la fe, sigamos', 'los caminos que nos lleven hacia Él. Cantemos todos', 'juntos y formemos amistad, la Salle nos ha dado un', 'ejemplo debemos amar.'],
       ['Y NO ABANDONAR, NUETRO IDEAL, Y', 'ESCUCHAR LOS QUE GRITAN "PIEDAD" PARA', 'ASÍ NUNCA FRACASAR.']
@@ -69,10 +69,10 @@ export const songsList = [
     paragraphs: [
       ['Vivo en un país maravilloso, lleno de riqueza y', 'voluntad, Dios pintó mi alma blanco y rojo y por nada', 'cambio este lugar.'],
       ['Mi pueblo es valiente y generoso, pobre pero rico en', 'dignidad, y ni el sufrimiento ni el enojo, le han hecho', 'que deje de danzar.'],
-      ['Y ASÍ DANZA, DANZA, DANZA, CON SUS PENAS', 'CON SUS ALEGRÍAS, CON SU CAMINAR,', 'DANZA, DANZA, DANZA, PORQUE ESPERA QUE EL', 'DIOS DE LA VIDAD LO LIBERARÁ.'],
+      ['Y ASÍ DANZA, DANZA, DANZA, CON SUS PENAS', 'CON SUS ALEGRÍAS, CON SU CAMINAR,', 'DANZA, DANZA, DANZA, PORQUE ESPERA QUE EL', 'DIOS DE LA VIDA LO LIBERARÁ.'],
       ['Si vas a vivir en otras tierras, diles lo que pasa aquí', 'en verdad, cuéntales que el odio y la miseria', 'no nos han podido doblegar.'],
       ['Habla de toda la gente buena, que ha dado su vida', 'por la paz y que tras su muerte los que quedan,', 'se han unido para continuar.'],
-      ['Y ASÍ DANZA, DANZA, DANZA, CON SUS PENAS', 'CON SUS ALEGRÍAS, CON SU CAMINAR,', 'DANZA, DANZA, DANZA, PORQUE ESPERA QUE EL', 'DIOS DE LA VIDAD LO LIBERARÁ.']
+      ['Y ASÍ DANZA, DANZA, DANZA, CON SUS PENAS', 'CON SUS ALEGRÍAS, CON SU CAMINAR,', 'DANZA, DANZA, DANZA, PORQUE ESPERA QUE EL', 'DIOS DE LA VIDA LO LIBERARÁ.']
     ]
   },
   {
@@ -353,26 +353,26 @@ export const songListWithChords = [
     paragraphs: [
       [{
         chords: [
-          { position: 0, chord: 'G(D)' },
-          { position: 14, chord: 'Em(C)' },
-          { position: 34, chord: 'G' }
+          { position: 1, chord: 'G(D)' },
+          { position: 20, chord: 'Em(C)' },
+          { position: 43, chord: 'G' }
         ],
         line: 'Señor toma mi vida nueva antes de que la espera'
       },
       {
         chords: [
-          { position: 9, chord: 'F(D)' },
-          { position: 21, chord: 'G(C)' },
-          { position: 39, chord: 'Em(C)' }
+          { position: 12, chord: 'F(D)' },
+          { position: 22, chord: 'G(C)' }
         ],
         line: 'desgaste años en mí. Estoy dispuesto a lo que'
       },
       {
         chords: [
-          { position: 17, chord: 'G' },
+          { position: 0, chord: 'Em(C)' },
+          { position: 27, chord: 'G' },
           { position: 34, chord: 'C' },
-          { position: 39, chord: 'D' },
-          { position: 45, chord: 'G' }
+          { position: 40, chord: 'D' },
+          { position: 48, chord: 'G' }
         ],
         line: 'quieras, no importa lo que sea tu llámame a servir.'
       }],
@@ -381,16 +381,16 @@ export const songListWithChords = [
           { position: 0, chord: 'C' },
           { position: 3, chord: 'D' },
           { position: 5, chord: 'G' },
-          { position: 14, chord: 'D' },
-          { position: 27, chord: 'Em' }
+          { position: 18, chord: 'D' },
+          { position: 29, chord: 'Em' }
         ],
         line: 'LLÉVAME DONDE LOS HOMBRES NECESITEN TUS'
       },
       {
         chords: [
-          { position: 1, chord: 'C' },
-          { position: 12, chord: 'G' },
-          { position: 28, chord: 'D' }
+          { position: 2, chord: 'C' },
+          { position: 14, chord: 'G' },
+          { position: 36, chord: 'D' }
         ],
         line: 'PALABRAS, NECESITEN MIS GANAS DE VIVIR.'
       },
@@ -399,19 +399,19 @@ export const songListWithChords = [
           { position: 0, chord: 'C' },
           { position: 2, chord: 'D' },
           { position: 4, chord: 'G' },
-          { position: 13, chord: 'D' },
-          { position: 27, chord: 'Em' }
+          { position: 20, chord: 'D' },
+          { position: 32, chord: 'Em' }
         ],
         line: 'DONDE FALTE LA ESPERANZA, DONDE TODO SEA'
       },
       {
         chords: [
           { position: 1, chord: 'C' },
-          { position: 13, chord: 'G' },
-          { position: 17, chord: 'D' },
-          { position: 28, chord: 'G' }
+          { position: 14, chord: 'G' },
+          { position: 19, chord: 'D' },
+          { position: 37, chord: 'G' }
         ],
-        line: 'TRISTE SIMPLEMENTE POR NO SABER DE TI.'
+        line: 'TRISTE SIMPLEMENTE&& POR NO SABER DE TI.'
       }],
       [{
         chords: [],
@@ -468,21 +468,21 @@ export const songListWithChords = [
           { position: 0, chord: 'G' },
           { position: 14, chord: 'C' },
           { position: 21, chord: 'D' },
-          { position: 41, chord: 'G' }
+          { position: 30, chord: 'G' }
         ],
         line: 'Alto, escúchame no sigas caminando más. Hoy'
       },
       {
         chords: [
-          { position: 5, chord: 'C' },
-          { position: 18, chord: 'D' },
-          { position: 39, chord: 'G' }
+          { position: 9, chord: 'C' },
+          { position: 22, chord: 'D' },
+          { position: 35, chord: 'G' }
         ],
         line: 'quiero decirte lo que hizo Dios en mí. Tienes que'
       },
       {
         chords: [
-          { position: 6, chord: 'C' },
+          { position: 3, chord: 'C' },
           { position: 13, chord: 'D' },
           { position: 25, chord: 'G' }
         ],
@@ -490,26 +490,27 @@ export const songListWithChords = [
       },
       {
         chords: [
-          { position: 5, chord: 'C' },
-          { position: 11, chord: 'D' },
-          { position: 21, chord: 'G7' }
+          { position: 1, chord: 'C' },
+          { position: 15, chord: 'D' },
+          { position: 25, chord: 'G7' }
         ],
         line: 'nuevo, y ahora vivo para Él.'
       }],
       [{
         chords: [
-          { position: 5, chord: 'C' },
-          { position: 18, chord: 'D' },
-          { position: 28, chord: 'G' }
+          { position: 8, chord: 'C' },
+          { position: 16, chord: 'D' },
+          { position: 26, chord: 'G' },
+          { position: 34, chord: 'Em' }
         ],
         line: 'QUE ALEGRÍA ES SER, UN TESTIGO DE DIOS. ES'
       },
       {
         chords: [
           { position: 4, chord: 'C' },
-          { position: 16, chord: 'D' },
-          { position: 26, chord: 'G' },
-          { position: 29, chord: 'Em' }
+          { position: 13, chord: 'D' },
+          { position: 22, chord: 'G' },
+          { position: 27, chord: 'Em' }
         ],
         line: 'SENTIRLE POR FE EN EL CORAZÓN. Y AUNQUE'
       },
@@ -517,17 +518,17 @@ export const songListWithChords = [
         chords: [
           { position: 0, chord: 'C' },
           { position: 9, chord: 'D' },
-          { position: 24, chord: 'G' },
-          { position: 34, chord: 'Em' }
+          { position: 23, chord: 'G' },
+          { position: 32, chord: 'Em' }
         ],
         line: 'TODOS ME DIGAN QUE ESO NO ES VERDAD YO LO'
       },
       {
         chords: [
           { position: 0, chord: 'C' },
-          { position: 11, chord: 'D' },
+          { position: 13, chord: 'D' },
           { position: 24, chord: 'G' },
-          { position: 31, chord: 'D' },
+          { position: 28, chord: 'D' },
           { position: 35, chord: 'G' }
         ],
         line: 'SIENTO EN MI VIDA, AÚN MÁS, MUCHO MÁS.'
@@ -605,53 +606,57 @@ export const songListWithChords = [
     paragraphs: [
       [{
         chords: [
-          { position: 4, chord: 'D' },
-          { position: 31, chord: 'C' },
-          { position: 48, chord: 'D' }
+          { position: 5, chord: 'D' },
+          { position: 28, chord: 'C' },
+          { position: 41, chord: 'G' }
         ],
         line: 'El mundo está muriendo y la vida se nos va, si no'
       },
       {
         chords: [
+          { position: 0, chord: 'D' },
           { position: 21, chord: 'C' },
-          { position: 35, chord: 'G' }
+          { position: 37, chord: 'G' },
+          { position: 43, chord: 'D' }
         ],
         line: 'actuamos ahora, el futuro nunca llegará. Ahora'
       },
       {
-        chords: [],
-        line: 'estamos juntos compartiendo una verdad,'
+        chords: [
+          { position: 23, chord: 'C' },
+          { position: 37, chord: 'G' }
+        ],
+        line: 'estamos juntos compartiendo una amistad,'
       },
       {
-        chords: [],
-        line: 'buscando soluciones, para un mundo nuevo'
-      },
-      {
-        chords: [],
-        line: 'fabricar.'
+        chords: [
+          { position: 3, chord: 'D' },
+          { position: 29, chord: 'C' },
+          { position: 46, chord: 'G' }
+        ],
+        line: 'buscando soluciones, para un mundo nuevo fabricar.'
       }],
       [{
         chords: [
-          { position: 7, chord: 'C' },
-          { position: 17, chord: 'G' }
+          { position: 14, chord: 'C' },
+          { position: 31, chord: 'G' }
         ],
-        line: 'Y EL SOL SALDRÁ, DIOS NOS GUIARÁ, LOS'
+        line: 'Y EL SOL SALDRÁ, DIOS NOS GUIARÁ,'
       },
       {
         chords: [
-          { position: 0, chord: 'C' },
-          { position: 12, chord: 'G' }
+          { position: 9, chord: 'C' },
+          { position: 29, chord: 'G' }
         ],
-        line: 'LASALLISTAS DEBEMOS LUCHAR CON'
+        line: 'LOS LASALLISTAS DEBEMOS LUCHAR'
       },
       {
         chords: [
-          { position: 0, chord: 'D' },
-          { position: 2, chord: 'C#' },
-          { position: 5, chord: 'C' },
-          { position: 11, chord: 'G' }
+          { position: 10, chord: 'D' },
+          { position: 15, chord: 'C' },
+          { position: 27, chord: 'G' }
         ],
-        line: 'COMPROMISO &Y FRATERNIDAD.'
+        line: 'CON COMPROMISO &Y FRATERNIDAD.'
       }
       ],
       [{
@@ -692,33 +697,33 @@ export const songListWithChords = [
         chords: [
           { position: 0, chord: 'G' },
           { position: 32, chord: 'C' },
-          { position: 38, chord: 'D' },
+          { position: 42, chord: 'D' },
           { position: 50, chord: 'G' }
         ],
         line: 'No temas, soy yo quiero ser tu vida y tu luz. No te'
       },
       {
         chords: [
-          { position: 31, chord: 'C' },
-          { position: 40, chord: 'D' },
-          { position: 51, chord: 'G' }
+          { position: 30, chord: 'C' },
+          { position: 36, chord: 'D' },
+          { position: 48, chord: 'G' }
         ],
         line: 'rechazaré si es que quieres venir a mi, porque: ya no'
       },
       {
         chords: [
-          { position: 14, chord: 'Em' },
-          { position: 28, chord: 'C' },
-          { position: 40, chord: 'D' }
+          { position: 9, chord: 'Em' },
+          { position: 24, chord: 'C' },
+          { position: 36, chord: 'D' }
         ],
         line: 'tendrás sed, te conocerás y más amarás; porque'
       },
       {
         chords: [
-          { position: 0, chord: 'G' },
+          { position: 2, chord: 'G' },
           { position: 17, chord: 'Em' },
-          { position: 31, chord: 'C' },
-          { position: 38, chord: 'D' }
+          { position: 30, chord: 'C' },
+          { position: 39, chord: 'D' }
         ],
         line: 'quiero compartir contigo mi plan, floreciendo para'
       },
@@ -759,21 +764,20 @@ export const songListWithChords = [
       },
       {
         chords: [
-          { position: 0, chord: 'D' },
-          { position: 14, chord: 'C' },
-          { position: 30, chord: 'G' }
+          { position: 12, chord: 'C' },
+          { position: 33, chord: 'G' }
         ],
-        line: 'ACOMPAÑARÉ PERO QUIERO QUE SEAS FIEL. NO'
+        line: 'ACOMPAÑARÉ PERO QUIERO QUE SEAS FIEL. '
       },
       {
         chords: [
           { position: 0, chord: 'D' },
-          { position: 13, chord: 'C' },
-          { position: 27, chord: 'G' },
-          { position: 34, chord: 'D' },
-          { position: 39, chord: 'Em' }
+          { position: 16, chord: 'C' },
+          { position: 29, chord: 'G' },
+          { position: 35, chord: 'D' },
+          { position: 42, chord: 'Em' }
         ],
-        line: 'VINE A DECIRTE QUE TIENES QUE CREER EN MI,'
+        line: 'NO VINE A DECIRTE QUE TIENES QUE CREER EN MI,'
       },
       {
         chords: [
@@ -847,18 +851,17 @@ export const songListWithChords = [
     paragraphs: [
       [{
         chords: [
-          { position: 3, chord: 'C' },
+          { position: 0, chord: 'C' },
           { position: 14, chord: 'F' },
           { position: 25, chord: 'G' },
-          { position: 38, chord: 'C' },
-          { position: 41, chord: 'Em7' }
+          { position: 38, chord: 'C' }
         ],
         line: 'Clavaste tus manos con una sola inquietud,'
       },
       {
         chords: [
-          { position: 1, chord: 'Am' },
-          { position: 18, chord: 'Dm' },
+          { position: 0, chord: 'C' },
+          { position: 18, chord: 'F' },
           { position: 30, chord: 'G' },
           { position: 43, chord: 'C' }
         ],
@@ -873,7 +876,11 @@ export const songListWithChords = [
         line: 'que no hubiesen guerras, que existiese la igualdad.'
       }],
       [{
-        chords: [],
+        chords: [
+          { position: 0, chord: 'C' },
+          { position: 4, chord: 'F' },
+          { position: 8, chord: 'G' }
+        ],
         line: 'LA, LA, LA... ¡CRISTO!'
       }],
       [{
@@ -909,7 +916,11 @@ export const songListWithChords = [
         line: 'nosotros para conseguir la paz.'
       }],
       [{
-        chords: [],
+        chords: [
+          { position: 0, chord: 'C' },
+          { position: 4, chord: 'F' },
+          { position: 8, chord: 'G' }
+        ],
         line: 'LA, LA, LA... ¡CRISTO!'
       }]
     ]
@@ -921,23 +932,24 @@ export const songListWithChords = [
       [{
         chords: [
           { position: 0, chord: 'G' },
-          { position: 20, chord: 'D' },
+          { position: 25, chord: 'D' },
           { position: 29, chord: 'Em' }
         ],
         line: 'Vivo en un país maravilloso, lleno de riqueza y'
       },
       {
         chords: [
-          { position: 3, chord: 'Bm' },
+          { position: 5, chord: 'Bm' },
           { position: 10, chord: 'C' },
-          { position: 36, chord: 'G' },
-          { position: 45, chord: 'A7' }
+          { position: 40, chord: 'G' },
+          { position: 43, chord: 'F' }
         ],
         line: 'voluntad, Dios pintó mi alma blanco y rojo y por nada'
       },
       {
         chords: [
-          { position: 10, chord: 'D' }
+          { position: 1, chord: 'Am7' },
+          { position: 15, chord: 'D' }
         ],
         line: 'cambio este lugar.'
       }],
@@ -955,28 +967,38 @@ export const songListWithChords = [
       }],
       [{
         chords: [
-          { position: 0, chord: 'G' },
-          { position: 18, chord: 'D' },
-          { position: 31, chord: 'Em' }
+          { position: 6, chord: 'G' },
+          { position: 22, chord: 'D' },
+          { position: 35, chord: 'Em' }
         ],
         line: 'Y ASÍ DANZA, DANZA, DANZA, CON SUS PENAS'
       },
       {
         chords: [
-          { position: 2, chord: 'C' },
-          { position: 15, chord: 'G' },
-          { position: 20, chord: 'A7' },
+          { position: 1, chord: 'C' },
+          { position: 12, chord: 'G' },
+          { position: 19, chord: 'A7' },
           { position: 31, chord: 'D' }
         ],
         line: 'CON SUS ALEGRÍAS, CON SU CAMINAR,'
       },
       {
-        chords: [],
+        chords: [
+          { position: 0, chord: 'Bm' },
+          { position: 14, chord: 'C' },
+          { position: 28, chord: 'Em' },
+          { position: 36, chord: 'C' }
+        ],
         line: 'DANZA, DANZA, DANZA, PORQUE ESPERA QUE EL'
       },
       {
-        chords: [],
-        line: 'DIOS DE LA VIDAD LO LIBERARÁ.'
+        chords: [
+          { position: 12, chord: 'G' },
+          { position: 16, chord: 'D' },
+          { position: 19, chord: 'C' },
+          { position: 26, chord: 'G' }
+        ],
+        line: 'DIOS DE LA VIDA LO LIBERARÁ.'
       }],
       [{
         chords: [],
@@ -1016,7 +1038,7 @@ export const songListWithChords = [
       },
       {
         chords: [],
-        line: 'DIOS DE LA VIDAD LO LIBERARÁ.'
+        line: 'DIOS DE LA VIDA LO LIBERARÁ.'
       }]
     ]
   },
@@ -1026,23 +1048,27 @@ export const songListWithChords = [
     paragraphs: [
       [{
         chords: [
-          { position: 0, chord: 'G' },
-          { position: 18, chord: 'Em' }
+          { position: 0, chord: 'G' }
         ],
-        line: 'DEN AL SEÑOR SUS ALABANZAS, DENLE PODER,'
+        line: '&&DEN AL SEÑOR SUS ALABANZAS,'
       },
       {
         chords: [
-          { position: 11, chord: 'C' },
-          { position: 42, chord: 'G' }
+          { position: 0, chord: 'Em' }
         ],
-        line: 'HONOR Y GLORIA, A UNA VOZ CANTEN UN HIMNO &&'
+        line: '&&DENLE PODER, HONOR Y GLORIA,'
       },
       {
         chords: [
-          { position: 10, chord: 'D' }
+          { position: 0, chord: 'C' }
         ],
-        line: 'AL SEÑOR.'
+        line: '&&A UNA VOZ CANTEN UN HIMNO'
+      },
+      {
+        chords: [
+          { position: 0, chord: 'D' }
+        ],
+        line: 'AL SEÑOR'
       }],
       [{
         chords: [],
@@ -1054,54 +1080,31 @@ export const songListWithChords = [
       }],
       [{
         chords: [
-          { position: 0, chord: 'G' },
-          { position: 16, chord: 'Em' },
-          { position: 37, chord: 'G' }
+          { position: 5, chord: 'G' },
+          { position: 19, chord: 'Em' }
         ],
-        line: 'En siete días creó Dios al mundo, Adán pecó y'
+        line: 'En siete días creó Dios al mundo,'
       },
       {
         chords: [
-          { position: 5, chord: 'Em' },
-          { position: 20, chord: 'G' },
-          { position: 34, chord: 'Em' },
-          { position: 45, chord: 'C' }
+          { position: 3, chord: 'G' },
+          { position: 16, chord: 'Em' }
         ],
-        line: 'perdió el cielo. Jesús vino para redimirnos, murió en'
+        line: ' Adán pecó y perdió el cielo.'
       },
       {
         chords: [
-          { position: 10, chord: 'D' }
+          { position: 2, chord: 'G' },
+          { position: 16, chord: 'Em' }
         ],
-        line: 'la cruz y nos salvó.'
-      }],
-      [{
-        chords: [
-          { position: 0, chord: 'G' },
-          { position: 18, chord: 'Em' }
-        ],
-        line: 'DEN AL SEÑOR SUS ALABANZAS, DENLE PODER,'
+        line: 'Jesús vino para redimirnos,'
       },
       {
         chords: [
-          { position: 11, chord: 'C' },
-          { position: 42, chord: 'G' }
+          { position: 2, chord: 'C' },
+          { position: 20, chord: 'D' }
         ],
-        line: 'HONOR Y GLORIA, A UNA VOZ CANTEN UN HIMNO &&'
-      },
-      {
-        chords: [
-          { position: 10, chord: 'D' }
-        ],
-        line: 'AL SEÑOR.'
-      }],
-      [{
-        chords: [],
-        line: '(Canten al Señor y a su nombre, honor y gloria a Dios,'
-      },
-      {
-        chords: [],
-        line: 'al Señor Jesús)'
+        line: 'murió en la cruz y nos salvó.'
       }],
       [{
         chords: [],
@@ -1114,34 +1117,6 @@ export const songListWithChords = [
       {
         chords: [],
         line: 'Tiró la red y hacia Él corrió.'
-      }],
-      [{
-        chords: [
-          { position: 0, chord: 'G' },
-          { position: 18, chord: 'Em' }
-        ],
-        line: 'DEN AL SEÑOR SUS ALABANZAS, DENLE PODER,'
-      },
-      {
-        chords: [
-          { position: 11, chord: 'C' },
-          { position: 42, chord: 'G' }
-        ],
-        line: 'HONOR Y GLORIA, A UNA VOZ CANTEN UN HIMNO &&'
-      },
-      {
-        chords: [
-          { position: 10, chord: 'D' }
-        ],
-        line: 'AL SEÑOR.'
-      }],
-      [{
-        chords: [],
-        line: '(Canten al Señor y a su nombre, honor y gloria a Dios,'
-      },
-      {
-        chords: [],
-        line: 'al Señor Jesús)'
       }]
     ]
   },
@@ -1151,7 +1126,7 @@ export const songListWithChords = [
     paragraphs: [
       [{
         chords: [
-          { position: 2, chord: 'Em' },
+          { position: 0, chord: 'Em' },
           { position: 17, chord: 'G' },
           { position: 33, chord: 'Bm' }
         ],
@@ -1161,24 +1136,19 @@ export const songListWithChords = [
         chords: [
           { position: 0, chord: 'Em' },
           { position: 8, chord: 'Am' },
-          { position: 25, chord: 'Em' },
-          { position: 46, chord: 'B7' }
+          { position: 24, chord: 'Em' },
+          { position: 36, chord: 'B7' },
+          { position: 51, chord: 'Em' }
         ],
-        line: 'madre, antes que tu nacieras, te conocía y te&&'
-      },
-      {
-        chords: [
-          { position: 5, chord: 'Em' }
-        ],
-        line: 'consagré. Para ser mi profeta de las naciones yo te'
+        line: 'madre, antes que tu nacieras, te conocía y te consagré.'
+      }],
+      [ {
+        chords: [],
+        line: 'Para ser mi profeta de las naciones yo te'
       },
       {
         chords: [],
-        line: 'elegí. Irás donde te envíe, lo que te mande'
-      },
-      {
-        chords: [],
-        line: 'proclamarás.'
+        line: 'elegí. Irás donde te envíe, lo que te mande proclamarás.'
       }],
       [{
         chords: [
@@ -1195,20 +1165,16 @@ export const songListWithChords = [
           { position: 26, chord: 'Bm' },
           { position: 36, chord: 'Em' }
         ],
-        line: '¡AY DE MÍ SÍ NO LO HAGO! ¿CÓMO ESCAPAR DE'
+        line: '¡AY DE MÍ SÍ NO LO HAGO! ¿CÓMO ESCAPAR DE TI?'
       },
       {
         chords: [
-          { position: 5, chord: 'Bm' },
-          { position: 16, chord: 'Em' },
-          { position: 27, chord: 'Am' },
-          { position: 38, chord: 'Em' }
+          { position: 1, chord: 'Bm' },
+          { position: 12, chord: 'Em' },
+          { position: 23, chord: 'Am' },
+          { position: 34, chord: 'Em' }
         ],
-        line: 'TI? ¿CÓMO NO HABLAR, SI TU VOZ ME QUEMA'
-      },
-      {
-        chords: [],
-        line: 'DENTRO? (BIS)'
+        line: '¿CÓMO NO HABLAR, SI TU VOZ ME QUEMA DENTRO? (BIS)'
       }],
       [{
         chords: [],
@@ -1257,20 +1223,16 @@ export const songListWithChords = [
           { position: 26, chord: 'Bm' },
           { position: 36, chord: 'Em' }
         ],
-        line: '¡AY DE MÍ SÍ NO LO HAGO! ¿CÓMO ESCAPAR DE'
+        line: '¡AY DE MÍ SÍ NO LO HAGO! ¿CÓMO ESCAPAR DE TI?'
       },
       {
         chords: [
-          { position: 5, chord: 'Bm' },
-          { position: 16, chord: 'Em' },
-          { position: 27, chord: 'Am' },
-          { position: 38, chord: 'Em' }
+          { position: 1, chord: 'Bm' },
+          { position: 12, chord: 'Em' },
+          { position: 23, chord: 'Am' },
+          { position: 34, chord: 'Em' }
         ],
-        line: 'TI? ¿CÓMO NO HABLAR, SI TU VOZ ME QUEMA'
-      },
-      {
-        chords: [],
-        line: 'DENTRO? (BIS)'
+        line: '¿CÓMO NO HABLAR, SI TU VOZ ME QUEMA DENTRO? (BIS)'
       }]
     ]
   },
@@ -1480,14 +1442,14 @@ export const songListWithChords = [
         chords: [
           { position: 3, chord: 'Am' },
           { position: 23, chord: 'F' },
-          { position: 32, chord: 'C' },
-          { position: 44, chord: 'G' }
+          { position: 33, chord: 'C' },
+          { position: 46, chord: 'G' }
         ],
         line: 'La única razón de mi adoración, eres tú mi Jesús.'
       },
       {
         chords: [],
-        line: 'Mí unico motivo para vivir eres tú mi Señor.'
+        line: 'Mí unico motivo para vivir, eres tú mi Señor.'
       },
       {
         chords: [],
@@ -1747,7 +1709,7 @@ export const songListWithChords = [
       [{
         chords: [
           { position: 0, chord: 'C' },
-          { position: 20, chord: 'F' },
+          { position: 24, chord: 'F' },
           { position: 46, chord: 'G' }
         ],
         line: 'Hace algún tiempo, brilló una propuesta que Dios'
