@@ -1839,5 +1839,109 @@ export const songListWithChords = [
         line: 'TÚ Y YO.&&'
       }]
     ]
+  },
+  {
+    title: 'Iglesia joven',
+    url: 'iglesia-joven',
+    paragraphs: [
+      [{
+        chords: [
+          { position: 0, chord: 'D' },
+          { position: 20, chord: 'A' },
+          { position: 24, chord: 'Bm' }
+        ],
+        line: 'Somos como un torrente, que recién se está'
+      },
+      {
+        chords: [
+          { position: 3, chord: 'F#m' },
+          { position: 18, chord: 'G' },
+          { position: 32, chord: 'D' },
+          { position: 34, chord: 'A' }
+        ],
+        line: 'formando y que mañana a más tardar, '
+      },
+      {
+        chords: [
+          { position: 13, chord: 'D' },
+          { position: 16, chord: 'A' }
+        ],
+        line: 'arrasará con todo.'
+      }],
+      [{
+        chords: [],
+        line: ' Nos estamos preparando, para redimir al, mundo, '
+      },
+      {
+        chords: [],
+        line: 'y a ese hombre que está esclavo de si, que '
+      },
+      {
+        chords: [],
+        line: 'forma la sociedad. forma la sociedad.'
+      }],
+      [{
+        chords: [
+          { position: 0, chord: 'D' },
+          { position: 18, chord: 'A' },
+          { position: 33, chord: 'Bm' }
+        ],
+        line: 'SOMOS LA IGLESIA JOVEN, TRATAMOS DE'
+      },
+      {
+        chords: [
+          { position: 15, chord: 'F#m' },
+          { position: 29, chord: 'G' }
+        ],
+        line: 'TRANSFORMAR AL MUNDO ENTERO, EN UNA'
+      },
+      {
+        chords: [
+          { position: 10, chord: 'D' },
+          { position: 25, chord: 'A' }
+        ],
+        line: 'SOCIEDAD LIMPIA Y JUSTA, DONDE NO EXISTA LA'
+      },
+      {
+        chords: [
+          { position: 4, chord: 'D' },
+          { position: 25, chord: 'D' },
+          { position: 29, chord: 'A' }
+        ],
+        line: 'ESCLAVITUD. NO NOS DETENDRÁN NADA NI NADIE,'
+      },
+      {
+        chords: [
+          { position: 2, chord: 'Bm' },
+          { position: 23, chord: 'F#m' },
+          { position: 36, chord: 'G' }
+        ],
+        line: 'SEREMOS LOS QUE ROMPAN LAS CADENAS. LAS'
+      },
+      {
+        chords: [
+          { position: 12, chord: 'D' },
+          { position: 18, chord: 'A' },
+          { position: 38, chord: 'D' }
+        ],
+        line: 'CADENAS QUE ATAN, A ESTE MUNDO SIN AMOR.'
+      }],
+      [{
+        chords: [],
+        line: 'Será una guerra sin armas, pero si de muchos'
+      },
+      {
+        chords: [],
+        line: 'cambios, al cual el hombre tendrá que enfrentar con'
+      },
+      {
+        chords: [],
+        line: 'solo su conversión. Entonces será otra la sociedad'
+      },
+      {
+        chords: [],
+        line: 'ideal, la que Cristo quiso en la tierra y predicó al mundo.'
+      }]
+    ]
   }
 ];
