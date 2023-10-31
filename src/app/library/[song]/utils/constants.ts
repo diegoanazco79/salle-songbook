@@ -1943,5 +1943,168 @@ export const songListWithChords = [
         line: 'ideal, la que Cristo quiso en la tierra y predicó al mundo.'
       }]
     ]
+  },
+  {
+    title: 'María de Nazareth',
+    url: 'maria-de-nazareth',
+    paragraphs: [
+      [{
+        chords: [
+          { position: 0, chord: 'D' }
+        ],
+        line: 'Dulce muchacha humilde de Palestina, '
+      },
+      {
+        chords: [
+          { position: 3, chord: 'Em' },
+          { position: 16, chord: 'A7' }
+        ],
+        line: "a ti pa' ser su madre Dios te eligió."
+      },
+      {
+        chords: [
+          { position: 0, chord: 'G' },
+          { position: 36, chord: 'D' }
+        ],
+        line: 'Y cuando desde el cielo te mandó un ángel'
+      },
+      {
+        chords: [
+          { position: 23, chord: 'Em' },
+          { position: 32, chord: 'A7' }
+        ],
+        line: 'para pedir tu consentimiento tú le dijiste:'
+      },
+      {
+        chords: [
+          { position: 13, chord: 'D(D7)' }
+        ],
+        line: '"Tu esclava soy" (bis)'
+      }],
+      [{
+        chords: [
+          { position: 4, chord: 'Em' },
+          { position: 18, chord: 'A7' },
+          { position: 27, chord: 'D(D7)' }
+        ],
+        line: 'POR ESO VOY A DARTE MI CORAZÓN,'
+      },
+      {
+        chords: [
+          { position: 6, chord: 'G' },
+          { position: 20, chord: 'D' }
+        ],
+        line: 'Y CANTANDO REPETIRÉ TU NOMBRE,'
+      },
+      {
+        chords: [
+          { position: 2, chord: 'Em(A7)' },
+          { position: 14, chord: 'D(D7)' }
+        ],
+        line: 'MARÍA DE NAZARETH. (BIS)'
+      }],
+      [{
+        chords: [],
+        line: 'En aquél tallercito de carpintero. Dios aprendió el'
+      },
+      {
+        chords: [],
+        line: 'oficio del buen José; y tú, yendo y viniendo de la'
+      },
+      {
+        chords: [],
+        line: 'cocina, guardabas cosas dentro del alma, que le'
+      },
+      {
+        chords: [],
+        line: 'sirvieron para después. (bis)'
+      }],
+      [{
+        chords: [],
+        line: 'Viendo morir a tu Hijo sobre el Calvario, te hiciste'
+      },
+      {
+        chords: [],
+        line: 'nuestra madre junto a la cruz y quedaste esperando'
+      },
+      {
+        chords: [],
+        line: 'porque sabías que volvería, resucitado de entre los'
+      },
+      {
+        chords: [],
+        line: 'muertos tu buen Jesús. (bis)'
+      }]
+    ]
+  },
+  {
+    title: 'Muévete en mí',
+    url: 'muevete-en-mi',
+    paragraphs: [
+      [{
+        chords: [
+          { position: 6, chord: 'D' },
+          { position: 22, chord: 'G' },
+          { position: 35, chord: 'D' }
+        ],
+        line: 'El Espíritu de Dios está en este lugar, el Espíritu de'
+      },
+      {
+        chords: [
+          { position: 10, chord: 'G' },
+          { position: 25, chord: 'A' }
+        ],
+        line: 'Dios se mueve en este lugar.'
+      }],
+      [{
+        chords: [
+          { position: 7, chord: 'D' },
+          { position: 20, chord: 'G' },
+          { position: 32, chord: 'D' },
+          { position: 44, chord: 'G' }
+        ],
+        line: 'Está aquí para consolar, está aquí para liberar, está'
+      },
+      {
+        chords: [
+          { position: 3, chord: 'D' },
+          { position: 22, chord: 'A' },
+          { position: 42, chord: 'D(D7)' }
+        ],
+        line: 'aquí para guiar, el Espíritu de Dios está aquí.'
+      }],
+      [{
+        chords: [
+          { position: 11, chord: 'G' },
+          { position: 12, chord: 'A' },
+          { position: 23, chord: 'F#m' },
+          { position: 27, chord: 'Bm' }
+        ],
+        line: 'MUÉVETE EN MÍ, MUÉVETE EN MÍ,'
+      },
+      {
+        chords: [
+          { position: 10, chord: 'G' },
+          { position: 24, chord: 'A' }
+        ],
+        line: 'TOCA MI MENTE Y MI CORAZÓN, '
+      },
+      {
+        chords: [
+          { position: 9, chord: 'F#m' },
+          { position: 21, chord: 'Bm' }
+        ],
+        line: 'LLENA MI VIDA DE TU AMOR, '
+      },
+      {
+        chords: [
+          { position: 11, chord: 'G' },
+          { position: 22, chord: 'A' },
+          { position: 41, chord: 'D' },
+          { position: 42, chord: 'D7' }
+        ],
+        line: 'MUÉVETE EN MI, DIOS ESPÍRITU, MUÉVETE EN MI.'
+      }]
+    ]
   }
 ];
