@@ -24,6 +24,14 @@ export default function Home () {
           </Button>
         </Link>
       </div>
+      <div className='mt-5'>
+        <p className='text-xs pb-1 text-center opacity-60'>
+          Desarrollador: Diego Añazco.
+        </p>
+        <p className='text-xs text-center opacity-60'>
+          Letras y acordes: Jose Miguel Chambi, Paúl Portilla, Sebastián Alarcón.
+        </p>
+      </div>
     </main>
   );
 }
