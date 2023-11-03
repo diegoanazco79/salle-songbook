@@ -11,3 +11,19 @@ export const songHasChords = (data: Paragraphs): boolean => {
     return some(paragraphArray, paragraph => !isEmpty(paragraph.chords));
   });
 };
+
+/**
+ * Check if a line is a chorus
+ * @param line
+ * @returns
+ */
+export const isChorus = (line: string) => line === line.toUpperCase();
+
+/**
+ * Check if a line is an entire line chorus
+ * @param line
+ * @returns
+ */
+export const isEntireLineChorus = (line: string) => {
+  return line.split('').every((character) => isChorus(character));
+};

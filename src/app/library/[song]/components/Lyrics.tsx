@@ -1,7 +1,7 @@
 'use client';
 import React from 'react';
 
-import { songHasChords } from '../utils/functions';
+import { isEntireLineChorus, songHasChords } from '../utils/functions';
 
 import { CHORDS_MODE, LYRICS_MODE } from '../utils/constants';
 
@@ -18,8 +18,6 @@ export interface Props {
   mode?: string;
 }
 const Lyrics = ({ paragraphs, mode }: Props) => {
-  const isChorus = (line: string) => line === line.toUpperCase();
-
   const hasChords = songHasChords({ paragraphs });
 
   return (
@@ -34,7 +32,7 @@ const Lyrics = ({ paragraphs, mode }: Props) => {
                     {paragraph?.line?.split('').map((character, characterIndex) => {
                       const chord = paragraph?.chords?.find(chord => characterIndex === chord.position);
                       return (
-                        <span key={characterIndex} className={`text-xs md:text-base ${chord ? 'relative inline-block' : ''} ${isChorus(paragraph.line.split('')[0]) && isChorus(paragraph.line.split('')[1]) && isChorus(paragraph.line.split('')[2]) ? 'font-semibold' : ''}`}>
+                        <span key={characterIndex} className={`text-xs md:text-base ${chord ? 'relative inline-block' : ''} ${isEntireLineChorus(paragraph?.line) ? 'font-semibold' : ''}`}>
                           {chord && mode === CHORDS_MODE && <span className='absolute top-[-20px] font-semibold left-0'>{chord.chord}</span>}
                           {mode === CHORDS_MODE && <span className={character === '&' ? 'text-transparent' : ''}>{character}</span>}
                           {mode === LYRICS_MODE && <span>{character === '&' ? '' : character}</span>}
