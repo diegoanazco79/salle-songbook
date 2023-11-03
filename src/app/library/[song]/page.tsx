@@ -5,9 +5,12 @@ import Link from 'next/link';
 
 import Lyrics from './components/Lyrics';
 import ModeSelector from './components/ModeSelector';
+import { Button, Tooltip } from '@nextui-org/react';
 
 import { songList, LYRICS_MODE } from './utils/constants';
+
 import { AiOutlineArrowLeft } from 'react-icons/ai';
+import { MdOutlineReportGmailerrorred } from 'react-icons/md';
 
 const SongPage = ({ params }: { params: { song: string } }) => {
   const currentSong = songList.find((song) => song.url === params.song);
@@ -28,6 +31,14 @@ const SongPage = ({ params }: { params: { song: string } }) => {
       </h1>
       <ModeSelector mode={mode} setMode={setMode} />
       <Lyrics mode={mode} paragraphs={currentSong?.paragraphs} />
+
+      <div className='mt-14 flex justify-center'>
+        <Tooltip content='¿Encontraste un error? ¡Avísanos!'>
+          <Button color='primary' variant='flat' isIconOnly>
+            <MdOutlineReportGmailerrorred className='h-[20px] w-[20px]' />
+          </Button>
+        </Tooltip>
+      </div>
     </main>
   );
 };
