@@ -34,9 +34,11 @@ const SongPage = ({ params }: { params: { song: string } }) => {
 
       <div className='mt-14 flex justify-center'>
         <Tooltip content='¿Encontraste un error? ¡Avísanos!'>
-          <Button color='primary' variant='flat' isIconOnly>
-            <MdOutlineReportGmailerrorred className='h-[20px] w-[20px]' />
-          </Button>
+          <Link href={`/report/${currentSong?.url}`}>
+            <Button color='primary' variant='flat' isIconOnly>
+              <MdOutlineReportGmailerrorred className='h-[20px] w-[20px]' />
+            </Button>
+          </Link>
         </Tooltip>
       </div>
     </main>

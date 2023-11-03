@@ -8,7 +8,7 @@ interface Props extends ButtonProps {
 }
 
 const Button = (props: Props) => {
-  const { typeStyle, children, ...buttonProps } = props;
+  const { typeStyle, children, className, ...buttonProps } = props;
 
   const currentStyle = typeStyle === 'primary'
     ? 'bg-lightPurple-900 hover:bg-lightPurple-950 text-white'
@@ -16,7 +16,7 @@ const Button = (props: Props) => {
 
   return (
     <NextUIButton
-      className={`${props.className} ${currentStyle} transition ease-in-out duration-300 `}
+      className={`${currentStyle} transition ease-in-out duration-300 ${className}`}
       {...buttonProps}
     >
       {children}
