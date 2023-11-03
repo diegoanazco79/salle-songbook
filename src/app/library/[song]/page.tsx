@@ -3,16 +3,14 @@
 import React, { useState } from 'react';
 import Link from 'next/link';
 
-import LineChords from './components/LineChords';
+import Lyrics from './components/Lyrics';
 import ModeSelector from './components/ModeSelector';
-import SimpleLine from './components/SimpleLine';
 
-import { songsList, songListWithChords, LYRICS_MODE, CHORDS_MODE } from './utils/constants';
+import { songList, LYRICS_MODE } from './utils/constants';
 import { AiOutlineArrowLeft } from 'react-icons/ai';
 
 const SongPage = ({ params }: { params: { song: string } }) => {
-  const currentSong = songsList.find((song) => song.url === params.song);
-  const currentSongWithChords = songListWithChords.find((song) => song.url === params.song);
+  const currentSong = songList.find((song) => song.url === params.song);
 
   const [mode, setMode] = useState(LYRICS_MODE);
 
@@ -29,8 +27,7 @@ const SongPage = ({ params }: { params: { song: string } }) => {
         {currentSong?.title}
       </h1>
       <ModeSelector mode={mode} setMode={setMode} />
-      {mode === LYRICS_MODE && <SimpleLine currentSong={currentSong} />}
-      {mode === CHORDS_MODE && <LineChords paragraphs={currentSongWithChords?.paragraphs} />}
+      <Lyrics mode={mode} paragraphs={currentSong?.paragraphs} />
     </main>
   );
 };
