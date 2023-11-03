@@ -17,7 +17,7 @@ const GroupSong = ({ wordKey, songsList }: Props) => {
         {songsList.map((song) => (
           <Link
             key={song.url}
-            className='border p-2 rounded-xl transition ease-in-out duration-300 hover:bg-lightPurple-100 hover:border-lightPurple-400'
+            className='border p-2 rounded-xl transition ease-in-out duration-300 hover:bg-lightPurple-100 hover:border-lightPurple-400 cursor-pointer'
             href={`/library/${song.url}`}
           >
             {song.title}
