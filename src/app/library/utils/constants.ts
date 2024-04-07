@@ -12,6 +12,10 @@ export const songsNamesList = [
     url: 'aleluya'
   },
   {
+    title: 'Aleluya, gloria aleluya',
+    url: 'aleluya-gloria-aleluya'
+  },
+  {
     title: 'Alma misionera',
     url: 'alma-misionera'
   },

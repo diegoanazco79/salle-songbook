@@ -209,6 +209,52 @@ export const songList = [
     ]
   },
   {
+    title: 'Aleluya, gloria aleluya',
+    url: 'aleluya-gloria-aleluya',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 0, chord: 'C' },
+            { position: 2, chord: '/' },
+            { position: 3, chord: 'Am' },
+            { position: 6, chord: '/' },
+            { position: 9, chord: 'F' },
+            { position: 11, chord: '/' },
+            { position: 12, chord: 'G' }
+          ],
+          line: 'ALELUYA, &GLORIA ALELUYA (X4)'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 0, chord: 'C' }
+          ],
+          line: '& Cantad alegres, alegres a Dios,'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'Am' }
+          ],
+          line: '& habitantes de toda la tierra.'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'F' }
+          ],
+          line: '& Servid a Dios con alegría,'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'G' }
+          ],
+          line: '& venid a su presencia con júbilo.'
+        }
+      ]
+    ]
+  },
+  {
     title: 'Alma misionera',
     url: 'alma-misionera',
     paragraphs: [
