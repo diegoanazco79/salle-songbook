@@ -1525,15 +1525,15 @@ export const songList = [
       }],
       [{
         chords: [],
-        line: ' Nos estamos preparando, para redimir al, mundo, '
+        line: 'Nos estamos preparando, para redimir al mundo,'
       },
       {
         chords: [],
-        line: 'y a ese hombre que está esclavo de si, que '
+        line: 'y a ese hombre que está esclavo de si,'
       },
       {
         chords: [],
-        line: 'forma la sociedad. forma la sociedad.'
+        line: 'que forma la sociedad.'
       }],
       [{
         chords: [
