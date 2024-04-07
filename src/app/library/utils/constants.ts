@@ -84,8 +84,20 @@ export const songsNamesList = [
     url: 'nadie-te-ama-como-yo'
   },
   {
+    title: 'No nos callaran',
+    url: 'no-nos-callaran'
+  },
+  {
+    title: 'Padre Nuestro I',
+    url: 'padre-nuestro-i'
+  },
+  {
     title: 'Padre Amerindio',
     url: 'padre-amerindio'
+  },
+  {
+    title: 'Padre Nuestro III',
+    url: 'padre-nuestro-iii'
   },
   {
     title: 'Que cante la vida',

@@ -228,27 +228,19 @@ export const songList = [
       ],
       [
         {
-          chords: [
-            { position: 0, chord: 'C' }
-          ],
+          chords: [{ position: 0, chord: 'C' }],
           line: '& Cantad alegres, alegres a Dios,'
         },
         {
-          chords: [
-            { position: 0, chord: 'Am' }
-          ],
+          chords: [{ position: 0, chord: 'Am' }],
           line: '& habitantes de toda la tierra.'
         },
         {
-          chords: [
-            { position: 0, chord: 'F' }
-          ],
+          chords: [{ position: 0, chord: 'F' }],
           line: '& Servid a Dios con alegría,'
         },
         {
-          chords: [
-            { position: 0, chord: 'G' }
-          ],
+          chords: [{ position: 0, chord: 'G' }],
           line: '& venid a su presencia con júbilo.'
         }
       ]
@@ -372,6 +364,204 @@ export const songList = [
         {
           chords: [],
           line: 'TRISTE SIMPLEMENTE POR NO SABER DE TI.'
+        }
+      ]
+    ]
+  },
+  {
+    title: 'No nos callaran',
+    url: 'no-nos-callaran',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 4, chord: 'C' },
+            { position: 17, chord: 'G' },
+            { position: 23, chord: 'Am' }
+          ],
+          line: 'La gente piensa que somos unos locos'
+        },
+        {
+          chords: [
+            { position: 6, chord: 'F' },
+            { position: 11, chord: 'C' },
+            { position: 16, chord: 'G' },
+            { position: 26, chord: 'Am' }
+          ],
+          line: 'de remate, &porque seguimos al'
+        },
+        {
+          chords: [
+            { position: 7, chord: 'D' },
+            { position: 27, chord: 'G' }
+          ],
+          line: 'Señor && y no hacemos disparates'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 16, chord: 'E' }
+          ],
+          line: 'Mientras tanto, nos llaman con'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'Am' },
+            { position: 5, chord: '(Am-' },
+            { position: 9, chord: 'G-' },
+            { position: 11, chord: 'F)' },
+            { position: 17, chord: 'C' },
+            { position: 27, chord: 'E' }
+          ],
+          line: 'pena &&&&&&& zanahorias y bajábamos'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'E7' },
+            { position: 5, chord: 'Am' },
+            { position: 14, chord: 'G' },
+            { position: 17, chord: 'F' },
+            { position: 31, chord: 'G' }
+          ],
+          line: 'la cabeza por temor al qué dirán.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 0, chord: 'C' },
+            { position: 8, chord: 'G' },
+            { position: 15, chord: 'Am' },
+            { position: 22, chord: 'F' },
+            { position: 24, chord: 'C' }
+          ],
+          line: 'NO, NO, NO, NO NO NO NO &&'
+        },
+        {
+          chords: [{ position: 12, chord: 'G' }],
+          line: 'NO NOS CALLARÁN'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'Am' },
+            { position: 9, chord: 'G' },
+            { position: 18, chord: 'F' },
+            { position: 23, chord: 'D' }
+          ],
+          line: 'NUESTRA VOZ SE ESCUCHARÁ'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 11, chord: 'Fsus-' },
+            { position: 16, chord: 'Gsus' }
+          ],
+          line: '&&CADA DÍA MÁS (BIS)'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'La gente piensa que somos cristianos de'
+        },
+        {
+          chords: [],
+          line: 'otra galaxia porque cantamos rock and'
+        },
+        {
+          chords: [],
+          line: 'roll y no la música sacra.'
+        },
+        {
+          chords: [],
+          line: 'Y algunos piensan que somos solo tres o'
+        },
+        {
+          chords: [],
+          line: 'cuatro gatos, no saben que en un año más'
+        },
+        {
+          chords: [],
+          line: 'ya no podrán ni contarnos.'
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Padre Nuestro I',
+    url: 'padre-nuestro-i',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 0, chord: 'Bm' },
+            { position: 25, chord: 'A' },
+            { position: 31, chord: 'B' }
+          ],
+          line: 'Padre Nuestro, tú que estás en los'
+        },
+        {
+          chords: [{ position: 16, chord: 'Bm' }],
+          line: 'que aman la verdad, haz que el Reino'
+        },
+        {
+          chords: [
+            { position: 8, chord: 'G' },
+            { position: 14, chord: 'G' },
+            { position: 20, chord: 'B' }
+          ],
+          line: 'que por ti se dio, &&llegue pronto'
+        },
+        {
+          chords: [
+            { position: 10, chord: 'G' },
+            { position: 15, chord: 'D' }
+          ],
+          line: 'a nuestro corazón.'
+        },
+        {
+          chords: [
+            { position: 7, chord: 'G' },
+            { position: 18, chord: 'A' },
+            { position: 29, chord: 'D' },
+            { position: 37, chord: 'Bm' }
+          ],
+          line: 'Y el amor que tu hijo nos dejó, el amor,'
+        },
+        {
+          chords: [
+            { position: 6, chord: 'A' },
+            { position: 14, chord: 'Bm' }
+          ],
+          line: 'reine ya en nosotros.'
+        },
+        {
+          chords: [],
+          line: 'Padre Nuestro...'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'En el pan de la unidad, Cristo danos tú'
+        },
+        {
+          chords: [],
+          line: 'la paz y olvidate de nuestro mal si'
+        },
+        {
+          chords: [],
+          line: 'olvidamos el de los demás. No permitas'
+        },
+        {
+          chords: [],
+          line: 'que caigamos en tentación, ¡Oh, Señor!'
+        },
+        {
+          chords: [],
+          line: 'Ten piedad del mundo.'
         }
       ]
     ]
@@ -2395,6 +2585,141 @@ export const songList = [
             { position: 4, chord: 'G' }
           ],
           line: 'MARÍA.'
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Padre Nuestro III',
+    url: 'padre-nuestro-iii',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 6, chord: 'G' },
+            { position: 32, chord: 'Em' }
+          ],
+          line: 'En el mar he oído hoy. Señor tu voz'
+        },
+        {
+          chords: [
+            { position: 20, chord: 'C' }
+          ],
+          line: 'que me llamó y me pidió que me'
+        },
+        {
+          chords: [
+            { position: 5, chord: 'Am' },
+            { position: 20, chord: 'D' }
+          ],
+          line: 'entregara a mis hermanos.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Esa voz me transformó; mi vida entera ya'
+        },
+        {
+          chords: [],
+          line: 'cambió y sólo pienso ahora, Señor, en'
+        },
+        {
+          chords: [],
+          line: 'repetirte:'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 0, chord: 'G' }
+          ],
+          line: 'PADRE NUESTRO, EN TI CREEMOS,'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'Em' }
+          ],
+          line: 'PADRE NUESTRO, TE OFRECEMOS,'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'C' },
+            { position: 16, chord: 'Am' }
+          ],
+          line: 'PADRE NUESTRO, NUESTRAS'
+        },
+        {
+          chords: [
+            { position: 12, chord: 'D' }
+          ],
+          line: 'MANOS DE HERMANOS. (BIS)'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Cuando vaya a otro lugar tendré, Señor,'
+        },
+        {
+          chords: [],
+          line: 'que abandonar a mi familia, a mis'
+        },
+        {
+          chords: [],
+          line: 'amigos por seguirte. Pero sé que si algún'
+        },
+        {
+          chords: [],
+          line: 'día podré enseñar tu verdad a mi'
+        },
+        {
+          chords: [],
+          line: 'hermano, y junto a él yo repetirte:'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Cuando vaya a otro lugar conmigo te'
+        },
+        {
+          chords: [],
+          line: 'quiero llevar, a mi familia, a mis amigos.'
+        },
+        {
+          chords: [],
+          line: 'Y seguirte. Porque tú eres el amor,'
+        },
+        {
+          chords: [],
+          line: 'porque tu nombre es la verdad, porque'
+        },
+        {
+          chords: [],
+          line: 'jamás me cansaré de repetirte:'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Cuando miro alrededor, Señor me cuesta'
+        },
+        {
+          chords: [],
+          line: 'comprender, me siento solo y al hablar'
+        },
+        {
+          chords: [],
+          line: 'me quema un grito. Se confunde con'
+        },
+        {
+          chords: [],
+          line: 'dolor, Señor, la dicha de saber que estás'
+        },
+        {
+          chords: [],
+          line: 'de nuevo junto a mi, te necesito.'
         }
       ]
     ]
