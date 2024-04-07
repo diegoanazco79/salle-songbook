@@ -4,6 +4,10 @@ export const songsNamesList = [
     url: 'creo-en-ti'
   },
   {
+    title: 'Adorador',
+    url: 'adorador'
+  },
+  {
     title: 'Alma misionera',
     url: 'alma-misionera'
   },
