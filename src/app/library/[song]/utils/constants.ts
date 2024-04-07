@@ -60,6 +60,155 @@ export const songList = [
     ]
   },
   {
+    title: 'Aleluya',
+    url: 'aleluya',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 0, chord: 'C' },
+            { position: 13, chord: 'Am' }
+          ],
+          line: 'Oi hablar de la canción'
+        },
+        {
+          chords: [
+            { position: 8, chord: 'C' },
+            { position: 19, chord: 'Am' }
+          ],
+          line: 'que el rey David cantó al Señor'
+        },
+        {
+          chords: [
+            { position: 4, chord: 'F' },
+            { position: 16, chord: 'G' },
+            { position: 29, chord: 'C(G)' }
+          ],
+          line: 'ya sé que no te gusta la poesía.'
+        },
+        {
+          chords: [
+            { position: 2, chord: 'C' },
+            { position: 13, chord: 'F' },
+            { position: 19, chord: 'G' }
+          ],
+          line: 'Empieza a andar, subir, bajar'
+        },
+        {
+          chords: [
+            { position: 4, chord: 'Am' },
+            { position: 18, chord: 'F' }
+          ],
+          line: 'las notas fluyen sin cesar,'
+        },
+        {
+          chords: [
+            { position: 4, chord: 'G' },
+            { position: 21, chord: 'Em' },
+            { position: 32, chord: 'Am' }
+          ],
+          line: 'temblando el rey compuso un aleluya.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 4, chord: 'F' },
+            { position: 12, chord: 'Am' },
+            { position: 22, chord: 'F' }
+          ],
+          line: 'ALELUYA, ALELUYA, ALELUYA'
+        },
+        {
+          chords: [
+            { position: 6, chord: 'C' },
+            { position: 10, chord: 'G' },
+            { position: 13, chord: 'C' }
+          ],
+          line: 'ALELU-U-U-U-YA'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Al contemplarla sin hablar'
+        },
+        {
+          chords: [],
+          line: 'allí desnuda en soledad'
+        },
+        {
+          chords: [],
+          line: 'y la luz de la luna se envolvía'
+        },
+        {
+          chords: [],
+          line: 'rompió tu trono y te amarró'
+        },
+        {
+          chords: [],
+          line: 'tomó tu pelo y lo cortó'
+        },
+        {
+          chords: [],
+          line: 'y de tus labios vino un aleluya.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Quiza haya estado antes aquí,'
+        },
+        {
+          chords: [],
+          line: 'lo que estoy viendo ya lo vi'
+        },
+        {
+          chords: [],
+          line: 'estaba solo antes de que vinieras'
+        },
+        {
+          chords: [],
+          line: 'he visto tu bandera ondear'
+        },
+        {
+          chords: [],
+          line: 'a tiempo de un amor triunfal'
+        },
+        {
+          chords: [],
+          line: 'que acaba roto como un aleluya.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Tú me enseñaste a separar'
+        },
+        {
+          chords: [],
+          line: 'la mentira y la verdad pero'
+        },
+        {
+          chords: [],
+          line: 'no crees que pueda aprender a amar'
+        },
+        {
+          chords: [],
+          line: 'recuerdo noches sin final'
+        },
+        {
+          chords: [],
+          line: 'amor intenso, celestial'
+        },
+        {
+          chords: [],
+          line: 'y cada aliento era un aleluya.'
+        }
+      ]
+    ]
+  },
+  {
     title: 'Alma misionera',
     url: 'alma-misionera',
     paragraphs: [

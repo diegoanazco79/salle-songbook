@@ -8,6 +8,10 @@ export const songsNamesList = [
     url: 'adorador'
   },
   {
+    title: 'Aleluya',
+    url: 'aleluya'
+  },
+  {
     title: 'Alma misionera',
     url: 'alma-misionera'
   },
