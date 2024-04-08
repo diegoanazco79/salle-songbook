@@ -2602,9 +2602,7 @@ export const songList = [
           line: 'En el mar he oído hoy. Señor tu voz'
         },
         {
-          chords: [
-            { position: 20, chord: 'C' }
-          ],
+          chords: [{ position: 20, chord: 'C' }],
           line: 'que me llamó y me pidió que me'
         },
         {
@@ -2631,15 +2629,11 @@ export const songList = [
       ],
       [
         {
-          chords: [
-            { position: 0, chord: 'G' }
-          ],
+          chords: [{ position: 0, chord: 'G' }],
           line: 'PADRE NUESTRO, EN TI CREEMOS,'
         },
         {
-          chords: [
-            { position: 0, chord: 'Em' }
-          ],
+          chords: [{ position: 0, chord: 'Em' }],
           line: 'PADRE NUESTRO, TE OFRECEMOS,'
         },
         {
@@ -2650,9 +2644,7 @@ export const songList = [
           line: 'PADRE NUESTRO, NUESTRAS'
         },
         {
-          chords: [
-            { position: 12, chord: 'D' }
-          ],
+          chords: [{ position: 12, chord: 'D' }],
           line: 'MANOS DE HERMANOS. (BIS)'
         }
       ],
@@ -2819,6 +2811,349 @@ export const songList = [
     ]
   },
   {
+    title: 'Pescador',
+    url: 'pescador',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 10, chord: 'D' },
+            { position: 12, chord: 'A' },
+            { position: 14, chord: 'Bm' },
+            { position: 17, chord: 'F#m' },
+            { position: 21, chord: 'G' },
+            { position: 23, chord: 'D' },
+            { position: 25, chord: 'A' }
+          ],
+          line: '&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'D' },
+            { position: 8, chord: 'A' },
+            { position: 21, chord: 'Bm' },
+            { position: 25, chord: 'F#m' }
+          ],
+          line: 'Voy navegando sin timón. En mar'
+        },
+        {
+          chords: [
+            { position: 2, chord: 'G' },
+            { position: 15, chord: 'D' },
+            { position: 25, chord: 'A' }
+          ],
+          line: 'abierto me abandona la razón.'
+        },
+        {
+          chords: [
+            { position: 7, chord: 'D' },
+            { position: 16, chord: 'G' },
+            { position: 28, chord: 'D' }
+          ],
+          line: 'Apenas y sobrevivo, como un niño'
+        },
+        {
+          chords: [
+            { position: 3, chord: 'A' },
+            { position: 16, chord: 'G' },
+            { position: 27, chord: 'A' }
+          ],
+          line: 'perdido, busco algo que no hay en'
+        },
+        {
+          chords: [{ position: 7, chord: 'D' }],
+          line: 'mi interior.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 0, chord: 'D' },
+            { position: 9, chord: 'A' },
+            { position: 22, chord: 'Bm' },
+            { position: 27, chord: 'F#m' }
+          ],
+          line: 'MÁS DE REPENTE LLEGAS TÚ. &&Y&&'
+        },
+        {
+          chords: [
+            { position: 7, chord: 'G' },
+            { position: 22, chord: 'D' }
+          ],
+          line: 'EN TU PALABRA EL FARO DE LA'
+        },
+        {
+          chords: [
+            { position: 8, chord: 'A' },
+            { position: 25, chord: 'D' }
+          ],
+          line: 'BLANCA LUZ. LLÉVAME A PUERTO'
+        },
+        {
+          chords: [
+            { position: 2, chord: 'G' },
+            { position: 14, chord: 'D' },
+            { position: 23, chord: 'A' }
+          ],
+          line: 'SEGURO DONDE HAY UN FUTURO.'
+        },
+        {
+          chords: [
+            { position: 7, chord: 'G' },
+            { position: 17, chord: 'A' }
+          ],
+          line: 'DONDE EXISTA UN CIELO MÁS'
+        },
+        {
+          chords: [{ position: 1, chord: 'D' }],
+          line: 'AZÚL.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 6, chord: 'D' },
+            { position: 22, chord: 'A' }
+          ],
+          line: 'TU PALABRA ES LA ESPERANZA'
+        },
+        {
+          chords: [
+            { position: 7, chord: 'Bm' },
+            { position: 20, chord: 'F#m' }
+          ],
+          line: 'QUE BUSCAMOS TANTAS ALMAS.'
+        },
+        {
+          chords: [
+            { position: 6, chord: 'G' },
+            { position: 16, chord: 'D' }
+          ],
+          line: 'PESCADOR, TÚ SERÁS EL VIENTO'
+        },
+        {
+          chords: [
+            { position: 2, chord: 'A' },
+            { position: 12, chord: 'G' },
+            { position: 20, chord: 'A' }
+          ],
+          line: 'NUEVO. TÚ SERÁS EL AMIGO QUE'
+        },
+        {
+          chords: [
+            { position: 6, chord: 'D' },
+            { position: 16, chord: 'A' },
+            { position: 21, chord: 'Bm' }
+          ],
+          line: 'NOS LLEVE A UN MUNDO NUEVO.'
+        },
+        {
+          chords: [
+            { position: 7, chord: 'F#m' },
+            { position: 16, chord: 'A' },
+            { position: 24, chord: 'G' }
+          ],
+          line: 'EN TU GRAN CORAZÓN INFINITO.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Sí! Cuesta a veces continuar en el'
+        },
+        {
+          chords: [],
+          line: 'naufragio y entre tanta oscuridad. En'
+        },
+        {
+          chords: [],
+          line: 'medio de un mar que calla y la fe que nos'
+        },
+        {
+          chords: [],
+          line: 'falta voy en busca de un poco de paz.'
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Pon tu lámpara afuera',
+    url: 'pon-tu-lampara-afuera',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 0, chord: 'C' },
+            { position: 7, chord: 'F' },
+            { position: 17, chord: 'C' },
+            { position: 28, chord: 'F' }
+          ],
+          line: 'Pon tu lámpara afuera, es mejor'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'C' },
+            { position: 21, chord: 'F' },
+            { position: 31, chord: 'G' }
+          ],
+          line: 'que se apague si el viento le llega.'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'Am' },
+            { position: 17, chord: 'Em' },
+            { position: 29, chord: 'F' }
+          ],
+          line: 'Será antorcha de Dios tu oración'
+        },
+        {
+          chords: [
+            { position: 14, chord: 'C' },
+            { position: 27, chord: 'G' }
+          ],
+          line: 'encendida por Él con la nueva'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'F' },
+            { position: 16, chord: 'G' },
+            { position: 27, chord: 'C' },
+            { position: 29, chord: 'A7' }
+          ],
+          line: '&&alegría que infunde su amor.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 0, chord: 'D' },
+            { position: 7, chord: 'G' },
+            { position: 17, chord: 'D' },
+            { position: 28, chord: 'G' }
+          ],
+          line: 'Pon tu lámpara afuera, es mejor'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'D' },
+            { position: 21, chord: 'G' },
+            { position: 31, chord: 'A' }
+          ],
+          line: 'que se caiga si el viento la vuelca.'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'Bm' },
+            { position: 17, chord: 'F#m' },
+            { position: 29, chord: 'G' }
+          ],
+          line: 'Si la llama hace arder tu mansión,'
+        },
+        {
+          chords: [
+            { position: 17, chord: 'D' },
+            { position: 28, chord: 'A' }
+          ],
+          line: 'serás como una hoguera fraterna'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 19, chord: 'A' },
+            { position: 30, chord: 'D' },
+            { position: 33, chord: 'A7' }
+          ],
+          line: '&&que congrega a los hijos de Dios.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 0, chord: 'D' },
+            { position: 7, chord: 'G' },
+            { position: 17, chord: 'D' },
+            { position: 28, chord: 'G' }
+          ],
+          line: 'Pon tu lámpara afuera, es mejor'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'D' },
+            { position: 18, chord: 'G' },
+            { position: 27, chord: 'A' }
+          ],
+          line: 'si tus dedos con ella se queman.'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'Bm' },
+            { position: 14, chord: 'F#m' },
+            { position: 29, chord: 'G' }
+          ],
+          line: 'El Señor que está en tu corazón'
+        },
+        {
+          chords: [
+            { position: 15, chord: 'D' },
+            { position: 27, chord: 'A' }
+          ],
+          line: 'vendrá a darte valor de tenerla'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 20, chord: 'A' },
+            { position: 27, chord: 'D' },
+            { position: 29, chord: 'B7' }
+          ],
+          line: '&&para dar luz a tu alrededor.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 0, chord: 'E' },
+            { position: 7, chord: 'A' },
+            { position: 17, chord: 'E' },
+            { position: 28, chord: 'A' }
+          ],
+          line: 'Pon tu lámpara afuera, es mejor'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'E' },
+            { position: 18, chord: 'A' },
+            { position: 29, chord: 'B' }
+          ],
+          line: 'que tu aceite se gaste y no tengas'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'C#m' },
+            { position: 12, chord: 'G#m' },
+            { position: 22, chord: 'A' }
+          ],
+          line: 'nada que consumir, el Señor'
+        },
+        {
+          chords: [
+            { position: 17, chord: 'E' },
+            { position: 29, chord: 'B' }
+          ],
+          line: 'te dará el combustible que pueda'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'A' },
+            { position: 18, chord: 'B' },
+            { position: 28, chord: 'E' }
+          ],
+          line: '&&encender en tu vida su amor.'
+        }
+      ]
+    ]
+  },
+  {
     title: 'Salmo 28',
     url: 'salmo-28',
     paragraphs: [
@@ -2910,6 +3245,493 @@ export const songList = [
         {
           chords: [],
           line: 'confianza en Él, Yahvé bendice su pueblo con paz.'
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Rezo por ti',
+    url: 'rezo-por-ti',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 7, chord: 'C' },
+            { position: 17, chord: 'G' },
+            { position: 29, chord: 'Am' }
+          ],
+          line: 'Rezo por ti y le pido a mi Señor'
+        },
+        {
+          chords: [
+            { position: 5, chord: 'Am7' },
+            { position: 16, chord: 'F' },
+            { position: 27, chord: 'C' }
+          ],
+          line: 'que derrame sobre ti toda su paz en tu'
+        },
+        {
+          chords: [{ position: 4, chord: 'G' }],
+          line: 'interior.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 19, chord: 'C' },
+            { position: 30, chord: 'G' }
+          ],
+          line: 'Te amo y yo rezo por ti para que en tu'
+        },
+        {
+          chords: [
+            { position: 4, chord: 'Am' },
+            { position: 14, chord: 'Am7' },
+            { position: 27, chord: 'F' }
+          ],
+          line: 'corazón reine siempre la alegría la'
+        },
+        {
+          chords: [
+            { position: 4, chord: 'C' },
+            { position: 14, chord: 'G' }
+          ],
+          line: 'verdad y el perdón.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 23, chord: 'Am' },
+            { position: 32, chord: 'Em' }
+          ],
+          line: 'Que Dios te bendiga y proteja cada día'
+        },
+        {
+          chords: [
+            { position: 7, chord: 'F' },
+            { position: 17, chord: 'C' },
+            { position: 23, chord: 'Am' }
+          ],
+          line: 'que ilumine tu razón y te dé una nueva'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'Em' },
+            { position: 15, chord: 'F' },
+            { position: 20, chord: 'G' }
+          ],
+          line: 'vida desde hoy hoy. &&'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 7, chord: 'Am' },
+            { position: 16, chord: 'F' },
+            { position: 26, chord: 'C' }
+          ],
+          line: 'Y QUE FLUYA SU AMOR A TRAVÉS'
+        },
+        {
+          chords: [
+            { position: 9, chord: 'G' },
+            { position: 20, chord: 'Am' }
+          ],
+          line: 'DE MIS MANOS Y QUE EXPULSE AL'
+        },
+        {
+          chords: [
+            { position: 2, chord: 'F' },
+            { position: 11, chord: 'C' }
+          ],
+          line: 'TEMOR A LA ANGUSTIA Y AL'
+        },
+        {
+          chords: [
+            { position: 1, chord: 'G' },
+            { position: 15, chord: 'F' },
+            { position: 28, chord: 'C' }
+          ],
+          line: 'LLANTO, QUE LA PAZ DE MI SEÑOR'
+        },
+        {
+          chords: [
+            { position: 11, chord: 'F' },
+            { position: 22, chord: 'G' }
+          ],
+          line: 'JESÚS TE RENUEVE A CADA PASO Y'
+        },
+        {
+          chords: [
+            { position: 8, chord: 'F' },
+            { position: 19, chord: 'C' }
+          ],
+          line: 'QUE HOY MISMO BAÑE CON SU'
+        },
+        {
+          chords: [
+            { position: 11, chord: 'F' },
+            { position: 23, chord: 'G' }
+          ],
+          line: 'LUZ LA SOMBRAS DE TU PASADO'
+        },
+        {
+          chords: [{ position: 9, chord: 'C' }],
+          line: 'REZO POR TI'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Rezo por ti sin ponerte condición y tener'
+        },
+        {
+          chords: [],
+          line: 'la expectativa de pedirte algún favor.'
+        },
+        {
+          chords: [],
+          line: 'Tan solo yo rezo por ti pues de todo'
+        },
+        {
+          chords: [],
+          line: 'corazón quiero verte más feliz y en el'
+        },
+        {
+          chords: [],
+          line: 'camino del Señor.'
+        },
+        {
+          chords: [],
+          line: 'Por eso te pongo en las manos de María'
+        },
+        {
+          chords: [],
+          line: 'y bajo su protección que ella cuide de tu'
+        },
+        {
+          chords: [],
+          line: 'vida desde hoy.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Y QUE FLUYA SU AMOR A TRAVÉS DE'
+        },
+        {
+          chords: [],
+          line: 'MIS MANOS Y QUE EXPULSE AL'
+        },
+        {
+          chords: [],
+          line: 'TEMOR A LA ANGUSTIA Y AL'
+        },
+        {
+          chords: [],
+          line: 'LLANTO QUE LA PAZ DE MI SEÑOR'
+        },
+        {
+          chords: [],
+          line: 'JESÚS TE RENUEVE A CADA PASO Y'
+        },
+        {
+          chords: [],
+          line: 'QUE HOY MISMO BAÑE CON SU LUZ'
+        },
+        {
+          chords: [],
+          line: 'LAS SOMBRAS DE TU PASADO, REZO'
+        },
+        {
+          chords: [],
+          line: 'POR TI.'
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Ríndete a Él',
+    url: 'rindete-a-el',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 7, chord: 'F' },
+            { position: 9, chord: 'G' },
+            { position: 22, chord: 'C' },
+            { position: 27, chord: 'Am' }
+          ],
+          line: 'Te veo solo, tus ojos tristes, el frío'
+        },
+        {
+          chords: [
+            { position: 2, chord: 'F' },
+            { position: 16, chord: 'G' },
+            { position: 28, chord: 'C' }
+          ],
+          line: 'empaña tu alma, y tú... Ya no ríes.'
+        },
+        {
+          chords: [
+            { position: 10, chord: 'F' },
+            { position: 13, chord: 'G' },
+            { position: 27, chord: 'C' },
+            { position: 29, chord: 'Am' }
+          ],
+          line: 'Tantos fracasos, te pesan tanto, Jesús te'
+        },
+        {
+          chords: [
+            { position: 1, chord: 'F' },
+            { position: 14, chord: 'G' },
+            { position: 31, chord: 'C' },
+            { position: 35, chord: 'C7' }
+          ],
+          line: 'llama y no lo dudes, ven a sus brazos.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 16, chord: 'F' },
+            { position: 26, chord: 'G' }
+          ],
+          line: 'AHORA RÍNDETE A &ÉL Y SENTIRÁS'
+        },
+        {
+          chords: [
+            { position: 11, chord: 'C' },
+            { position: 25, chord: 'Am' }
+          ],
+          line: 'SU PAZ, SU GOZO, SU LIBERTAD.'
+        },
+        {
+          chords: [
+            { position: 10, chord: 'F' },
+            { position: 24, chord: 'G' }
+          ],
+          line: 'TU TRISTE VIDA ÉL CAMBIARÁ, SI'
+        },
+        {
+          chords: [{ position: 12, chord: 'C' }],
+          line: 'TE RINDES A ÉL.'
+        },
+        {
+          chords: [
+            { position: 14, chord: 'F' },
+            { position: 25, chord: 'G' }
+          ],
+          line: 'VAMOS RÍNDETE A ÉL Y YA VERÁS,'
+        },
+        {
+          chords: [
+            { position: 11, chord: 'C' },
+            { position: 22, chord: 'Am' }
+          ],
+          line: 'CÓMO TU ANGUSTIA DISIPARÁ Y'
+        },
+        {
+          chords: [
+            { position: 6, chord: 'F' },
+            { position: 21, chord: 'G' }
+          ],
+          line: 'TUS HERIDAS LAS CERRARÁ SI TE'
+        },
+        {
+          chords: [{ position: 9, chord: 'C' }],
+          line: 'RINDES A ÉL.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Si estás cansado y angustiado, las'
+        },
+        {
+          chords: [],
+          line: 'frustraciones golpean tanto a tu lado, te'
+        },
+        {
+          chords: [],
+          line: 'sientes solo y marginado, ya te fallaron'
+        },
+        {
+          chords: [],
+          line: 'pero no dudes ven a sus brazos.'
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Saber que vendrás',
+    url: 'saber-que-vendras',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 0, chord: 'D' },
+            { position: 9, chord: 'G' },
+            { position: 18, chord: 'F#m' },
+            { position: 29, chord: 'Bm' }
+          ],
+          line: 'En este mundo que Cristo nos da'
+        },
+        {
+          chords: [
+            { position: 2, chord: 'D' },
+            { position: 13, chord: 'C' },
+            { position: 23, chord: 'A' }
+          ],
+          line: 'hacemos la ofrenda del pan,'
+        },
+        {
+          chords: [],
+          line: 'el pan de nuestro trabajo sin fin y el vino'
+        },
+        {
+          chords: [],
+          line: 'de nuestro cantar. Traigo ante ti nuestra'
+        },
+        {
+          chords: [],
+          line: 'justa inquietud amar la justicia y la paz.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 3, chord: 'G' },
+            { position: 14, chord: 'A' }
+          ],
+          line: 'SABER QUE VENDRÁS'
+        },
+        {
+          chords: [
+            { position: 2, chord: 'F#m' },
+            { position: 14, chord: 'Bm' }
+          ],
+          line: 'SABER QUE ESTARÁS'
+        },
+        {
+          chords: [
+            { position: 4, chord: 'G' },
+            { position: 16, chord: 'A' },
+            { position: 24, chord: 'D' },
+            { position: 26, chord: '(D7)' }
+          ],
+          line: 'PARTIENDO A LOS POBRES TU PAN'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'La sed de todos los hombres sin luz, la'
+        },
+        {
+          chords: [],
+          line: 'pena y el triste llorar, el odio de los que'
+        },
+        {
+          chords: [],
+          line: 'mueren sin fe, cansados de tanto luchar.'
+        },
+        {
+          chords: [],
+          line: 'En la patena de nuestra oblación acepta'
+        },
+        {
+          chords: [],
+          line: 'la vida Señor.'
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Salmo 62',
+    url: 'salmo-62',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 17, chord: 'C' },
+            { position: 23, chord: 'D' }
+          ],
+          line: 'DIOS, DIOS MIO, ERES TÚ&'
+        },
+        {
+          chords: [
+            { position: 21, chord: 'G' }
+          ],
+          line: 'DE MADRUGADA TE BUSCARÉ.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 3, chord: 'C' },
+            { position: 16, chord: 'D' },
+            { position: 30, chord: 'G' }
+          ],
+          line: 'Mi alma tiene sed de ti y mi carne'
+        },
+        {
+          chords: [
+            { position: 5, chord: 'Em' },
+            { position: 18, chord: 'C' },
+            { position: 31, chord: 'D' }
+          ],
+          line: 'te anhela, tierra seca y árida donde'
+        },
+        {
+          chords: [
+            { position: 10, chord: 'G' }
+          ],
+          line: 'aguas no hay. (BIS)'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Yo quiero contemplarte a ti y admirar tu'
+        },
+        {
+          chords: [],
+          line: 'gloria, en el santuario yo quiero ver tu'
+        },
+        {
+          chords: [],
+          line: 'poder mi Señor. (BIS)'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Toda mi vida te bendeciré y alzaré mis'
+        },
+        {
+          chords: [],
+          line: 'manos, tus alabanzas cantaré por'
+        },
+        {
+          chords: [],
+          line: 'siempre Señor. (BIS)'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Estoy durmiendo y pienso en Ti mi Dios,'
+        },
+        {
+          chords: [],
+          line: 'toda la noche en Ti medito, pues mi'
+        },
+        {
+          chords: [],
+          line: 'refugio fuiste Tú, unido a Ti estoy (BIS)'
         }
       ]
     ]

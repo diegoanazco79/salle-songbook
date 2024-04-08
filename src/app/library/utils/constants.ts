@@ -100,8 +100,32 @@ export const songsNamesList = [
     url: 'padre-nuestro-iii'
   },
   {
+    title: 'Pescador',
+    url: 'pescador'
+  },
+  {
+    title: 'Pon tu lámpara afuera',
+    url: 'pon-tu-lampara-afuera'
+  },
+  {
     title: 'Que cante la vida',
     url: 'que-cante-la-vida'
+  },
+  {
+    title: 'Rezo por ti',
+    url: 'rezo-por-ti'
+  },
+  {
+    title: 'Ríndete a Él',
+    url: 'rindete-a-el'
+  },
+  {
+    title: 'Saber que vendrás',
+    url: 'saber-que-vendras'
+  },
+  {
+    title: 'Salmo 62',
+    url: 'salmo-62'
   },
   {
     title: 'Salmo 28',
