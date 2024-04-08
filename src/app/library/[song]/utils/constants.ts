@@ -3662,9 +3662,7 @@ export const songList = [
           line: 'DIOS, DIOS MIO, ERES TÚ&'
         },
         {
-          chords: [
-            { position: 21, chord: 'G' }
-          ],
+          chords: [{ position: 21, chord: 'G' }],
           line: 'DE MADRUGADA TE BUSCARÉ.'
         }
       ],
@@ -3686,9 +3684,7 @@ export const songList = [
           line: 'te anhela, tierra seca y árida donde'
         },
         {
-          chords: [
-            { position: 10, chord: 'G' }
-          ],
+          chords: [{ position: 10, chord: 'G' }],
           line: 'aguas no hay. (BIS)'
         }
       ],
@@ -3732,6 +3728,637 @@ export const songList = [
         {
           chords: [],
           line: 'refugio fuiste Tú, unido a Ti estoy (BIS)'
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Para ser santo',
+    url: 'para-ser-santo',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 0, chord: 'E' },
+            { position: 23, chord: 'B' }
+          ],
+          line: 'Para ser santo hay que ser feliz'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'A' },
+            { position: 20, chord: 'B' }
+          ],
+          line: 'no hay santidad sin felicidad'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'E' },
+            { position: 27, chord: 'B' }
+          ],
+          line: 'Para ser santo hay que ser feliz'
+        },
+        {
+          chords: [
+            { position: 3, chord: 'A' },
+            { position: 5, chord: 'Am' }
+          ],
+          line: 'primero.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Para ser santo hay que ser sencillo'
+        },
+        {
+          chords: [],
+          line: 'no hay santidad sin sencillez.'
+        },
+        {
+          chords: [],
+          line: 'Para ser santo hay que ser sencillo'
+        },
+        {
+          chords: [],
+          line: 'primero.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 0, chord: 'F#m' },
+            { position: 21, chord: 'B' }
+          ],
+          line: 'PARA SER SANTO HAY QUE ESTAR UN'
+        },
+        {
+          chords: [
+            { position: 3, chord: 'A' },
+            { position: 12, chord: 'E' },
+            { position: 13, chord: '/D#' },
+            { position: 17, chord: 'C#m' }
+          ],
+          line: 'POCO LOCO, UN& POCO LOCO.'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'A' },
+            { position: 15, chord: 'B' }
+          ],
+          line: 'UN POCO LOCO PARA SER FELIZ'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'E' },
+            { position: 15, chord: 'E' },
+            { position: 16, chord: '/D#' },
+            { position: 20, chord: 'C#m' }
+          ],
+          line: 'UN POCO LOCO PARA SER SENCILLO'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'A' },
+            { position: 16, chord: 'B' }
+          ],
+          line: 'UN POCO LOCO PARA ESTAR'
+        },
+        {
+          chords: [{ position: 12, chord: 'E' }],
+          line: 'ENAMORADO Y LOCO POR DIOS.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Para ser santo hay que dar amor, no hay'
+        },
+        {
+          chords: [],
+          line: 'santidad si no hay amor. Para ser santo'
+        },
+        {
+          chords: [],
+          line: 'hay que dar mucho amor primero.'
+        },
+        {
+          chords: [],
+          line: 'Para ser santo hay que obedecer, no hay'
+        },
+        {
+          chords: [],
+          line: 'santidad sin obediencia. Para ser santo'
+        },
+        {
+          chords: [],
+          line: 'hay que obedecer primero.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Para ser santo hay que hacerse como un'
+        },
+        {
+          chords: [],
+          line: 'niño, para ser santo. Y un poco loco para'
+        },
+        {
+          chords: [],
+          line: 'dar amor, y un poco loco para obedecer,'
+        },
+        {
+          chords: [],
+          line: 'un poco loco para estar enamorado y loco'
+        },
+        {
+          chords: [],
+          line: 'por Dios.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Para ser santo hay que orar y cantar, no'
+        },
+        {
+          chords: [],
+          line: 'hay santidad sin oración. Para ser santo'
+        },
+        {
+          chords: [],
+          line: 'hay que orar y cantar primero.'
+        },
+        {
+          chords: [],
+          line: 'Para ser santo hay que trabajar, no hay'
+        },
+        {
+          chords: [],
+          line: 'santidad si no hay esfuerzo. Para ser'
+        },
+        {
+          chords: [],
+          line: 'santo hay que trabajar primero.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Para ser santo hay que trabajar y jugar'
+        },
+        {
+          chords: [],
+          line: 'todo a su tiempo y darse tiempo para'
+        },
+        {
+          chords: [],
+          line: 'orar y cantar y darse tiempo para amar,'
+        },
+        {
+          chords: [],
+          line: 'y darse tiempo para estar enamorado y'
+        },
+        {
+          chords: [],
+          line: 'loco por Dios.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Un poco loco para dar amor, un poco'
+        },
+        {
+          chords: [],
+          line: 'loco para ser feliz, un poco loco para'
+        },
+        {
+          chords: [],
+          line: 'estar enamorado y loco por Dios... Y loco'
+        },
+        {
+          chords: [],
+          line: 'por Dios.'
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Paso a paso',
+    url: 'paso-a-paso',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 5, chord: 'D' },
+            { position: 12, chord: 'F#m' },
+            { position: 22, chord: 'Bm' }
+          ],
+          line: 'Cada día tu voz me despierta y me'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 8, chord: 'E' },
+            { position: 15, chord: 'A' }
+          ],
+          line: 'lanza a peregrinar.'
+        },
+        {
+          chords: [
+            { position: 5, chord: 'D' },
+            { position: 13, chord: 'F#m' },
+            { position: 24, chord: 'Bm' }
+          ],
+          line: 'Cada paso construye un camino,'
+        },
+        {
+          chords: [
+            { position: 3, chord: 'G' },
+            { position: 12, chord: 'E' },
+            { position: 20, chord: 'A' }
+          ],
+          line: 'cada "si" una fidelidad'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Cada sol que amanece en mi alma es'
+        },
+        {
+          chords: [],
+          line: 'impulso de un nuevo empezar, en la'
+        },
+        {
+          chords: [],
+          line: 'senda que vas construyendo, con lo poco'
+        },
+        {
+          chords: [],
+          line: 'que te puedo dar.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 9, chord: 'A' },
+            { position: 13, chord: 'D' },
+            { position: 21, chord: 'Bm' }
+          ],
+          line: '&&PASO A PASO, DÍA A DÍA,'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 7, chord: 'A' },
+            { position: 18, chord: 'D' }
+          ],
+          line: '&&YO CAMINO HACIA TI'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 9, chord: 'A' },
+            { position: 13, chord: 'D' },
+            { position: 21, chord: 'Bm' }
+          ],
+          line: '&&PASO A PASO, DÍA A DÍA,'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 10, chord: 'E' },
+            { position: 18, chord: 'A' }
+          ],
+          line: '&&CONSTRUYENDO MI SÍ.'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 9, chord: 'A' },
+            { position: 13, chord: 'D' },
+            { position: 21, chord: 'Bm' }
+          ],
+          line: '&&PASO A PASO, DÍA A DÍA,'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 9, chord: 'A' },
+            { position: 19, chord: 'D' }
+          ],
+          line: '&&TU TE JUEGAS POR MÍ.'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 9, chord: 'A' },
+            { position: 13, chord: 'D' },
+            { position: 21, chord: 'Bm' }
+          ],
+          line: '&&PASO A PASO, DÍA A DÍA,'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 10, chord: 'A' },
+            { position: 23, chord: 'D' }
+          ],
+          line: '&&DESDE AHORA HASTA EL FIN.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Tú no quieres que viva pensando en el'
+        },
+        {
+          chords: [],
+          line: 'tiempo que está por venir. El futuro se'
+        },
+        {
+          chords: [],
+          line: 'guarda en tus manos, el presente'
+        },
+        {
+          chords: [],
+          line: 'debemos vivir.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Tú eres el Padre que sabe y conoce lo que'
+        },
+        {
+          chords: [],
+          line: 'somos y podemos ser. En tu amor,'
+        },
+        {
+          chords: [],
+          line: 'nuestra vida descansa y tu voz nos va'
+        },
+        {
+          chords: [],
+          line: 'haciendo crecer.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Quiero dar otro paso contigo, encontrar'
+        },
+        {
+          chords: [],
+          line: 'en tu fuerza la paz, caminar el camino'
+        },
+        {
+          chords: [],
+          line: 'confiado, cada día en tu fidelidad.s'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Yo no soy el mejor de tus hijos, como el'
+        },
+        {
+          chords: [],
+          line: 'pródigo he vuelto al hogar, a decirte como'
+        },
+        {
+          chords: [],
+          line: 'hizo mi padre: "Yo adoro en todo tu'
+        },
+        {
+          chords: [],
+          line: 'voluntad".'
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Paz, cordero',
+    url: 'paz-cordero',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 0, chord: 'D' },
+            { position: 16, chord: 'A' }
+          ],
+          line: 'Oh Cordero de Dios'
+        },
+        {
+          chords: [
+            { position: 8, chord: 'G' },
+            { position: 29, chord: 'D' }
+          ],
+          line: 'Tú que quitas el pecado del mundo'
+        },
+        {
+          chords: [
+            { position: 8, chord: 'G' },
+            { position: 29, chord: 'D' },
+            { position: 33, chord: 'Bm' }
+          ],
+          line: 'Tú que quitas el pecado del mundo&'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 7, chord: 'A' },
+            { position: 17, chord: 'D' },
+            { position: 20, chord: 'Bm' },
+            { position: 29, chord: 'G' }
+          ],
+          line: 'Ten piedad de nosotros, oh Señor. (BIS)'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 0, chord: 'D' },
+            { position: 16, chord: 'A' }
+          ],
+          line: 'Oh Cordero de Dios'
+        },
+        {
+          chords: [
+            { position: 8, chord: 'G' },
+            { position: 29, chord: 'D' }
+          ],
+          line: 'Tú que quitas el pecado del mundo'
+        },
+        {
+          chords: [
+            { position: 8, chord: 'G' },
+            { position: 29, chord: 'D' },
+            { position: 33, chord: 'Bm' }
+          ],
+          line: 'Tú que quitas el pecado del mundo&'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 3, chord: 'A' },
+            { position: 11, chord: 'D' },
+            { position: 14, chord: 'G' },
+            { position: 17, chord: 'A' },
+            { position: 24, chord: 'D' }
+          ],
+          line: 'Danos la paz, danos la paz. (BIS)'
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Pelea',
+    url: 'pelea',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 21, chord: 'D' }
+          ],
+          line: 'Cuando las cosas no salgan como'
+        },
+        {
+          chords: [
+            { position: 8, chord: 'Am' },
+            { position: 19, chord: 'D' }
+          ],
+          line: 'tú pensabas... Pelea'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 21, chord: 'D' }
+          ],
+          line: 'Cuando parezca imposible ganar'
+        },
+        {
+          chords: [
+            { position: 6, chord: 'Am' },
+            { position: 15, chord: 'Em' }
+          ],
+          line: 'la batalla... Pelea'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 1, chord: 'G' },
+            { position: 12, chord: 'D' },
+            { position: 19, chord: 'Am' }
+          ],
+          line: 'PELEA ESTA GUERRA, PORQUE LA'
+        },
+        {
+          chords: [{ position: 13, chord: 'D' }],
+          line: 'CALLE ESTA LLENA DE RENDIDOS.'
+        },
+        {
+          chords: [
+            { position: 1, chord: 'G' },
+            { position: 12, chord: 'D' }
+          ],
+          line: 'PELEA, SIN TREGUA.'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'B7' },
+            { position: 21, chord: 'Em' }
+          ],
+          line: 'NO DES TU BRAZO A TORCER TE'
+        },
+        {
+          chords: [{ position: 12, chord: 'G' }],
+          line: 'LO PIDO Y CUANDO LAS COSAS'
+        },
+        {
+          chords: [
+            { position: 3, chord: 'D' },
+            { position: 15, chord: 'C' },
+            { position: 19, chord: 'D' },
+            { position: 22, chord: 'G' }
+          ],
+          line: 'NO VAYAN BIEN TÚ PEEELEA'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Cuando te digan que eres un caso'
+        },
+        {
+          chords: [],
+          line: 'perdido... Pelea'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Hay en el cielo un amigo que por ti dio la'
+        },
+        {
+          chords: [],
+          line: 'vida entera.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 0, chord: 'Em' },
+            { position: 16, chord: 'Am' },
+            { position: 29, chord: 'B7' }
+          ],
+          line: 'La batalla está dentro de ti y eres'
+        },
+        {
+          chords: [{ position: 13, chord: 'Em' }],
+          line: 'tu propio enemigo.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Es de valientes saber combatir, yo te lo'
+        },
+        {
+          chords: [],
+          line: 'digo.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 4, chord: 'G' },
+            { position: 23, chord: 'D' }
+          ],
+          line: 'Y cuando las cosas no vayan bien'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'Am' },
+            { position: 12, chord: 'Em' },
+            { position: 19, chord: 'G' }
+          ],
+          line: 'cuanta con Cristo, Él se enfrentó'
+        },
+        {
+          chords: [
+            { position: 5, chord: 'D' },
+            { position: 18, chord: 'C' },
+            { position: 20, chord: 'D' },
+            { position: 24, chord: 'G' }
+          ],
+          line: 'como tú también y ha& vencido.'
         }
       ]
     ]

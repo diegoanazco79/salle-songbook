@@ -128,6 +128,22 @@ export const songsNamesList = [
     url: 'salmo-62'
   },
   {
+    title: 'Para ser santo',
+    url: 'para-ser-santo'
+  },
+  {
+    title: 'Paso a paso',
+    url: 'paso-a-paso'
+  },
+  {
+    title: 'Paz, cordero',
+    url: 'paz-cordero'
+  },
+  {
+    title: 'Pelea',
+    url: 'pelea'
+  },
+  {
     title: 'Salmo 28',
     url: 'salmo-28'
   },
