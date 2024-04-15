@@ -88,6 +88,14 @@ export const songsNamesList = [
     url: 'no-nos-callaran'
   },
   {
+    title: 'Salmo 139',
+    url: 'salmo-139'
+  },
+  {
+    title: 'Saname Señor',
+    url: 'saname-senor'
+  },
+  {
     title: 'Padre Nuestro I',
     url: 'padre-nuestro-i'
   },
@@ -186,5 +194,25 @@ export const songsNamesList = [
   {
     title: 'Yo soy de los dos',
     url: 'yo-soy-de-los-dos'
+  },
+  {
+    title: 'Santo (Palestra)',
+    url: 'santo-palestra'
+  },
+  {
+    title: 'Santo (Vals)',
+    url: 'santo-vals'
+  },
+  {
+    title: 'No te vayas (Jomiches)',
+    url: 'no-te-vayas-jomiches'
+  },
+  {
+    title: 'Ofrenda de amor',
+    url: 'ofrenda-de-amor'
+  },
+  {
+    title: 'Oh buen Jesús',
+    url: 'oh-buen-jesus'
   }
 ];

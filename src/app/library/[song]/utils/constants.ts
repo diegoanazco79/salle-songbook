@@ -5242,5 +5242,694 @@ export const songList = [
         }
       ]
     ]
+  },
+  {
+    title: 'Salmo 139',
+    url: 'salmo-139',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 9, chord: 'C' },
+            { position: 14, chord: 'E7' },
+            { position: 24, chord: 'Am' }
+          ],
+          line: 'Tú me sondeas y me conoces,'
+        },
+        {
+          chords: [
+            { position: 9, chord: 'F' },
+            { position: 15, chord: 'G' },
+            { position: 25, chord: 'C' },
+            { position: 28, chord: 'G' }
+          ],
+          line: 'Tú me hablas a mi, oh Señor.&'
+        },
+        {
+          chords: [
+            { position: 9, chord: 'C' },
+            { position: 15, chord: 'E7' },
+            { position: 26, chord: 'Am' }
+          ],
+          line: 'A dónde iré yo sin tu Espíritu'
+        },
+        {
+          chords: [{ position: 28, chord: 'C7' }],
+          line: 'dónde huir de tu rostro Yahvé.'
+        }
+      ],
+      [
+        {
+          chords: [{ position: 12, chord: 'F' }],
+          line: 'QUÉ INCOMPARABLES'
+        },
+        {
+          chords: [
+            { position: 4, chord: 'G' },
+            { position: 17, chord: 'C' },
+            { position: 22, chord: 'E7' },
+            { position: 27, chord: 'Am' }
+          ],
+          line: 'ENCUENTRO TUS DESIIIIIIGNIOS,'
+        },
+        {
+          chords: [
+            { position: 3, chord: 'F' },
+            { position: 14, chord: 'G' }
+          ],
+          line: 'SEÑOR, QUE INMENSO ERES'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'C' },
+            { position: 13, chord: 'C7' }
+          ],
+          line: 'TÚ. ¡ALELUYA!&'
+        },
+        {
+          chords: [
+            { position: 8, chord: 'F' },
+            { position: 16, chord: 'G' }
+          ],
+          line: 'Y NADIE SE TE PUEDE'
+        },
+        {
+          chords: [
+            { position: 5, chord: 'C' },
+            { position: 8, chord: 'E7' },
+            { position: 11, chord: 'Am' }
+          ],
+          line: 'COMPARAAAAAAAR'
+        },
+        {
+          chords: [
+            { position: 4, chord: 'F' },
+            { position: 10, chord: 'G' },
+            { position: 18, chord: 'C' }
+          ],
+          line: 'SEÑOR, ¡AMÉN ALELUYA!'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Si escala el cielo, ahí estás Tú, en el'
+        },
+        {
+          chords: [],
+          line: 'abismo te encuentro Señor. Tras de la'
+        },
+        {
+          chords: [],
+          line: 'aurora te encuentro ya, en el confin de'
+        },
+        {
+          chords: [],
+          line: 'los mares estás.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Tú me creaste para alabarte, te doy'
+        },
+        {
+          chords: [],
+          line: 'gracias por siempre Señor. Ya conocías'
+        },
+        {
+          chords: [],
+          line: 'todo mi ser, mis pensamientos y mi'
+        },
+        {
+          chords: [],
+          line: 'corazón.'
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Sáname Señor',
+    url: 'saname-senor',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 0, chord: 'D' },
+            { position: 10, chord: 'Bm' }
+          ],
+          line: 'Hoy Señor Jesús'
+        },
+        {
+          chords: [
+            { position: 8, chord: 'Em' },
+            { position: 14, chord: '(G)' },
+            { position: 23, chord: 'A7' }
+          ],
+          line: 'vengo ante ti para alabarte'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'D' },
+            { position: 11, chord: 'Bm' }
+          ],
+          line: 'Hoy Señor Jesús'
+        },
+        {
+          chords: [
+            { position: 8, chord: 'Em' },
+            { position: 11, chord: '(G)' },
+            { position: 23, chord: 'A7' }
+          ],
+          line: 'con tu poder puedes cambiarme.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 1, chord: 'D' },
+            { position: 14, chord: 'Bm' }
+          ],
+          line: 'SÁNAME SEÑOR, HOY QUIERO'
+        },
+        {
+          chords: [{ position: 7, chord: 'G' }],
+          line: 'VIVIR DAME TU AMOR.'
+        },
+        {
+          chords: [{ position: 11, chord: 'A' }],
+          line: 'SIN TI NO PUEDO SER FELIZ.'
+        },
+        {
+          chords: [
+            { position: 1, chord: 'D' },
+            { position: 14, chord: 'Bm' }
+          ],
+          line: 'SÁNAME SEÑOR, LÍBRAME'
+        },
+        {
+          chords: [{ position: 9, chord: 'G' }],
+          line: 'DEL MAL. TOCA EL CORAZÓN'
+        },
+        {
+          chords: [
+            { position: 11, chord: 'A' },
+            { position: 23, chord: 'D' }
+          ],
+          line: 'PARA ALCANZAR LA SANTIDAD.'
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Santo (Palestra)',
+    url: 'santo-palestra',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 0, chord: 'D' },
+            { position: 15, chord: 'A' },
+            { position: 28, chord: 'D' }
+          ],
+          line: 'Santo, Santo, Santo es el Señor del'
+        },
+        {
+          chords: [
+            { position: 4, chord: 'A' },
+            { position: 12, chord: 'D' },
+            { position: 27, chord: 'A' },
+            { position: 38, chord: 'D' }
+          ],
+          line: 'universo; llenos están el Cielo y la tierra'
+        },
+        {
+          chords: [{ position: 6, chord: 'A' }],
+          line: 'de su gloria.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 3, chord: 'Em' },
+            { position: 8, chord: 'G' },
+            { position: 14, chord: 'D' },
+            { position: 24, chord: 'A' },
+            { position: 31, chord: 'D' }
+          ],
+          line: 'Hossana en el Cielo, hossana hossana.'
+        },
+        {
+          chords: [
+            { position: 3, chord: 'Em' },
+            { position: 11, chord: 'G' },
+            { position: 18, chord: 'D' },
+            { position: 31, chord: 'A' }
+          ],
+          line: 'Bendito es el que viene en el nombre del'
+        },
+        {
+          chords: [{ position: 2, chord: 'D' }],
+          line: 'Señor.'
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Santo (Vals)',
+    url: 'santo-vals',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 0, chord: 'Am' },
+            { position: 21, chord: 'E' },
+            { position: 36, chord: 'Am' }
+          ],
+          line: 'Santo, Santo, Santo; Santo es el Señor.'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'Am' },
+            { position: 21, chord: 'E' },
+            { position: 36, chord: 'Am' }
+          ],
+          line: 'Santo, Santo, Santo; Dios del universo.'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'A7' },
+            { position: 16, chord: 'Dm' },
+            { position: 27, chord: 'Am' },
+            { position: 35, chord: 'E' }
+          ],
+          line: 'Llenos están el Cielo y la tierra de tu'
+        },
+        {
+          chords: [{ position: 0, chord: 'Am' }],
+          line: 'Gloria (Bis)'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 3, chord: 'Dm' },
+            { position: 13, chord: 'Am' },
+            { position: 22, chord: 'E' }
+          ],
+          line: 'HOSSANA, HOSSANA, HOSSANA'
+        },
+        {
+          chords: [{ position: 3, chord: 'Am' }],
+          line: 'EN EL CIELO (BIS)'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Bendito es el que viene en el nombre del'
+        },
+        {
+          chords: [],
+          line: 'Señor (Bis)'
+        }
+      ]
+    ]
+  },
+  {
+    title: 'No te vayas (Jomiches)',
+    url: 'no-te-vayas-jomiches',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 3, chord: 'G' },
+            { position: 14, chord: 'D' },
+            { position: 28, chord: 'Em' }
+          ],
+          line: 'Momentos como este, cuando siento el'
+        },
+        {
+          chords: [
+            { position: 5, chord: 'D' },
+            { position: 14, chord: 'G' },
+            { position: 26, chord: 'D' }
+          ],
+          line: 'corazón, tan triste tan vacío,'
+        },
+        {
+          chords: [
+            { position: 6, chord: 'Em' },
+            { position: 16, chord: 'D' }
+          ],
+          line: 'embriagado de dolor.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 5, chord: 'C' },
+            { position: 14, chord: 'D' },
+            { position: 23, chord: 'Em' },
+            { position: 35, chord: 'D' }
+          ],
+          line: 'No puedo, no sé, no me salen las palabras;'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'C' },
+            { position: 5, chord: 'D' },
+            { position: 17, chord: 'Em' },
+            { position: 29, chord: 'D' }
+          ],
+          line: 'solo sé que unas lágrimas me callan.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 5, chord: 'Em' },
+            { position: 12, chord: 'D' },
+            { position: 23, chord: 'C' }
+          ],
+          line: 'QUE PUEDO DECIRTE QUE TE HAGA'
+        },
+        {
+          chords: [{ position: 8, chord: 'Em' }],
+          line: 'SENTIR MEJOR, COMO PUEDO'
+        },
+        {
+          chords: [{ position: 12, chord: 'D' }],
+          line: 'PUEDO DEMOSTRARTE QUE'
+        },
+        {
+          chords: [
+            { position: 5, chord: 'C' },
+            { position: 18, chord: 'Em' }
+          ],
+          line: 'NO ESTÁS SOLO, YA NO.'
+        },
+        {
+          chords: [
+            { position: 7, chord: 'C' },
+            { position: 14, chord: 'D' },
+            { position: 18, chord: 'Em' }
+          ],
+          line: '¿CÓMO PUEDO DECÍRTELO?'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Quisiera estar contigo compartiendo tu dolor,'
+        },
+        {
+          chords: [],
+          line: 'desearía decirte algo más que "ánimo".'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Yo sé que estás sufriendo, no necesitas'
+        },
+        {
+          chords: [],
+          line: 'mentirme, se te nota algo triste, apagado y'
+        },
+        {
+          chords: [],
+          line: 'decaído.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'DÓNDE ESTÁS, DÍMELO, NO TE'
+        },
+        {
+          chords: [],
+          line: 'VAYAS, POR FAVOR, NO TE ALEJES'
+        },
+        {
+          chords: [],
+          line: 'DE AQUÍ, NO QUIERO DECIR'
+        },
+        {
+          chords: [],
+          line: 'ADIÓS. NO TE VAYAS, POR FAVOR.'
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Ofrenda de amor',
+    url: 'ofrenda-de-amor',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 8, chord: 'C' },
+            { position: 28, chord: 'G' }
+          ],
+          line: 'Por los niños que empiezan la vida,'
+        },
+        {
+          chords: [
+            { position: 8, chord: 'C' },
+            { position: 21, chord: 'F' },
+            { position: 29, chord: 'G' }
+          ],
+          line: 'por los hombres sin techo ni hogar,'
+        },
+        {
+          chords: [
+            { position: 8, chord: 'C' },
+            { position: 28, chord: 'G' }
+          ],
+          line: 'por los pueblos que sufren la guerra;'
+        },
+        {
+          chords: [
+            { position: 8, chord: 'F' },
+            { position: 16, chord: 'G' },
+            { position: 26, chord: 'C' },
+            { position: 28, chord: 'C7' }
+          ],
+          line: 'te ofrecemos el vino y el pan.'
+        }
+      ],
+      [
+        {
+          chords: [
+            { position: 0, chord: 'F' },
+            { position: 22, chord: 'G' }
+          ],
+          line: 'PAN Y VINO SOBRE EL ALTAR,'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'F' },
+            { position: 18, chord: 'C' }
+          ],
+          line: 'SON OFRENDAS DE AMOR.'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'Am' },
+            { position: 20, chord: 'Dm' }
+          ],
+          line: 'PAN Y VINO SERÁN DESPUÉS'
+        },
+        {
+          chords: [
+            { position: 5, chord: 'G' },
+            { position: 22, chord: 'C' }
+          ],
+          line: 'TU CUERPO Y SANGRE, SEÑOR (BIS)'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Por aquellos a quienes queremos,'
+        },
+        {
+          chords: [],
+          line: 'por nosotros y nuestra amistad,'
+        },
+        {
+          chords: [],
+          line: 'por los vivos y por los difuntos;'
+        },
+        {
+          chords: [],
+          line: 'te ofrecemos el vino y el pan.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Por los pueblos que viven unidos,'
+        },
+        {
+          chords: [],
+          line: 'por aquellos que buscan la paz,'
+        },
+        {
+          chords: [],
+          line: 'por los pueblos que no te conocen;'
+        },
+        {
+          chords: [],
+          line: 'te ofrecemos el vino y el pan.'
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Oh buen Jesús',
+    url: 'oh-buen-jesus',
+    paragraphs: [
+      [
+        {
+          chords: [
+            { position: 0, chord: 'Bm' },
+            { position: 11, chord: 'Em' },
+            { position: 20, chord: 'G' },
+            { position: 30, chord: 'F#' }
+          ],
+          line: '¡Oh, buen Jesús! Yo creo firmemente'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'Bm' },
+            { position: 11, chord: 'G' },
+            { position: 17, chord: 'Em' },
+            { position: 30, chord: 'F#' }
+          ],
+          line: 'que por mi bien estás en tu altar,'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'Em' },
+            { position: 12, chord: 'F#7' },
+            { position: 20, chord: 'G' },
+            { position: 30, chord: 'F#' }
+          ],
+          line: 'que das tu cuerpo y sangre juntamente'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 8, chord: 'Em' },
+            { position: 20, chord: 'Bm' },
+            { position: 26, chord: 'G' },
+            { position: 28, chord: 'F#' }
+          ],
+          line: 'al alma fiel en celestial manjar,'
+        },
+        {
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 8, chord: 'Em' },
+            { position: 20, chord: 'Bm' },
+            { position: 26, chord: 'F#7' },
+            { position: 29, chord: 'Bm' }
+          ],
+          line: 'al alma fiel en celestial manjar.'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Indigno soy, confieso avergonzado, de'
+        },
+        {
+          chords: [],
+          line: 'recibir la santa Comunión, Jesús que ves'
+        },
+        {
+          chords: [],
+          line: 'mi nada y mi pecado, prepara Tú mi'
+        },
+        {
+          chords: [],
+          line: 'pobre corazón. (Bis)'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Pequé Señor, ingrato te he ofendido; infiel'
+        },
+        {
+          chords: [],
+          line: 'te fui, confieso mi maldad; me pesa ya;'
+        },
+        {
+          chords: [],
+          line: 'perdón, Señor, te pido, eres mi Dios,'
+        },
+        {
+          chords: [],
+          line: 'apelo a tu bondad. (Bis)'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Espero en Tí, piadoso Jesús mío; oigo tu'
+        },
+        {
+          chords: [],
+          line: 'voz que dice "ven a mi", porque eres fiel,'
+        },
+        {
+          chords: [],
+          line: 'por eso en Tí confío; todo Señor, lo espero'
+        },
+        {
+          chords: [],
+          line: 'yo de Tí. (Bis)'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: '¡Oh, buen pastor, amable y fino amante!'
+        },
+        {
+          chords: [],
+          line: 'Mi corazón se abraza en santo ardor, si'
+        },
+        {
+          chords: [],
+          line: 'te olvidé, hoy juro que constante he de'
+        },
+        {
+          chords: [],
+          line: 'vivir tan sólo de tu amor. (Bis)'
+        }
+      ],
+      [
+        {
+          chords: [],
+          line: 'Dulce maná y celestial comida, gozo y'
+        },
+        {
+          chords: [],
+          line: 'salud de quien te come bien; ven sin'
+        },
+        {
+          chords: [],
+          line: 'tardar, mi Dios, mi luz, mi vida, desciende'
+        },
+        {
+          chords: [],
+          line: 'a mi, hasta mi pecho ven. (Bis)'
+        }
+      ]
+    ]
   }
 ];
