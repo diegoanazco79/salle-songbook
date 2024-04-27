@@ -6130,7 +6130,7 @@ export const songList = [
           ]
         },
         {
-          line: 'de llevarte a las demás.', chords: [
+          line: 'de llevarte a los demás.', chords: [
             { position: 0, chord: 'G' }
           ]
         }
@@ -6189,7 +6189,7 @@ export const songList = [
         },
         {
           line: 'MISIÓN DE LA SALLE', chords: [
-            { position: 0, chord: 'Am' }
+            { position: 13, chord: 'Am' }
           ]
         },
         {
