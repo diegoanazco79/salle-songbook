@@ -5931,5 +5931,499 @@ export const songList = [
         }
       ]
     ]
+  },
+  {
+    title: 'Mientras me queden fuerzas',
+    url: 'mientras-me-queden-fuerzas',
+    paragraphs: [
+      [
+        {
+          line: 'Todos me preguntan hasta cuando',
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 12, chord: 'D' },
+            { position: 25, chord: 'Em' }
+          ]
+        },
+        {
+          line: 'seguiré evangelizando,',
+          chords: [
+            { position: 3, chord: 'Bm' },
+            { position: 15, chord: 'C' }
+          ]
+        },
+        {
+          line: '"Compréndelo, debes dejarlo ya,',
+          chords: [
+            { position: 4, chord: 'G' },
+            { position: 15, chord: 'Am' },
+            { position: 26, chord: 'D' }
+          ]
+        },
+        {
+          line: 'mira, eso es cosa de chiquillos,',
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 13, chord: 'D' },
+            { position: 22, chord: 'Em' }
+          ]
+        },
+        {
+          line: 'y tu ya tienes treinta y pico,',
+          chords: [
+            { position: 8, chord: 'Bm' },
+            { position: 25, chord: 'C' }
+          ]
+        },
+        {
+          line: 'despidete, que hay que ser normal."',
+          chords: [
+            { position: 3, chord: 'G' },
+            { position: 15, chord: 'A' },
+            { position: 28, chord: 'D' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Dicen que ya es suficiente,',
+          chords: [
+            { position: 0, chord: 'C' },
+            { position: 18, chord: 'G' }
+          ]
+        },
+        {
+          line: 'que no hay que exagerar, no, no;',
+          chords: [
+            { position: 0, chord: 'C' },
+            { position: 18, chord: 'G' }
+          ]
+        },
+        {
+          line: 'con tanto comprometerse,',
+          chords: [
+            { position: 0, chord: 'C' },
+            { position: 17, chord: 'G' }
+          ]
+        },
+        {
+          line: 'porque sino puedes arriesgar',
+          chords: [
+            { position: 2, chord: 'C' },
+            { position: 19, chord: 'G' }
+          ]
+        },
+        {
+          line: 'tu futuro material.',
+          chords: [
+            { position: 4, chord: 'C' },
+            { position: 11, chord: 'F' },
+            { position: 17, chord: 'D' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'SIEMPRE, SIEMPRE,', chords: [
+            { position: 2, chord: 'C' },
+            { position: 10, chord: 'G' }
+          ]
+        },
+        {
+          line: 'MIENTRAS ME QUEDEN FUERZAS', chords: [
+            { position: 2, chord: 'C' }
+          ]
+        },
+        {
+          line: 'YO TE SEGUIRÉ', chords: [
+            { position: 0, chord: 'G' }
+          ]
+        },
+        {
+          line: 'SIEMPRE, SIEMPRE,', chords: [
+            { position: 2, chord: 'C' },
+            { position: 10, chord: 'G' }
+          ]
+        },
+        {
+          line: 'TRABAJARÉ POR TI, SEÑOR (BIS)', chords: [
+            { position: 3, chord: 'C' },
+            { position: 14, chord: 'D' },
+            { position: 20, chord: 'G' },
+            { position: 22, chord: 'D' }
+          ]
+        }
+      ],
+      [
+        { line: 'Dicen que la vida va de prisa que es', chords: [] },
+        { line: 'suficiente con ir a misa, que hay cosas', chords: [] },
+        { line: 'más importantes que hacer.', chords: [] }
+      ],
+      [
+        { line: 'Siempre, yo siempre me he preguntado', chords: [] },
+        { line: 'porque Casto paga el pato, cristiano a', chords: [] },
+        { line: 'ratos dicen que hay que ser', chords: [] }
+      ],
+      [
+        { line: 'Para mi no es suficiente, no me quiero', chords: [] },
+        { line: 'alejar, no, no no es que yo soy', chords: [] },
+        { line: 'inconciente, es que yo no, no quiero', chords: [] },
+        { line: 'arriesgar mi futuro espiritual', chords: [] }
+      ],
+      [
+        {
+          line: 'SIEMPRE, SIEMPRE,', chords: [
+            { position: 2, chord: 'C' },
+            { position: 10, chord: 'G' }
+          ]
+        },
+        {
+          line: 'TRABAJARÉ POR TI...', chords: [
+            { position: 3, chord: 'C' },
+            { position: 11, chord: 'D' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Cristo, esté soltero o casado,', chords: [
+            { position: 0, chord: 'G' },
+            { position: 14, chord: 'D' },
+            { position: 23, chord: 'Em' }
+          ]
+        },
+        {
+          line: 'joven, viejo hasta anciano,', chords: [
+            { position: 7, chord: 'B7' },
+            { position: 20, chord: 'C' }
+          ]
+        },
+        {
+          line: 'ninguna sociedad me alejará de ti.', chords: [
+            { position: 4, chord: 'G' },
+            { position: 13, chord: 'Am' },
+            { position: 24, chord: 'D' },
+            { position: 29, chord: 'G' }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Misión de La Salle',
+    url: 'mision-de-la-salle',
+    paragraphs: [
+      [
+        {
+          line: 'Queremos darte las manos', chords: [
+            { position: 3, chord: 'C' }
+          ]
+        },
+        {
+          line: 'queremos darte el caminar', chords: [
+            { position: 3, chord: 'Am' }
+          ]
+        },
+        {
+          line: 'queremos darte las ganas locas', chords: [
+            { position: 3, chord: 'F' }
+          ]
+        },
+        {
+          line: 'de llevarte a las demás.', chords: [
+            { position: 0, chord: 'G' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Queremos vivir siempre en ti,', chords: [
+            { position: 3, chord: 'C' }
+          ]
+        },
+        {
+          line: 'queremos unirnos a ti', chords: [
+            { position: 3, chord: 'Am' }
+          ]
+        },
+        {
+          line: '&para que fuerte gritemos tu amor', chords: [
+            { position: 0, chord: 'F' }
+          ]
+        },
+        {
+          line: 'a la humanidad', chords: [
+            { position: 0, chord: 'G' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'NUESTRA MISIÓN COMENZÓ', chords: [
+            { position: 3, chord: 'C' },
+            { position: 10, chord: 'Am' }
+          ]
+        },
+        {
+          line: 'Y NUNCA TERMINARÁ', chords: [
+            { position: 3, chord: 'F' },
+            { position: 15, chord: 'G' }
+          ]
+        },
+        {
+          line: 'UNA ESTRELLA QUE NO', chords: [
+            { position: 1, chord: 'C' },
+            { position: 6, chord: 'Am' }
+          ]
+        },
+        {
+          line: 'QUE NO SE APAGARÁ.', chords: [
+            { position: 5, chord: 'F' },
+            { position: 15, chord: 'G' }
+          ]
+        },
+        {
+          line: 'NOS DA LA MISIÓN,', chords: [
+            { position: 13, chord: 'C' }
+          ]
+        },
+        {
+          line: 'MISIÓN DE LA SALLE', chords: [
+            { position: 0, chord: 'Am' }
+          ]
+        },
+        {
+          line: 'VIVES SEÑOR,', chords: [
+            { position: 9, chord: 'F' }
+          ]
+        },
+        {
+          line: 'EN NUESTROS CORAZONES', chords: [
+            { position: 17, chord: 'C' }
+          ]
+        },
+        {
+          line: 'PARA SERVIR AL MUNDO', chords: [
+            { position: 7, chord: 'Am' }
+          ]
+        },
+        {
+          line: 'CON FE Y FRATERNIDAD', chords: [
+            { position: 5, chord: 'F' },
+            { position: 18, chord: 'G' }
+          ]
+        },
+        {
+          line: 'Y CONTRUIR EL REINO', chords: [
+            { position: 7, chord: 'Am' }
+          ]
+        },
+        {
+          line: 'SIEMPRE EN COMUNIDAD', chords: [
+            { position: 2, chord: 'F' },
+            { position: 18, chord: 'G' }
+          ]
+        },
+        {
+          line: 'EN COMUNIDAD.', chords: [
+            { position: 9, chord: 'C' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Miraremos con ojos de fe,', chords: [
+            { position: 3, chord: 'C' }]
+        },
+        {
+          line: 'lo que debemos cumplir', chords: [
+            { position: 3, chord: 'Am' }]
+        },
+        {
+          line: 'dando gozosos la vida plena', chords: [
+            { position: 1, chord: 'F' }]
+        },
+        {
+          line: 'de llevarte a los demás.', chords: [
+            { position: 0, chord: 'G' }]
+        }
+      ],
+      [
+        {
+          line: 'Queremos darte, Señor', chords: [
+            { position: 3, chord: 'C' }]
+        },
+        {
+          line: 'las alegrías y fuerzas', chords: [
+            { position: 4, chord: 'Am' }]
+        },
+        {
+          line: '&pedimos tu bendición y nadie', chords: [
+            { position: 0, chord: 'F' }]
+        },
+        {
+          line: 'nos detendrá.', chords: [
+            { position: 0, chord: 'G' }]
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Mi pensamiento',
+    url: 'mi-pensamiento',
+    paragraphs: [
+      [
+        {
+          line: '&Mi pensamiento eres Tú, Señor,', chords: [
+            { position: 0, chord: 'D' },
+            { position: 21, chord: 'G' }
+          ]
+        },
+        {
+          line: '&Mi pensamiento eres Tú Señor (Bis)', chords: [
+            { position: 0, chord: 'A' },
+            { position: 21, chord: 'D' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'PORQUE TÚ ME HAS DADO LA VIDA,', chords: [
+            { position: 7, chord: 'G' },
+            { position: 26, chord: 'A' }
+          ]
+        },
+        {
+          line: 'PORQUE TÚ ME HAS DADO EL EXISTIR,', chords: [
+            { position: 7, chord: 'D' },
+            { position: 29, chord: 'Bm' }
+          ]
+        },
+        {
+          line: 'PORQUE TÚ ME HAS DADO CARIÑO.', chords: [
+            { position: 7, chord: 'A' }
+          ]
+        },
+        {
+          line: 'ME HAS DADO EL AMOR. (BIS)', chords: [
+            { position: 16, chord: 'D' }
+          ]
+        }
+      ],
+      [
+        { line: 'Mi alegría eres Tú Señor (3v)', chords: [] },
+        { line: 'mi alegría eres Tú.', chords: [] }
+      ],
+      [
+        { line: 'Mi esperanza eres Tú Señor (3v)', chords: [] },
+        { line: 'mi esperanza eres Tú.', chords: [] }
+      ],
+      [
+        { line: 'Todo mi amor es para ti Señor (3v)', chords: [] },
+        { line: 'todo mi amor es para ti.', chords: [] }
+      ]
+    ]
+  },
+  {
+    title: 'Muchas gracias',
+    url: 'muchas-gracias',
+    paragraphs: [
+      [
+        {
+          line: 'Por habernos dado tanto, por estar a', chords: [
+            { position: 7, chord: 'G' },
+            { position: 30, chord: 'C' }
+          ]
+        },
+        {
+          line: 'nuestro lado y por ser buenos amigos', chords: [
+            { position: 20, chord: 'D' }
+          ]
+        },
+        {
+          line: 'muchas gracias.', chords: [
+            { position: 7, chord: 'G' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Y por todos esos años que han dejado', chords: [
+            { position: 7, chord: 'C' },
+            { position: 17, chord: 'D' },
+            { position: 31, chord: 'G' },
+            { position: 35, chord: 'Em' }
+          ]
+        },
+        {
+          line: 'que han sembrado una esperanza en', chords: [
+            { position: 12, chord: 'C' },
+            { position: 25, chord: 'B7' }
+          ]
+        },
+        {
+          line: 'nuestras manos.', chords: [
+            { position: 13, chord: 'Em' }
+          ]
+        }
+      ],
+      [
+        { line: 'Y por todos los hermanos que han', chords: [] },
+        { line: 'pasado y se han quedado en la historia', chords: [] },
+        { line: 'que ha tejido nuestras almas.', chords: [] }
+      ],
+      [
+        { line: 'Y por todas esas obras y sus hombres,', chords: [] },
+        { line: 'muchas gracias oh Sagrados Corazones.', chords: [] }
+      ],
+      [
+        {
+          line: 'GRACIAS POR ESTAR A NUESTRO', chords: [
+            { position: 1, chord: 'C' },
+            { position: 15, chord: 'D' }
+          ]
+        },
+        {
+          line: 'LADO, GRACIAS OH SEÑOR POR', chords: [
+            { position: 0, chord: 'G' },
+            { position: 7, chord: 'C' },
+            { position: 20, chord: 'D' }
+          ]
+        },
+        {
+          line: 'ESOS DONES, GRACIAS OH', chords: [
+            { position: 6, chord: 'G' },
+            { position: 12, chord: 'C' }
+          ]
+        },
+        {
+          line: 'SAGRADOS CORAZONES, GRACIAS', chords: [
+            { position: 4, chord: 'D' },
+            { position: 13, chord: 'G' },
+            { position: 21, chord: 'C' }
+          ]
+        },
+        {
+          line: 'MIS AMIGOS A MONTONES.', chords: [
+            { position: 6, chord: 'D' },
+            { position: 18, chord: 'G' }
+          ]
+        }
+      ],
+      [
+        { line: 'Hasta siempre mis hermanos no se', chords: [] },
+        { line: 'olviden de nosotros que Dios quiera que', chords: [] },
+        { line: 'regresen, ¡los esperamos! Pero sobre todo', chords: [] },
+        { line: 'a ustedes les rogamos que nos tengan', chords: [] },
+        { line: 'para siempre en sus manos.', chords: [] }
+      ],
+      [
+        { line: 'Se quedaron en nosotros su recuerdo aún', chords: [] },
+        { line: 'nos guía, es la luz que nos alumbra día', chords: [] },
+        { line: 'con día, hermano son tuyas nuestras', chords: [] },
+        { line: 'oraciones, por que fuiste de esos grandes', chords: [] },
+        { line: 'corazones.', chords: [] }
+      ]
+    ]
   }
 ];

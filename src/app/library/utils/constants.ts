@@ -214,5 +214,21 @@ export const songsNamesList = [
   {
     title: 'Oh buen Jesús',
     url: 'oh-buen-jesus'
+  },
+  {
+    title: 'Mientras me queden fuerzas',
+    url: 'mientras-me-queden-fuerzas'
+  },
+  {
+    title: 'Misión de La Salle',
+    url: 'mision-de-la-salle'
+  },
+  {
+    title: 'Mi pensamiento',
+    url: 'mi-pensamiento'
+  },
+  {
+    title: 'Muchas gracias',
+    url: 'muchas-gracias'
   }
 ];
