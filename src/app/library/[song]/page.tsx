@@ -13,7 +13,8 @@ import { AiOutlineArrowLeft } from 'react-icons/ai';
 // import { MdOutlineReportGmailerrorred } from 'react-icons/md';
 
 const SongPage = ({ params }: { params: { song: string } }) => {
-  const currentSong = songList.find((song) => song.url === params.song);
+  const songMap = new Map(songList.map(song => [song.url, song]));
+  const currentSong = songMap.get(params.song);
 
   const [mode, setMode] = useState(LYRICS_MODE);
 

@@ -23,7 +23,10 @@ const LibraryPage = () => {
       setSongsList(songsListCopy);
       return;
     }
-    const filteredSongs = songsListCopy.filter(song => song.title.toLowerCase().includes(value.toLowerCase()));
+    const normalizedValue = value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+    const filteredSongs = songsListCopy.filter(song =>
+      song.title.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().includes(normalizedValue)
+    );
     setSongsList(filteredSongs);
   }, 200);
 

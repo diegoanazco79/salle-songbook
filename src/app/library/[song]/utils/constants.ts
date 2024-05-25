@@ -6024,29 +6024,30 @@ export const songList = [
       ],
       [
         {
-          line: 'SIEMPRE, SIEMPRE,', chords: [
+          line: 'SIEMPRE, SIEMPRE,',
+          chords: [
             { position: 2, chord: 'C' },
             { position: 10, chord: 'G' }
           ]
         },
         {
-          line: 'MIENTRAS ME QUEDEN FUERZAS', chords: [
-            { position: 2, chord: 'C' }
-          ]
+          line: 'MIENTRAS ME QUEDEN FUERZAS',
+          chords: [{ position: 2, chord: 'C' }]
         },
         {
-          line: 'YO TE SEGUIRÉ', chords: [
-            { position: 0, chord: 'G' }
-          ]
+          line: 'YO TE SEGUIRÉ',
+          chords: [{ position: 0, chord: 'G' }]
         },
         {
-          line: 'SIEMPRE, SIEMPRE,', chords: [
+          line: 'SIEMPRE, SIEMPRE,',
+          chords: [
             { position: 2, chord: 'C' },
             { position: 10, chord: 'G' }
           ]
         },
         {
-          line: 'TRABAJARÉ POR TI, SEÑOR (BIS)', chords: [
+          line: 'TRABAJARÉ POR TI, SEÑOR (BIS)',
+          chords: [
             { position: 3, chord: 'C' },
             { position: 14, chord: 'D' },
             { position: 20, chord: 'G' },
@@ -6072,13 +6073,15 @@ export const songList = [
       ],
       [
         {
-          line: 'SIEMPRE, SIEMPRE,', chords: [
+          line: 'SIEMPRE, SIEMPRE,',
+          chords: [
             { position: 2, chord: 'C' },
             { position: 10, chord: 'G' }
           ]
         },
         {
-          line: 'TRABAJARÉ POR TI...', chords: [
+          line: 'TRABAJARÉ POR TI...',
+          chords: [
             { position: 3, chord: 'C' },
             { position: 11, chord: 'D' }
           ]
@@ -6086,20 +6089,23 @@ export const songList = [
       ],
       [
         {
-          line: 'Cristo, esté soltero o casado,', chords: [
+          line: 'Cristo, esté soltero o casado,',
+          chords: [
             { position: 0, chord: 'G' },
             { position: 14, chord: 'D' },
             { position: 23, chord: 'Em' }
           ]
         },
         {
-          line: 'joven, viejo hasta anciano,', chords: [
+          line: 'joven, viejo hasta anciano,',
+          chords: [
             { position: 7, chord: 'B7' },
             { position: 20, chord: 'C' }
           ]
         },
         {
-          line: 'ninguna sociedad me alejará de ti.', chords: [
+          line: 'ninguna sociedad me alejará de ti.',
+          chords: [
             { position: 4, chord: 'G' },
             { position: 13, chord: 'Am' },
             { position: 24, chord: 'D' },
@@ -6115,155 +6121,146 @@ export const songList = [
     paragraphs: [
       [
         {
-          line: 'Queremos darte las manos', chords: [
-            { position: 3, chord: 'C' }
-          ]
+          line: 'Queremos darte las manos',
+          chords: [{ position: 3, chord: 'C' }]
         },
         {
-          line: 'queremos darte el caminar', chords: [
-            { position: 3, chord: 'Am' }
-          ]
+          line: 'queremos darte el caminar',
+          chords: [{ position: 3, chord: 'Am' }]
         },
         {
-          line: 'queremos darte las ganas locas', chords: [
-            { position: 3, chord: 'F' }
-          ]
+          line: 'queremos darte las ganas locas',
+          chords: [{ position: 3, chord: 'F' }]
         },
         {
-          line: 'de llevarte a los demás.', chords: [
-            { position: 0, chord: 'G' }
-          ]
+          line: 'de llevarte a los demás.',
+          chords: [{ position: 0, chord: 'G' }]
         }
       ],
       [
         {
-          line: 'Queremos vivir siempre en ti,', chords: [
-            { position: 3, chord: 'C' }
-          ]
+          line: 'Queremos vivir siempre en ti,',
+          chords: [{ position: 3, chord: 'C' }]
         },
         {
-          line: 'queremos unirnos a ti', chords: [
-            { position: 3, chord: 'Am' }
-          ]
+          line: 'queremos unirnos a ti',
+          chords: [{ position: 3, chord: 'Am' }]
         },
         {
-          line: '&para que fuerte gritemos tu amor', chords: [
-            { position: 0, chord: 'F' }
-          ]
+          line: '&para que fuerte gritemos tu amor',
+          chords: [{ position: 0, chord: 'F' }]
         },
         {
-          line: 'a la humanidad', chords: [
-            { position: 0, chord: 'G' }
-          ]
+          line: 'a la humanidad',
+          chords: [{ position: 0, chord: 'G' }]
         }
       ],
       [
         {
-          line: 'NUESTRA MISIÓN COMENZÓ', chords: [
+          line: 'NUESTRA MISIÓN COMENZÓ',
+          chords: [
             { position: 3, chord: 'C' },
             { position: 10, chord: 'Am' }
           ]
         },
         {
-          line: 'Y NUNCA TERMINARÁ', chords: [
+          line: 'Y NUNCA TERMINARÁ',
+          chords: [
             { position: 3, chord: 'F' },
             { position: 15, chord: 'G' }
           ]
         },
         {
-          line: 'UNA ESTRELLA QUE NO', chords: [
+          line: 'UNA ESTRELLA QUE NO',
+          chords: [
             { position: 1, chord: 'C' },
             { position: 6, chord: 'Am' }
           ]
         },
         {
-          line: 'QUE NO SE APAGARÁ.', chords: [
+          line: 'QUE NO SE APAGARÁ.',
+          chords: [
             { position: 5, chord: 'F' },
             { position: 15, chord: 'G' }
           ]
         },
         {
-          line: 'NOS DA LA MISIÓN,', chords: [
-            { position: 13, chord: 'C' }
-          ]
+          line: 'NOS DA LA MISIÓN,',
+          chords: [{ position: 13, chord: 'C' }]
         },
         {
-          line: 'MISIÓN DE LA SALLE', chords: [
-            { position: 13, chord: 'Am' }
-          ]
+          line: 'MISIÓN DE LA SALLE',
+          chords: [{ position: 13, chord: 'Am' }]
         },
         {
-          line: 'VIVES SEÑOR,', chords: [
-            { position: 9, chord: 'F' }
-          ]
+          line: 'VIVES SEÑOR,',
+          chords: [{ position: 9, chord: 'F' }]
         },
         {
-          line: 'EN NUESTROS CORAZONES', chords: [
-            { position: 17, chord: 'C' }
-          ]
+          line: 'EN NUESTROS CORAZONES',
+          chords: [{ position: 17, chord: 'C' }]
         },
         {
-          line: 'PARA SERVIR AL MUNDO', chords: [
-            { position: 7, chord: 'Am' }
-          ]
+          line: 'PARA SERVIR AL MUNDO',
+          chords: [{ position: 7, chord: 'Am' }]
         },
         {
-          line: 'CON FE Y FRATERNIDAD', chords: [
+          line: 'CON FE Y FRATERNIDAD',
+          chords: [
             { position: 5, chord: 'F' },
             { position: 18, chord: 'G' }
           ]
         },
         {
-          line: 'Y CONTRUIR EL REINO', chords: [
-            { position: 7, chord: 'Am' }
-          ]
+          line: 'Y CONTRUIR EL REINO',
+          chords: [{ position: 7, chord: 'Am' }]
         },
         {
-          line: 'SIEMPRE EN COMUNIDAD', chords: [
+          line: 'SIEMPRE EN COMUNIDAD',
+          chords: [
             { position: 2, chord: 'F' },
             { position: 18, chord: 'G' }
           ]
         },
         {
-          line: 'EN COMUNIDAD.', chords: [
-            { position: 9, chord: 'C' }
-          ]
+          line: 'EN COMUNIDAD.',
+          chords: [{ position: 9, chord: 'C' }]
         }
       ],
       [
         {
-          line: 'Miraremos con ojos de fe,', chords: [
-            { position: 3, chord: 'C' }]
+          line: 'Miraremos con ojos de fe,',
+          chords: [{ position: 3, chord: 'C' }]
         },
         {
-          line: 'lo que debemos cumplir', chords: [
-            { position: 3, chord: 'Am' }]
+          line: 'lo que debemos cumplir',
+          chords: [{ position: 3, chord: 'Am' }]
         },
         {
-          line: 'dando gozosos la vida plena', chords: [
-            { position: 1, chord: 'F' }]
+          line: 'dando gozosos la vida plena',
+          chords: [{ position: 1, chord: 'F' }]
         },
         {
-          line: 'de llevarte a los demás.', chords: [
-            { position: 0, chord: 'G' }]
+          line: 'de llevarte a los demás.',
+          chords: [{ position: 0, chord: 'G' }]
         }
       ],
       [
         {
-          line: 'Queremos darte, Señor', chords: [
-            { position: 3, chord: 'C' }]
+          line: 'Queremos darte, Señor',
+          chords: [{ position: 3, chord: 'C' }]
         },
         {
-          line: 'las alegrías y fuerzas', chords: [
-            { position: 4, chord: 'Am' }]
+          line: 'las alegrías y fuerzas',
+          chords: [{ position: 4, chord: 'Am' }]
         },
         {
-          line: '&pedimos tu bendición y nadie', chords: [
-            { position: 0, chord: 'F' }]
+          line: '&pedimos tu bendición y nadie',
+          chords: [{ position: 0, chord: 'F' }]
         },
         {
-          line: 'nos detendrá.', chords: [
-            { position: 0, chord: 'G' }]
+          line: 'nos detendrá.',
+          chords: [{ position: 0, chord: 'G' }]
         }
       ]
     ]
@@ -6274,13 +6271,15 @@ export const songList = [
     paragraphs: [
       [
         {
-          line: '&Mi pensamiento eres Tú, Señor,', chords: [
+          line: '&Mi pensamiento eres Tú, Señor,',
+          chords: [
             { position: 0, chord: 'D' },
             { position: 21, chord: 'G' }
           ]
         },
         {
-          line: '&Mi pensamiento eres Tú Señor (Bis)', chords: [
+          line: '&Mi pensamiento eres Tú Señor (Bis)',
+          chords: [
             { position: 0, chord: 'A' },
             { position: 21, chord: 'D' }
           ]
@@ -6288,26 +6287,26 @@ export const songList = [
       ],
       [
         {
-          line: 'PORQUE TÚ ME HAS DADO LA VIDA,', chords: [
+          line: 'PORQUE TÚ ME HAS DADO LA VIDA,',
+          chords: [
             { position: 7, chord: 'G' },
             { position: 26, chord: 'A' }
           ]
         },
         {
-          line: 'PORQUE TÚ ME HAS DADO EL EXISTIR,', chords: [
+          line: 'PORQUE TÚ ME HAS DADO EL EXISTIR,',
+          chords: [
             { position: 7, chord: 'D' },
             { position: 29, chord: 'Bm' }
           ]
         },
         {
-          line: 'PORQUE TÚ ME HAS DADO CARIÑO.', chords: [
-            { position: 7, chord: 'A' }
-          ]
+          line: 'PORQUE TÚ ME HAS DADO CARIÑO.',
+          chords: [{ position: 7, chord: 'A' }]
         },
         {
-          line: 'ME HAS DADO EL AMOR. (BIS)', chords: [
-            { position: 16, chord: 'D' }
-          ]
+          line: 'ME HAS DADO EL AMOR. (BIS)',
+          chords: [{ position: 16, chord: 'D' }]
         }
       ],
       [
@@ -6330,25 +6329,25 @@ export const songList = [
     paragraphs: [
       [
         {
-          line: 'Por habernos dado tanto, por estar a', chords: [
+          line: 'Por habernos dado tanto, por estar a',
+          chords: [
             { position: 7, chord: 'G' },
             { position: 30, chord: 'C' }
           ]
         },
         {
-          line: 'nuestro lado y por ser buenos amigos', chords: [
-            { position: 20, chord: 'D' }
-          ]
+          line: 'nuestro lado y por ser buenos amigos',
+          chords: [{ position: 20, chord: 'D' }]
         },
         {
-          line: 'muchas gracias.', chords: [
-            { position: 7, chord: 'G' }
-          ]
+          line: 'muchas gracias.',
+          chords: [{ position: 7, chord: 'G' }]
         }
       ],
       [
         {
-          line: 'Y por todos esos años que han dejado', chords: [
+          line: 'Y por todos esos años que han dejado',
+          chords: [
             { position: 7, chord: 'C' },
             { position: 17, chord: 'D' },
             { position: 31, chord: 'G' },
@@ -6356,15 +6355,15 @@ export const songList = [
           ]
         },
         {
-          line: 'que han sembrado una esperanza en', chords: [
+          line: 'que han sembrado una esperanza en',
+          chords: [
             { position: 12, chord: 'C' },
             { position: 25, chord: 'B7' }
           ]
         },
         {
-          line: 'nuestras manos.', chords: [
-            { position: 13, chord: 'Em' }
-          ]
+          line: 'nuestras manos.',
+          chords: [{ position: 13, chord: 'Em' }]
         }
       ],
       [
@@ -6378,33 +6377,38 @@ export const songList = [
       ],
       [
         {
-          line: 'GRACIAS POR ESTAR A NUESTRO', chords: [
+          line: 'GRACIAS POR ESTAR A NUESTRO',
+          chords: [
             { position: 1, chord: 'C' },
             { position: 15, chord: 'D' }
           ]
         },
         {
-          line: 'LADO, GRACIAS OH SEÑOR POR', chords: [
+          line: 'LADO, GRACIAS OH SEÑOR POR',
+          chords: [
             { position: 0, chord: 'G' },
             { position: 7, chord: 'C' },
             { position: 20, chord: 'D' }
           ]
         },
         {
-          line: 'ESOS DONES, GRACIAS OH', chords: [
+          line: 'ESOS DONES, GRACIAS OH',
+          chords: [
             { position: 6, chord: 'G' },
             { position: 12, chord: 'C' }
           ]
         },
         {
-          line: 'SAGRADOS CORAZONES, GRACIAS', chords: [
+          line: 'SAGRADOS CORAZONES, GRACIAS',
+          chords: [
             { position: 4, chord: 'D' },
             { position: 13, chord: 'G' },
             { position: 21, chord: 'C' }
           ]
         },
         {
-          line: 'MIS AMIGOS A MONTONES.', chords: [
+          line: 'MIS AMIGOS A MONTONES.',
+          chords: [
             { position: 6, chord: 'D' },
             { position: 18, chord: 'G' }
           ]
@@ -6423,6 +6427,356 @@ export const songList = [
         { line: 'con día, hermano son tuyas nuestras', chords: [] },
         { line: 'oraciones, por que fuiste de esos grandes', chords: [] },
         { line: 'corazones.', chords: [] }
+      ]
+    ]
+  },
+  {
+    title: 'Quiero alabarte',
+    url: 'quiero-alabarte',
+    paragraphs: [
+      [
+        {
+          line: 'QUIERO ALABARTE, MÁS Y MÁS AÚN',
+          chords: [{ position: 9, chord: 'D' }]
+        },
+        {
+          line: 'QUIERO ALABARTE, MÁS Y MÁS AÚN',
+          chords: [{ position: 9, chord: 'Bm' }]
+        },
+        {
+          line: 'BUSCAR TU VOLUNTAD, TU GRACIA',
+          chords: [
+            { position: 3, chord: 'G' },
+            { position: 21, chord: 'Em' }
+          ]
+        },
+        {
+          line: 'CONOCER, QUIERO ALABARTE.',
+          chords: [
+            { position: 16, chord: 'A' },
+            { position: 19, chord: 'A7' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Las aves del cielo cantan para Ti, las',
+          chords: [{ position: 4, chord: 'D' }]
+        },
+        {
+          line: 'bestias del campo reflejan tu poder, y',
+          chords: [{ position: 0, chord: 'Bm' }]
+        },
+        {
+          line: 'quiero cantar y quiero levantar mis',
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 17, chord: 'Em' }
+          ]
+        },
+        {
+          line: 'manos a Ti, Señor (Bis)',
+          chords: [
+            { position: 6, chord: 'A' },
+            { position: 8, chord: 'A7' },
+            { position: 15, chord: 'D' }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Que sea por amor',
+    url: 'que-sea-por-amor',
+    paragraphs: [
+      [
+        {
+          line: 'Que no te siga mi Señor, por el miedo',
+          chords: [
+            { position: 19, chord: 'A' },
+            { position: 32, chord: 'D' }
+          ]
+        },
+        {
+          line: 'a broncearme junto a Lucifer.',
+          chords: [
+            { position: 6, chord: 'E' },
+            { position: 23, chord: 'F#m' }
+          ]
+        },
+        {
+          line: 'Que no lo haga calculando el precio o',
+          chords: [
+            { position: 21, chord: 'D' },
+            { position: 30, chord: 'A' }
+          ]
+        },
+        {
+          line: 'incluso regateándote.',
+          chords: [
+            { position: 3, chord: 'B7' },
+            { position: 17, chord: 'E' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Que no me ponga mi Señor de rodillas',
+          chords: [
+            { position: 21, chord: 'A' },
+            { position: 34, chord: 'D' }
+          ]
+        },
+        {
+          line: 'si te doy para que Tú me des.',
+          chords: [
+            { position: 6, chord: 'E' },
+            { position: 19, chord: 'C#7' },
+            { position: 25, chord: 'F#m' }
+          ]
+        },
+        {
+          line: 'Que no me pase acumulando millas',
+          chords: [
+            { position: 20, chord: 'D' },
+            { position: 26, chord: 'A' }
+          ]
+        },
+        {
+          line: 'buscando mi viaje al Edén.',
+          chords: [
+            { position: 3, chord: 'E' },
+            { position: 15, chord: 'D' },
+            { position: 23, chord: 'A' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'QUE SEA POR UN AMOR SINCERO',
+          chords: [
+            { position: 15, chord: 'C#m7' },
+            { position: 22, chord: 'F#m' }
+          ]
+        },
+        {
+          line: 'QUE BROTE DESDE EL CORAZÓN',
+          chords: [
+            { position: 6, chord: 'D' },
+            { position: 23, chord: 'E' }
+          ]
+        },
+        {
+          line: 'QUE SEA CON AGRADECIMIENTO',
+          chords: [
+            { position: 15, chord: 'C#m7' },
+            { position: 22, chord: 'F#m' }
+          ]
+        },
+        {
+          line: 'A TU SANGRE Y A TU PASIÓN',
+          chords: [
+            { position: 2, chord: 'Bm7' },
+            { position: 21, chord: 'E' }
+          ]
+        },
+        {
+          line: 'QUE SEA CON ARREPENTIMIENTO',
+          chords: [
+            { position: 15, chord: 'C#m7' },
+            { position: 22, chord: 'F#m' }
+          ]
+        },
+        {
+          line: 'ANTE TU INMENSO Y',
+          chords: [{ position: 3, chord: 'F' }]
+        },
+        {
+          line: 'DESINTERESADO AMOR',
+          chords: [{ position: 10, chord: 'A' }]
+        },
+        {
+          line: 'ES QUE TU DESDE SIEMPRE ME',
+          chords: [{ position: 3, chord: 'Bm7' }]
+        },
+        {
+          line: 'AMASTE PRIMERO',
+          chords: [
+            { position: 2, chord: 'E' },
+            { position: 10, chord: 'A' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Que no te sigo mi Señor por el miedo ni',
+          chords: []
+        },
+        {
+          line: 'por dármelas de querubín,',
+          chords: []
+        },
+        {
+          line: 'que no lo haga por el cumplimiento si',
+          chords: []
+        },
+        {
+          line: 'cumplo solo por mentir.',
+          chords: []
+        }
+      ],
+      [
+        {
+          line: 'Que no me siente mi Señor a tu mesa sin',
+          chords: []
+        },
+        {
+          line: 'hambre ni respeto a Ti. Que no lo haga',
+          chords: []
+        },
+        {
+          line: 'por tu providencia, ni si quiera para vivir.',
+          chords: []
+        }
+      ],
+      [
+        {
+          line: 'QUE SEA CON ARREPENTIMIENTO ANTE',
+          chords: []
+        },
+        {
+          line: 'TU INMENSO Y DESINTERESADO AMOR ES',
+          chords: []
+        },
+        {
+          line: 'QUE TÚ DESDE SIEMPRE ME AMASTE',
+          chords: []
+        },
+        {
+          line: 'PRIMERO.',
+          chords: []
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Rahamin',
+    url: 'rahamin',
+    paragraphs: [
+      [
+        {
+          line: 'Orando y en medio de tus suspiros,',
+          chords: [
+            { position: 2, chord: 'G' },
+            { position: 12, chord: 'C' },
+            { position: 21, chord: 'D' },
+            { position: 28, chord: 'G' }
+          ]
+        },
+        {
+          line: 'aceptaste un amor: "Que se haga',
+          chords: [
+            { position: 3, chord: 'C' },
+            { position: 10, chord: 'D' },
+            { position: 13, chord: 'Em' }
+          ]
+        },
+        {
+          line: 'según has dicho, te ofrezco mi',
+          chords: [{ position: 2, chord: 'C' }]
+        },
+        {
+          line: 'esclavitud"',
+          chords: [{ position: 3, chord: 'D' }]
+        }
+      ],
+      [
+        {
+          line: 'Cuidando la esperanza entre tus brazos',
+          chords: []
+        },
+        {
+          line: 'le brindaste tu calor, bendita eres entre',
+          chords: []
+        },
+        {
+          line: 'las mujeres, la Gracias te embriagó... Tú',
+          chords: []
+        },
+        {
+          line: 'corazón.',
+          chords: []
+        }
+      ],
+      [
+        {
+          line: 'MADRE SENCILLA, DULCE SONRISA,',
+          chords: [
+            { position: 9, chord: 'C' },
+            { position: 19, chord: 'D' }
+          ]
+        },
+        {
+          line: 'ENSÉÑAME A CAMINAR.',
+          chords: [
+            { position: 3, chord: 'G' },
+            { position: 14, chord: 'Em' }
+          ]
+        },
+        {
+          line: 'MADRE DE MADRES, LUZ DE',
+          chords: [
+            { position: 2, chord: 'C' },
+            { position: 22, chord: 'D' }
+          ]
+        },
+        {
+          line: 'ESPERANZA, TE NECESITO',
+          chords: [{ position: 15, chord: 'G' }]
+        },
+        {
+          line: 'ENCONTRAR PORQUE NO',
+          chords: [{ position: 5, chord: 'Em' }]
+        },
+        {
+          line: 'QUIERO SER UN',
+          chords: [{ position: 3, chord: 'C' }]
+        },
+        {
+          line: 'HUÉRFANO DE AMOR.',
+          chords: [
+            { position: 2, chord: 'D' },
+            { position: 13, chord: 'G' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Siguiendo los pasos de tu hijo, lo',
+          chords: []
+        },
+        {
+          line: 'acompañaste hasta la cruz; eterna es tu',
+          chords: []
+        },
+        {
+          line: 'recompensa sufriste por amor.',
+          chords: []
+        }
+      ],
+      [
+        {
+          line: 'Temblando y tus lágrimas rozando el',
+          chords: []
+        },
+        {
+          line: 'rostro de Jesús; descubriste el infinito',
+          chords: []
+        },
+        {
+          line: 'amor de la pasión de Dios... Tan solo tú.',
+          chords: []
+        }
       ]
     ]
   }

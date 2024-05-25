@@ -92,7 +92,7 @@ export const songsNamesList = [
     url: 'salmo-139'
   },
   {
-    title: 'Saname Señor',
+    title: 'Sáname Señor',
     url: 'saname-senor'
   },
   {
@@ -230,5 +230,21 @@ export const songsNamesList = [
   {
     title: 'Muchas gracias',
     url: 'muchas-gracias'
+  },
+  {
+    title: 'Quiero alabarte',
+    url: 'quiero-alabarte'
+  },
+  {
+    title: 'Que sea por amor',
+    url: 'que-sea-por-amor'
+  },
+  {
+    title: 'Rahamin',
+    url: 'rahamin'
+  },
+  {
+    title: 'Madre',
+    url: 'madre'
   }
 ];
