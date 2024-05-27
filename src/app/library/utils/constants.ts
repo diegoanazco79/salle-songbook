@@ -258,5 +258,21 @@ export const songsNamesList = [
   {
     title: 'Mensajero de la paz',
     url: 'mensajero-de-la-paz'
+  },
+  {
+    title: 'Una vez más rezaré',
+    url: 'una-vez-mas-rezare'
+  },
+  {
+    title: 'Ven sígueme',
+    url: 'ven-sigueme'
+  },
+  {
+    title: 'Ven Señor',
+    url: 'ven-senor'
+  },
+  {
+    title: 'Vienen con alegría',
+    url: 'vienen-con-alegria'
   }
 ];

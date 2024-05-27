@@ -7202,5 +7202,473 @@ export const songList = [
         }
       ]
     ]
+  },
+  {
+    title: 'Una vez más rezaré',
+    url: 'una-vez-mas-rezare',
+    paragraphs: [
+      [
+        {
+          line: 'Una vez más rezaré, de rodillas me',
+          chords: [
+            { position: 5, chord: 'D' },
+            { position: 23, chord: 'Bm' }
+          ]
+        },
+        {
+          line: 'pondré, puede ser que una vez',
+          chords: [
+            { position: 12, chord: 'G' }
+          ]
+        },
+        {
+          line: 'más, Él me perdone.',
+          chords: [
+            { position: 0, chord: 'E' },
+            { position: 14, chord: 'A' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Le diré que luché en vano, que pequé',
+          chords: []
+        },
+        {
+          line: 'pues soy humano, puede ser que una vez',
+          chords: []
+        },
+        {
+          line: 'más, Él me perdone.',
+          chords: []
+        }
+      ],
+      [
+        {
+          line: 'PARA UN DIOS QUE CONOCIÓ LA',
+          chords: [
+            { position: 10, chord: 'D' },
+            { position: 23, chord: 'A' }
+          ]
+        },
+        {
+          line: 'TENTACIÓN, DEL AMIGO LA',
+          chords: [
+            { position: 6, chord: 'Bm' },
+            { position: 15, chord: 'F#m' }
+          ]
+        },
+        {
+          line: 'TRAICIÓN, YO NO DUDO ME',
+          chords: [
+            { position: 7, chord: 'G' }
+          ]
+        },
+        {
+          line: 'PERDONES DIOS AMIGO (BIS)',
+          chords: [
+            { position: 4, chord: 'E' },
+            { position: 16, chord: 'A' }
+          ]
+        },
+        {
+          line: 'DIOS AMOR.',
+          chords: [
+            { position: 6, chord: 'D' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Yo vi sufrir a mi hermano, cuando faltaba',
+          chords: []
+        },
+        {
+          line: 'una mano, puede ser que una vez más, Él',
+          chords: []
+        },
+        {
+          line: 'me perdone.',
+          chords: []
+        }
+      ],
+      [
+        {
+          line: 'Murió pobre y desahuiciado, yo con los',
+          chords: []
+        },
+        {
+          line: 'brazos cruzados; puede ser que una vez',
+          chords: []
+        },
+        {
+          line: 'más, Él me perdone.',
+          chords: []
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Ven sígueme',
+    url: 'ven-sigueme',
+    paragraphs: [
+      [
+        {
+          line: 'Como llegaste a dar conmigo',
+          chords: [
+            { position: 10, chord: 'G' },
+            { position: 26, chord: 'Am' }
+          ]
+        },
+        {
+          line: 'siempre me pregunto yo por más que te',
+          chords: [
+            { position: 18, chord: 'D' }
+          ]
+        },
+        {
+          line: 'quise esquivar diste con mi corazón.',
+          chords: [
+            { position: 10, chord: 'D7' },
+            { position: 19, chord: 'F' },
+            { position: 25, chord: 'C' },
+            { position: 30, chord: 'G' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Te averiguaste mi apellido&&',
+          chords: [
+            { position: 10, chord: 'Em' },
+            { position: 27, chord: 'A7' }
+          ]
+        },
+        {
+          line: 'mi fono y mi dirección,',
+          chords: [
+            { position: 17, chord: 'D' }
+          ]
+        },
+        {
+          line: 'mi electoral, mi militar',
+          chords: [
+            { position: 17, chord: 'D7' }
+          ]
+        },
+        {
+          line: 'y hasta mi nueva canción.',
+          chords: [
+            { position: 8, chord: 'F' },
+            { position: 13, chord: 'C' },
+            { position: 20, chord: 'G' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Sabías que nunca iba a aceptarte',
+          chords: [
+            { position: 12, chord: 'D' },
+            { position: 24, chord: 'D7' }
+          ]
+        },
+        {
+          line: 'sin que acepte mi razón',
+          chords: [
+            { position: 9, chord: 'Em' }
+          ]
+        },
+        {
+          line: 'y fuiste Tú quien vino y me lo explicó.',
+          chords: [
+            { position: 9, chord: 'A7' },
+            { position: 33, chord: 'D' },
+            { position: 37, chord: 'D7' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'DIJISTE VEN SÍGUEME',
+          chords: [
+            { position: 9, chord: 'G' }
+          ]
+        },
+        {
+          line: 'VEN OYE SÍGUEME',
+          chords: [
+            { position: 1, chord: 'F' }
+          ]
+        },
+        {
+          line: '&&&&DEJA TODO ATRÁS',
+          chords: [
+            { position: 0, chord: 'Em' },
+            { position: 16, chord: 'C' }
+          ]
+        },
+        {
+          line: 'Y VEN HOY JUNTO A MÍ&&',
+          chords: [
+            { position: 18, chord: 'A7' },
+            { position: 21, chord: 'D' }
+          ]
+        },
+        {
+          line: 'Y NO SUPE QUE DECIR.',
+          chords: [
+            { position: 7, chord: 'F' },
+            { position: 11, chord: 'D' },
+            { position: 16, chord: 'G' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Sabías mis platos favoritos e hincha de',
+          chords: []
+        },
+        {
+          line: 'que equipo soy y que prefiero a Fito Páez',
+          chords: []
+        },
+        {
+          line: 'que a cualquier anglosajón. Y averiguaste',
+          chords: []
+        },
+        {
+          line: 'que lo mío (No) no es escuchar un',
+          chords: []
+        },
+        {
+          line: 'sermón y convertiste tu verdad, en',
+          chords: []
+        },
+        {
+          line: 'acordes de canción.',
+          chords: []
+        }
+      ],
+      [
+        {
+          line: 'Sabías que nunca iba a acercarme por mi',
+          chords: []
+        },
+        {
+          line: 'propia decisión y fuiste tú quien vino y se',
+          chords: []
+        },
+        {
+          line: 'me acercó. Como llegar a dar contigo eso',
+          chords: []
+        },
+        {
+          line: 'pregúntate hoy lo que te puedo asegurar',
+          chords: []
+        },
+        {
+          line: 'es que aunque quieras esquivar Él dará',
+          chords: []
+        },
+        {
+          line: 'en tu corazón.',
+          chords: []
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Ven Señor',
+    url: 'ven-senor',
+    paragraphs: [
+      [
+        {
+          line: 'VEN, VEN, SEÑOR, NO TARDES',
+          chords: [
+            { position: 0, chord: 'E' }
+          ]
+        },
+        {
+          line: 'VEN, VEN QUE TE ESPERAMOS',
+          chords: [
+            { position: 0, chord: 'B7' },
+            { position: 20, chord: 'E' }
+          ]
+        },
+        {
+          line: 'VEN, VEN, SEÑOR NO TARDES,',
+          chords: [
+            { position: 0, chord: 'E' }
+          ]
+        },
+        {
+          line: 'VEN PRONTO, SEÑOR.',
+          chords: [
+            { position: 0, chord: 'B7' },
+            { position: 15, chord: 'E' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'El mundo muere de frío',
+          chords: [
+            { position: 18, chord: 'AE' }
+          ]
+        },
+        {
+          line: 'el alma perdió el calor,',
+          chords: [
+            { position: 3, chord: 'B7' },
+            { position: 20, chord: 'E' }
+          ]
+        },
+        {
+          line: 'los hombres no son hermanos,',
+          chords: [
+            { position: 23, chord: 'A' },
+            { position: 25, chord: 'E' }
+          ]
+        },
+        {
+          line: 'el mundo no tiene amor.',
+          chords: [
+            { position: 3, chord: 'B7' },
+            { position: 20, chord: 'E' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Envuelto en sombría noche el mundo sin',
+          chords: []
+        },
+        {
+          line: 'paz no ve, buscando va una esperanza,',
+          chords: []
+        },
+        {
+          line: 'buscando, Señor, tu fe.',
+          chords: []
+        }
+      ],
+      [
+        {
+          line: 'Al mundo le falta vida, al mundo le falta',
+          chords: []
+        },
+        {
+          line: 'luz, al mundo le falta cielo, al mundo le',
+          chords: []
+        },
+        {
+          line: 'faltas Tú.',
+          chords: []
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Vienen con alegría',
+    url: 'vienen-con-alegria',
+    paragraphs: [
+      [
+        {
+          line: 'VIENEN CON ALEGRÍA, SEÑOR,',
+          chords: [
+            { position: 1, chord: 'D' }
+          ]
+        },
+        {
+          line: 'CANTANDO VIENEN CON ALEGRÍA,',
+          chords: [
+            { position: 7, chord: 'D7' },
+            { position: 20, chord: 'A' },
+            { position: 25, chord: 'D' }
+          ]
+        },
+        {
+          line: 'SEÑOR, LOS QUE CAMINAN POR LA',
+          chords: [
+            { position: 3, chord: 'D7' },
+            { position: 8, chord: 'G' },
+            { position: 18, chord: 'A' },
+            { position: 28, chord: 'D' }
+          ]
+        },
+        {
+          line: 'VIDA, SEÑOR.',
+          chords: [
+            { position: 8, chord: 'Bm' }
+          ]
+        },
+        {
+          line: 'SEMBRANDO TU PAZ Y AMOR.',
+          chords: [
+            { position: 4, chord: 'A' },
+            { position: 21, chord: 'D' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Vienen trayendo la esperanza a un',
+          chords: [
+            { position: 24, chord: 'A' }
+          ]
+        },
+        {
+          line: 'mundo cargado de ansiedad, un mundo',
+          chords: [
+            { position: 23, chord: 'D' }
+          ]
+        },
+        {
+          line: 'que busca y que no alcanza caminos de',
+          chords: [
+            { position: 22, chord: 'A' }
+          ]
+        },
+        {
+          line: 'amor y de amistad.',
+          chords: [
+            { position: 16, chord: 'D' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Vienen trayendo entre sus manos',
+          chords: []
+        },
+        {
+          line: 'esfuerzos de hermanos por la paz,',
+          chords: []
+        },
+        {
+          line: 'deseos de un mundo más humano que',
+          chords: []
+        },
+        {
+          line: 'nacen del bien y la verdad.',
+          chords: []
+        }
+      ],
+      [
+        {
+          line: 'Cuando el odio y la violencia aniden en',
+          chords: []
+        },
+        {
+          line: 'nuestro corazón, el mundo sabrá que por',
+          chords: []
+        },
+        {
+          line: 'herencia le aguardan tristezas y dolor.',
+          chords: []
+        }
+      ]
+    ]
   }
 ];
