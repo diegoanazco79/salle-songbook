@@ -6779,5 +6779,428 @@ export const songList = [
         }
       ]
     ]
+  },
+  {
+    title: 'Madre',
+    url: 'madre',
+    paragraphs: [
+      [
+        {
+          line: 'Junto a ti, María, como un niño',
+          chords: [
+            { position: 0, chord: 'D' },
+            { position: 14, chord: 'A' },
+            { position: 27, chord: 'Bm' }
+          ]
+        },
+        {
+          line: 'quiero estar, tómame en tus',
+          chords: [
+            { position: 7, chord: 'F#m' },
+            { position: 14, chord: 'G' }
+          ]
+        },
+        {
+          line: 'brazos, guíame al caminar.',
+          chords: [
+            { position: 0, chord: 'D' },
+            { position: 12, chord: 'E' },
+            { position: 23, chord: 'A' }
+          ]
+        },
+        {
+          line: 'Quiero que me eduques, que me enseñes',
+          chords: [
+            { position: 0, chord: 'D' },
+            { position: 18, chord: 'A' },
+            { position: 30, chord: 'Bm' }
+          ]
+        },
+        {
+          line: 'a rezar, hazme transparente,',
+          chords: [
+            { position: 3, chord: 'F#m' },
+            { position: 9, chord: 'G' }
+          ]
+        },
+        {
+          line: 'lléname de paz.',
+          chords: [
+            { position: 4, chord: 'A' },
+            { position: 12, chord: 'D' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'MADRE, MADRE, MADRE, MADRE',
+          chords: [
+            { position: 0, chord: 'D' },
+            { position: 3, chord: 'A' },
+            { position: 7, chord: 'Bm' },
+            { position: 9, chord: 'F#m' },
+            { position: 14, chord: 'G' },
+            { position: 17, chord: 'D' },
+            { position: 21, chord: 'E' },
+            { position: 24, chord: 'A' }
+          ]
+        },
+        {
+          line: 'MADRE, MADRE, MADRE, MADRE',
+          chords: [
+            { position: 0, chord: 'D' },
+            { position: 3, chord: 'A' },
+            { position: 7, chord: 'Bm' },
+            { position: 9, chord: 'F#m' },
+            { position: 14, chord: 'G' },
+            { position: 17, chord: 'D' },
+            { position: 21, chord: 'A' },
+            { position: 24, chord: 'D' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Gracias Madre mía, por llevarnos a Jesús,',
+          chords: []
+        },
+        {
+          line: 'haznos más humildes, tan sencillos como',
+          chords: []
+        },
+        {
+          line: 'tú. Gracias, Madre mía, por abrir tu',
+          chords: []
+        },
+        {
+          line: 'corazón; porque nos congregas y nos das',
+          chords: []
+        },
+        {
+          line: 'tu amor.',
+          chords: []
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Madre Misionera',
+    url: 'madre-misionera',
+    paragraphs: [
+      [
+        {
+          line: 'Señora de los pobres mira el pueblo de',
+          chords: [
+            { position: 2, chord: 'Bm' },
+            { position: 14, chord: 'G' },
+            { position: 23, chord: 'A' }
+          ]
+        },
+        {
+          line: 'Dios, hay muchos que se pierden por',
+          chords: [
+            { position: 2, chord: 'D' },
+            { position: 22, chord: 'F#m' }
+          ]
+        },
+        {
+          line: 'estar sin pastor. Y sin embargo quieren seguir',
+          chords: [
+            { position: 12, chord: 'Bm' },
+            { position: 35, chord: 'G' },
+            { position: 43, chord: 'A' }
+          ]
+        },
+        {
+          line: 'confiando en ti y se saben cristianos',
+          chords: [
+            { position: 13, chord: 'D' },
+            { position: 32, chord: 'F#m' }
+          ]
+        },
+        {
+          line: 'porque sienten tu amor.',
+          chords: [
+            { position: 19, chord: 'Bm' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'VEN, MARÍA, MADRE DEL SEÑOR,',
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 7, chord: 'D' },
+            { position: 14, chord: 'A' },
+            { position: 23, chord: 'D' }
+          ]
+        },
+        {
+          line: 'VEN, MARÍA, A EVANGELIZAR. (BIS)',
+          chords: [
+            { position: 0, chord: 'G' },
+            { position: 8, chord: 'D' },
+            { position: 14, chord: 'F#m' },
+            { position: 23, chord: 'Bm' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Los rostros de los pobres son los rostros',
+          chords: []
+        },
+        {
+          line: 'de Dios que quiere que la Iglesia se',
+          chords: []
+        },
+        {
+          line: 'encarne en su dolor. El Espíritu Santo',
+          chords: []
+        },
+        {
+          line: 'congregue en la unidad a las',
+          chords: []
+        },
+        {
+          line: 'comunidades por evangelizar.',
+          chords: []
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Me has seducido, Señor',
+    url: 'me-has-seducido-senor',
+    paragraphs: [
+      [
+        {
+          line: 'Señor, no soy nada, ¿por qué me has',
+          chords: [
+            { position: 1, chord: 'Am' },
+            { position: 15, chord: 'Dm' },
+            { position: 26, chord: 'F' }
+          ]
+        },
+        {
+          line: 'llamado?. Has pasado por mi puerta y',
+          chords: [
+            { position: 0, chord: 'E7' },
+            { position: 16, chord: 'Dm' },
+            { position: 29, chord: 'G' }
+          ]
+        },
+        {
+          line: 'bien sabes que soy pobre y soy débil,',
+          chords: [
+            { position: 5, chord: 'C' },
+            { position: 19, chord: 'E7' },
+            { position: 31, chord: 'Am' }
+          ]
+        },
+        {
+          line: '¿Por qué te has fijado en mi?',
+          chords: [
+            { position: 7, chord: 'F' },
+            { position: 24, chord: 'E7' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'ME HAS SEDUCIDO, SEÑOR, CON TU',
+          chords: [
+            { position: 18, chord: 'Am' }
+          ]
+        },
+        {
+          line: 'MIRADA, ME HAS HABLADO AL',
+          chords: [
+            { position: 3, chord: 'F' },
+            { position: 17, chord: 'G' }
+          ]
+        },
+        {
+          line: 'CORAZÓN Y ME HAS QUERIDO',
+          chords: [
+            { position: 19, chord: 'C' }
+          ]
+        },
+        {
+          line: 'ES IMPOSIBLE CONOCERTE Y NO',
+          chords: [
+            { position: 7, chord: 'E7' }
+          ]
+        },
+        {
+          line: 'AMARTE, ES IMPOSIBLE AMARTE',
+          chords: [
+            { position: 1, chord: 'Am' },
+            { position: 14, chord: 'F' }
+          ]
+        },
+        {
+          line: 'Y NO SEGUIRTE, ME HAS SEDUCIDO',
+          chords: [
+            { position: 8, chord: 'E7' }
+          ]
+        },
+        {
+          line: 'SEÑOR.',
+          chords: [
+            { position: 2, chord: 'Am' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Señor, yo te sigo, y quiero darte lo que',
+          chords: []
+        },
+        {
+          line: 'pides, aunque hay veces que me cuesta',
+          chords: []
+        },
+        {
+          line: 'darlo todo, Tú lo sabes, yo soy tuyo.',
+          chords: []
+        },
+        {
+          line: 'Camina, Señor, junto a mi.',
+          chords: []
+        }
+      ],
+      [
+        {
+          line: 'Señor, hoy tu nombre es más que',
+          chords: []
+        },
+        {
+          line: 'palabras, es tu voz que hoy resuena en',
+          chords: []
+        },
+        {
+          line: 'mi interior, y me hablo en el silencio.',
+          chords: []
+        },
+        {
+          line: '¿Qué quieres que haga por ti?',
+          chords: []
+        }
+      ]
+    ]
+  },
+  {
+    title: 'Mensajero de la paz',
+    url: 'mensajero-de-la-paz',
+    paragraphs: [
+      [
+        {
+          line: 'El Señor eligió a sus discípulos,',
+          chords: [
+            { position: 4, chord: 'Am' },
+            { position: 11, chord: 'E7' },
+            { position: 24, chord: 'Am' }
+          ]
+        },
+        {
+          line: 'los mandó de dos en dos.',
+          chords: [
+            { position: 8, chord: 'F' },
+            { position: 14, chord: 'G' },
+            { position: 21, chord: 'C' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'ES HERMOSO VER BAJAR',
+          chords: [
+            { position: 7, chord: 'F' },
+            { position: 12, chord: 'G' },
+            { position: 17, chord: 'E7' }
+          ]
+        },
+        {
+          line: 'DE LA MONTAÑA',
+          chords: [
+            { position: 9, chord: 'Am' }
+          ]
+        },
+        {
+          line: 'LOS PIES DEL MENSAJERO',
+          chords: [
+            { position: 6, chord: 'F' },
+            { position: 19, chord: 'G' }
+          ]
+        },
+        {
+          line: 'DE LA PAZ (BIS)',
+          chords: [
+            { position: 7, chord: 'Am' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Los mandó a las ciudades y lugares donde',
+          chords: []
+        },
+        {
+          line: 'iba ir Él',
+          chords: []
+        }
+      ],
+      [
+        {
+          line: 'La cosecha es abundante, lo dijo el Señor',
+          chords: []
+        },
+        {
+          line: 'al partir.',
+          chords: []
+        }
+      ],
+      [
+        {
+          line: 'Pidan al dueño del campo que envíe más',
+          chords: []
+        },
+        {
+          line: 'obreros a su mies.',
+          chords: []
+        }
+      ],
+      [
+        {
+          line: 'Al entrar en una casa, saluden',
+          chords: []
+        },
+        {
+          line: 'anunciando la paz.',
+          chords: []
+        }
+      ],
+      [
+        {
+          line: 'El Reino de Dios está cerca, a todos',
+          chords: []
+        },
+        {
+          line: 'anunciarán.',
+          chords: []
+        }
+      ],
+      [
+        {
+          line: 'Quien recibe mi palabra, recibe al que',
+          chords: []
+        },
+        {
+          line: 'me envió.',
+          chords: []
+        }
+      ]
+    ]
   }
 ];

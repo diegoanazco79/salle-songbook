@@ -246,5 +246,17 @@ export const songsNamesList = [
   {
     title: 'Madre',
     url: 'madre'
+  },
+  {
+    title: 'Madre Misionera',
+    url: 'madre-misionera'
+  },
+  {
+    title: 'Me has seducido, Señor',
+    url: 'me-has-seducido-senor'
+  },
+  {
+    title: 'Mensajero de la paz',
+    url: 'mensajero-de-la-paz'
   }
 ];
