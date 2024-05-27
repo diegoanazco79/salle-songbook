@@ -274,5 +274,9 @@ export const songsNamesList = [
   {
     title: 'Vienen con alegría',
     url: 'vienen-con-alegria'
+  },
+  {
+    title: 'Siempre nuestro amigo (A veces)',
+    url: 'siempre-nuestro-amigo-a-veces'
   }
 ];

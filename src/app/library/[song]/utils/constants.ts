@@ -7670,5 +7670,190 @@ export const songList = [
         }
       ]
     ]
+  },
+  {
+    title: 'Siempre nuestro amigo (A veces)',
+    url: 'siempre-nuestro-amigo-a-veces',
+    paragraphs: [
+      [
+        {
+          line: 'A veces en algunos días grises',
+          chords: [
+            { position: 5, chord: 'D' },
+            { position: 14, chord: 'A' },
+            { position: 26, chord: 'Bm' }
+          ]
+        },
+        {
+          line: 'cuando pierdo la esperanza',
+          chords: [
+            { position: 7, chord: 'F#m' },
+            { position: 23, chord: 'G' }
+          ]
+        },
+        {
+          line: 'cuando no encuentro la paz.',
+          chords: [
+            { position: 7, chord: 'Em' },
+            { position: 24, chord: 'A' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'Me pregunto si es verdad que existes, si',
+          chords: []
+        },
+        {
+          line: 'realmente eres mi amigo, si lo eres, donde',
+          chords: []
+        },
+        {
+          line: 'estás.',
+          chords: []
+        }
+      ],
+      [
+        {
+          line: 'Es ese el momento cuando dudo, un',
+          chords: []
+        },
+        {
+          line: 'momento de vacío y de fría oscuridad.',
+          chords: []
+        },
+        {
+          line: 'Porque pienso que si en verdad no existes',
+          chords: []
+        },
+        {
+          line: 'mi vida sería vana como un libro sin final.',
+          chords: []
+        }
+      ],
+      [
+        {
+          line: 'PERO UNA VOZ SIENTO SURGIR',
+          chords: [
+            { position: 9, chord: 'D' },
+            { position: 23, chord: 'A' }
+          ]
+        },
+        {
+          line: 'DENTRO DE MÍ',
+          chords: [
+            { position: 10, chord: 'Bm' }
+          ]
+        },
+        {
+          line: 'QUE ME DEVUELVE TODA MI FE.',
+          chords: [
+            { position: 9, chord: 'F#m' },
+            { position: 24, chord: 'G' }
+          ]
+        },
+        {
+          line: 'ES LA VOZ DE DIOS MI AMIGO',
+          chords: [
+            { position: 0, chord: 'Em' },
+            { position: 23, chord: 'A' }
+          ]
+        },
+        {
+          line: 'Y ES ESA VOZ QUE CON DULZURA',
+          chords: [
+            { position: 10, chord: 'D' },
+            { position: 25, chord: 'A' }
+          ]
+        },
+        {
+          line: 'ME HABLARÁ DE PAZ.',
+          chords: [
+            { position: 14, chord: 'Bm' }
+          ]
+        },
+        {
+          line: 'LA QUE ME DICE QUE DIOS SERÁ',
+          chords: [
+            { position: 10, chord: 'F#m' },
+            { position: 24, chord: 'G' }
+          ]
+        },
+        {
+          line: 'SIEMPRE NUESTRO AMIGO.',
+          chords: [
+            { position: 0, chord: 'Em' },
+            { position: 17, chord: 'A' },
+            { position: 20, chord: 'D' }
+          ]
+        }
+      ],
+      [
+        {
+          line: 'A veces me cuentas que estás perdido',
+          chords: []
+        },
+        {
+          line: 'que no encuentras el camino, que te',
+          chords: []
+        },
+        {
+          line: 'devuelva la fe. Y me dices que Dios está',
+          chords: []
+        },
+        {
+          line: 'muy lejos, que no sabes acercarte, quieres',
+          chords: []
+        },
+        {
+          line: 'que se acerque Él.',
+          chords: []
+        }
+      ],
+      [
+        {
+          line: 'Ahora que yo encontré de nuevo al Señor',
+          chords: []
+        },
+        {
+          line: 'que me guía y que me enseña a amar, yo',
+          chords: []
+        },
+        {
+          line: 'te invito a que intentes encontrarlo, verás',
+          chords: []
+        },
+        {
+          line: 'que no está tan lejos y que Él te espera ya.',
+          chords: []
+        }
+      ],
+      [
+        {
+          line: 'Y TÚ TAMBIÉN HAS DE ESCUCHAR LA',
+          chords: []
+        },
+        {
+          line: 'DULCE VOZ QUE TE HABLARÁ LLENA DE',
+          chords: []
+        },
+        {
+          line: 'AMOR ES LA VOZ DE DIOS MI AMIGO.',
+          chords: []
+        },
+        {
+          line: 'Y ES ESA VOZ QUE CON DULZURA TE',
+          chords: []
+        },
+        {
+          line: 'HABLA DE PAZ, LO QUE TE DICE QUE',
+          chords: []
+        },
+        {
+          line: 'DIOS SERÁ SIEMPRE NUESTRO AMIGO.',
+          chords: []
+        }
+      ]
+    ]
   }
 ];
